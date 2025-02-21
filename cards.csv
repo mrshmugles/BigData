@@ -1,0 +1,1229 @@
+﻿set_name,set_number,card_number,name,sub_name,rarity,cost,inkwell,ink_color,strength,willpower,lore,classifications,img
+Azurite Sea,6,5,Simba,Happy-Go-Lucky,Common,2,TRUE,Amber,1,4,1,"['Storyborn', 'Hero', 'Prince']",6-5-en-sp.webp
+Azurite Sea,6,6,Chip,Friend Indeed,Common,3,TRUE,Amber,3,3,1,"['Storyborn', 'Hero']",6-6-en-sp.webp
+Azurite Sea,6,7,Dale,Friend in Need,Common,3,TRUE,Amber,3,4,2,"['Storyborn', 'Hero']",6-7-en-sp.webp
+Azurite Sea,6,10,Prince Naveen,Carefree Explorer,Common,2,TRUE,Amber,2,3,1,"['Storyborn', 'Hero', 'Prince']",6-10-en-sp.webp
+Azurite Sea,6,11,Chief Bogo,Gazelle Fan,Common,4,TRUE,Amber,4,4,1,['Storyborn'],6-11-en-sp.webp
+Azurite Sea,6,22,Rabbit,Indignant Pirate,Common,1,TRUE,Amber,1,2,1,"['Dreamborn', 'Ally', 'Pirate']",6-22-en-sp.webp
+Azurite Sea,6,23,Roo,Littlest Pirate,Common,2,TRUE,Amber,1,2,1,"['Dreamborn', 'Ally', 'Pirate']",6-23-en-sp.webp
+Azurite Sea,6,24,Mr. Litwak,Arcade Owner,Common,3,TRUE,Amber,2,3,1,['Storyborn'],6-24-en-sp.webp
+Azurite Sea,6,26,Stitch,Little Trickster,Common,2,TRUE,Emerald,1,3,1,"['Storyborn', 'Hero', 'Alien']",6-26-en-sp.webp
+Azurite Sea,6,27,Good Job!,,Common,1,TRUE,Amber,,,,[nan],6-27-en-sp.webp
+Azurite Sea,6,28,I Won't Give In,,Common,2,TRUE,Amber,,,,[nan],6-28-en-sp.webp
+Azurite Sea,6,31,Naveen's Ukulele,,Common,1,TRUE,Amber,,,,[nan],6-31-en-sp.webp
+Azurite Sea,6,34,Hundred Acre Island,Pooh's Home,Common,1,TRUE,Amber,,5,0,[nan],6-34-en-sp.webp
+Azurite Sea,6,38,Genie,Excited Shipbuilder,Common,3,TRUE,Amethyst,4,3,1,"['Storyborn', 'Ally']",6-38-en-sp.webp
+Azurite Sea,6,39,Sisu,In Her Element,Common,5,TRUE,Amethyst,3,6,2,"['Storyborn', 'Hero', 'Deity', 'Dragon']",6-39-en-sp.webp
+Azurite Sea,6,40,The White Rose,Jewel of the Garden,Common,3,TRUE,Amethyst,3,3,1,['Storyborn'],6-40-en-sp.webp
+Azurite Sea,6,41,Juju,Mama Odie's Companion,Common,2,TRUE,Amethyst,1,2,1,"['Storyborn', 'Ally']",6-41-en-sp.webp
+Azurite Sea,6,42,Rafiki,Shaman of the Savanna,Common,1,TRUE,Amethyst,2,2,1,"['Storyborn', 'Mentor', 'Sorcerer']",6-42-en-sp.webp
+Azurite Sea,6,43,Tinker Bell,Fast Flier,Common,3,TRUE,Amethyst,1,3,2,"['Storyborn', 'Ally', 'Fairy']",6-43-en-sp.webp
+Azurite Sea,6,44,The Carpenter,Dinner Companion,Common,2,TRUE,Amethyst,1,1,1,['Storyborn'],6-44-en-sp.webp
+Azurite Sea,6,45,Iago,Reappearing Parrot,Common,4,TRUE,Amethyst,4,2,1,"['Dreamborn', 'Ally']",6-45-en-sp.webp
+Azurite Sea,6,60,A Very Merry Unbirthday,,Common,1,TRUE,Amethyst,,,,[nan],6-60-en-sp.webp
+Azurite Sea,6,62,Making Magic,,Common,3,TRUE,Amethyst,,,,[nan],6-62-en-sp.webp
+Azurite Sea,6,66,Mad Hatter's Teapot,,Common,2,TRUE,Amethyst,,,,[nan],6-66-en-sp.webp
+Azurite Sea,6,68,Fairy Ship,Royal Vessel,Common,1,TRUE,Amethyst,,4,1,[nan],6-68-en-sp.webp
+Azurite Sea,6,75,Fred,Mascot by Day,Common,1,TRUE,Emerald,1,1,1,"['Storyborn', 'Hero']",6-75-en-sp.webp
+Azurite Sea,6,76,Tootles,Lost Boy,Common,1,TRUE,Emerald,2,2,1,"['Storyborn', 'Ally']",6-76-en-sp.webp
+Azurite Sea,6,77,Dawson,Basil's Assistant,Common,4,TRUE,Emerald,3,4,2,"['Storyborn', 'Ally']",6-77-en-sp.webp
+Azurite Sea,6,78,Heathcliff,Stoic Butler,Common,4,TRUE,Emerald,3,3,2,"['Storyborn', 'Ally']",6-78-en-sp.webp
+Azurite Sea,6,79,Basil,Hypnotized Mouse,Common,3,TRUE,Emerald,3,2,1,"['Dreamborn', 'Hero', 'Detective']",6-79-en-sp.webp
+Azurite Sea,6,87,Alistair Krei,Ambitious Entrepreneur,Common,3,TRUE,Emerald,2,4,1,"['Storyborn', 'Inventor']",6-87-en-sp.webp
+Azurite Sea,6,88,Gazelle,Angel with Horns,Common,2,TRUE,Emerald,1,2,1,"['Dreamborn', 'Ally']",6-88-en-sp.webp
+Azurite Sea,6,94,Prepare to Board!,,Common,1,TRUE,Emerald,,,,[nan],6-94-en-sp.webp
+Azurite Sea,6,95,Heffalumps and Woozles,,Common,2,TRUE,Emerald,,,,[nan],6-95-en-sp.webp
+Azurite Sea,6,99,Galactic Communicator,,Common,2,FALSE,Emerald,,,,[nan],6-99-en-sp.webp
+Azurite Sea,6,101,Perilous Maze,Watery Labyrinth,Common,3,TRUE,Emerald,,8,1,[nan],6-101-en-sp.webp
+Azurite Sea,6,105,Kakamora,Pirate Pitcher,Common,2,TRUE,Ruby,1,3,1,"['Storyborn', 'Pirate']",6-105-en-sp.webp
+Azurite Sea,6,111,Michael Darling,Playful Swordsman,Common,1,TRUE,Ruby,2,2,1,"['Storyborn', 'Ally', 'Pirate']",6-111-en-sp.webp
+Azurite Sea,6,112,Aladdin,Fearless Navigator,Common,2,TRUE,Ruby,2,3,1,"['Storyborn', 'Hero', 'Prince']",6-112-en-sp.webp
+Azurite Sea,6,113,Markowski,Space Trooper,Common,4,TRUE,Ruby,3,2,2,"['Storyborn', 'Ally']",6-113-en-sp.webp
+Azurite Sea,6,114,Abu,Bold Helmsman,Common,5,FALSE,Ruby,4,4,2,"['Storyborn', 'Ally']",6-114-en-sp.webp
+Azurite Sea,6,115,Mickey Mouse,Courageous Sailor,Common,3,TRUE,Ruby,2,4,1,"['Dreamborn', 'Hero']",6-115-en-sp.webp
+Azurite Sea,6,116,Adorabeezle Winterpop,Ice Rocket Racer,Common,3,TRUE,Ruby,1,5,1,"['Storyborn', 'Hero', 'Racer']",6-116-en-sp.webp
+Azurite Sea,6,117,Moana,Self-Taught Sailor,Common,1,TRUE,Ruby,3,2,1,"['Dreamborn', 'Hero', 'Princess', 'Pirate']",6-117-en-sp.webp
+Azurite Sea,6,128,Thievery,,Common,1,TRUE,Ruby,,,,[nan],6-128-en-sp.webp
+Azurite Sea,6,129,Lead the Way,,Common,2,TRUE,Ruby,,,,[nan],6-129-en-sp.webp
+Azurite Sea,6,133,Gold Coin,,Common,1,TRUE,Ruby,,,,[nan],6-133-en-sp.webp
+Azurite Sea,6,136,Skull Rock,Isolated Fortress,Common,2,TRUE,Ruby,,6,0,[nan],6-136-en-sp.webp
+Azurite Sea,6,137,B.E.N.,Eccentric Robot,Common,4,TRUE,Sapphire,4,3,2,"['Storyborn', 'Ally', 'Robot', 'Pirate']",6-137-en-sp.webp
+Azurite Sea,6,138,Aunt Cass,Biggest Fan,Common,2,TRUE,Sapphire,1,3,1,"['Storyborn', 'Mentor']",6-138-en-sp.webp
+Azurite Sea,6,139,Gadget Hackwrench,Creative Thinker,Common,3,TRUE,Sapphire,1,4,1,"['Storyborn', 'Ally', 'Inventor']",6-139-en-sp.webp
+Azurite Sea,6,147,Sour Bill,Surly Henchman,Common,3,TRUE,Sapphire,2,3,2,"['Storyborn', 'Ally']",6-147-en-sp.webp
+Azurite Sea,6,148,Nick Wilde,Soggy Fox,Common,1,TRUE,Sapphire,1,2,1,"['Storyborn', 'Ally']",6-148-en-sp.webp
+Azurite Sea,6,151,Gadget Hackwrench,Perceptive Mouse,Common,2,TRUE,Sapphire,2,3,1,"['Storyborn', 'Ally', 'Inventor']",6-151-en-sp.webp
+Azurite Sea,6,158,Yokai,Professor Callaghan,Common,1,TRUE,Sapphire,2,2,1,"['Storyborn', 'Villain', 'Inventor']",6-158-en-sp.webp
+Azurite Sea,6,163,Sail The Azurite Sea,,Common,2,TRUE,Sapphire,,,,[nan],6-163-en-sp.webp
+Azurite Sea,6,164,Helping Hand,,Common,1,FALSE,Sapphire,,,,[nan],6-164-en-sp.webp
+Azurite Sea,6,166,Baymax's Healthcare Chip,,Common,2,TRUE,Sapphire,,,,[nan],6-166-en-sp.webp
+Azurite Sea,6,168,Jumbo Pop,,Common,3,FALSE,Sapphire,,,,[nan],6-168-en-sp.webp
+Azurite Sea,6,170,Institute of Technology,Prestigious University,Common,1,TRUE,Sapphire,0,5,0,[nan],6-170-en-sp.webp
+Azurite Sea,6,171,Kakamora,Long-Range Specialist,Common,1,FALSE,Steel,,2,1,"['Storyborn', 'Pirate']",6-171-en-sp.webp
+Azurite Sea,6,173,Jim Hawkins,Stubborn Cabin Boy,Common,2,TRUE,Steel,,4,1,"['Storyborn', 'Hero']",6-173-en-sp.webp
+Azurite Sea,6,177,Mullins,Seasoned Shipmate,Common,5,TRUE,Steel,6,4,1,"['Storyborn', 'Ally', 'Pirate']",6-177-en-sp.webp
+Azurite Sea,6,178,Kohut,Trusted Marine,Common,2,TRUE,Steel,2,3,1,"['Storyborn', 'Ally']",6-178-en-sp.webp
+Azurite Sea,6,179,King Hubert,Phillip's Father,Common,3,TRUE,Steel,3,4,1,"['Storyborn', 'Mentor', 'King']",6-179-en-sp.webp
+Azurite Sea,6,180,Hercules,Unwavering Demigod,Common,4,TRUE,Steel,2,4,2,"['Dreamborn', 'Hero', 'Prince']",6-180-en-sp.webp
+Azurite Sea,6,181,John Silver,Ship's Cook,Common,3,TRUE,Steel,3,3,1,"['Storyborn', 'Villain', 'Alien', 'Pirate', 'Captain']",6-181-en-sp.webp
+Azurite Sea,6,182,Mr. Arrow,Legacy's First Mate,Common,2,TRUE,Steel,1,2,2,"['Storyborn', 'Ally', 'Alien']",6-182-en-sp.webp
+Azurite Sea,6,196,I'm Still Here,,Common,3,TRUE,Steel,,,,[nan],6-196-en-sp.webp
+Azurite Sea,6,197,Twin Fire,,Common,2,FALSE,Steel,,,,[nan],6-197-en-sp.webp
+Azurite Sea,6,202,Sunglasses,,Common,4,TRUE,Steel,,,,[nan],6-202-en-sp.webp
+Azurite Sea,6,204,Galactic Council Chamber,Courtroom,Common,3,TRUE,Steel,,7,1,[nan],6-204-en-sp.webp
+Into the Inklands,3,1,Baloo,von Bruinwald XIII,Rare,3,FALSE,Amber,0,3,1,"['Dreamborn', 'Hero']",3-1-en-sp.webp
+Into the Inklands,3,2,Bernard,Brand-New Agent,Rare,4,TRUE,Amber,1,5,2,"['Storyborn', 'Hero']",3-2-en-sp.webp
+Into the Inklands,3,3,Chernabog,Evildoer,Super_rare,10,FALSE,Amber,9,9,3,"['Storyborn', 'Villain']",3-3-en-sp.webp
+Into the Inklands,3,4a,Dalmatian Puppy,Tail Wagger,Common,2,TRUE,Amber,2,3,1,"['Storyborn', 'Puppy']",3-4a-en-sp.webp
+Into the Inklands,3,4b,Dalmatian Puppy,Tail Wagger,Common,2,TRUE,Amber,2,3,1,"['Storyborn', 'Puppy']",3-4b-en-sp.webp
+Into the Inklands,3,4c,Dalmatian Puppy,Tail Wagger,Common,2,TRUE,Amber,2,3,1,"['Storyborn', 'Puppy']",3-4c-en-sp.webp
+Into the Inklands,3,4d,Dalmatian Puppy,Tail Wagger,Common,2,TRUE,Amber,2,3,1,"['Storyborn', 'Puppy']",3-4d-en-sp.webp
+Into the Inklands,3,4e,Dalmatian Puppy,Tail Wagger,Common,2,TRUE,Amber,2,3,1,"['Storyborn', 'Puppy']",3-4e-en-sp.webp
+Into the Inklands,3,5,Joshua Sweet,The Doctor,Common,4,TRUE,Amber,1,5,2,"['Storyborn', 'Ally']",3-5-en-sp.webp
+Into the Inklands,3,6,Kida,Atlantean,Common,1,TRUE,Amber,2,2,1,"['Storyborn', 'Hero', 'Princess']",3-6-en-sp.webp
+Into the Inklands,3,7,Kida,Protector of Atlantis,Legendary,5,TRUE,Amber,3,5,2,"['Floodborn', 'Hero', 'Princess']",3-7-en-sp.webp
+Into the Inklands,3,8,Lucky,The 15th Puppy,Rare,4,FALSE,Amber,2,3,1,"['Storyborn', 'Puppy']",3-8-en-sp.webp
+Into the Inklands,3,9,Minnie Mouse,Musical Artist,Rare,2,TRUE,Amber,1,3,1,"['Dreamborn', 'Hero']",3-9-en-sp.webp
+Into the Inklands,3,10,Miss Bianca,Rescue Aid Society Agent,Common,2,TRUE,Amber,2,2,1,"['Storyborn', 'Hero']",3-10-en-sp.webp
+Into the Inklands,3,11,Mr. Snoops,Inept Businessman,Common,6,TRUE,Amber,4,8,2,"['Dreamborn', 'Ally']",3-11-en-sp.webp
+Into the Inklands,3,12,Nani,Protective Sister,Uncommon,5,TRUE,Amber,3,6,2,"['Storyborn', 'Hero']",3-12-en-sp.webp
+Into the Inklands,3,13,Orville,Ace Pilot,Common,2,TRUE,Amber,1,4,1,"['Storyborn', 'Ally']",3-13-en-sp.webp
+Into the Inklands,3,14,Patch,Intimidating Pup,Common,4,TRUE,Amber,3,4,1,"['Storyborn', 'Puppy']",3-14-en-sp.webp
+Into the Inklands,3,15,Perdita,Devoted Mother,Legendary,6,FALSE,Amber,1,6,2,"['Storyborn', 'Hero']",3-15-en-sp.webp
+Into the Inklands,3,16,Piglet,Pooh Pirate Captain,Super_rare,2,TRUE,Amber,2,2,1,"['Dreamborn', 'Hero', 'Pirate', 'Captain']",3-16-en-sp.webp
+Into the Inklands,3,17,Pluto,Determined Defender,Rare,7,TRUE,Amber,3,8,2,"['Floodborn', 'Ally']",3-17-en-sp.webp
+Into the Inklands,3,18,Pluto,Friendly Pooch,Uncommon,1,FALSE,Amber,0,2,1,"['Storyborn', 'Ally']",3-18-en-sp.webp
+Into the Inklands,3,19,Pongo,Determined Father,Super_rare,3,TRUE,Amber,3,2,1,"['Storyborn', 'Hero']",3-19-en-sp.webp
+Into the Inklands,3,20,Queen of Hearts,Wonderland Empress,Uncommon,3,TRUE,Amber,3,3,1,"['Dreamborn', 'Villain', 'Queen']",3-20-en-sp.webp
+Into the Inklands,3,21,Rolly,Hungry Pup,Uncommon,3,TRUE,Amber,3,3,1,"['Storyborn', 'Puppy']",3-21-en-sp.webp
+Into the Inklands,3,22,Tinker Bell,Generous Fairy,Uncommon,4,FALSE,Amber,1,4,1,"['Storyborn', 'Ally', 'Fairy']",3-22-en-sp.webp
+Into the Inklands,3,23,Wendy Darling,Talented Sailor,Uncommon,2,TRUE,Amber,1,3,2,"['Dreamborn', 'Hero']",3-23-en-sp.webp
+Into the Inklands,3,24,99 Puppies,,Uncommon,5,FALSE,Amber,,,,[nan],3-24-en-sp.webp
+Into the Inklands,3,25,Boss's Orders,,Common,1,TRUE,Amber,,,,[nan],3-25-en-sp.webp
+Into the Inklands,3,26,Heal What Has Been Hurt,,Common,3,TRUE,Amber,,,,[nan],3-26-en-sp.webp
+Into the Inklands,3,27,Quick Patch,,Common,1,TRUE,Amber,,,,[nan],3-27-en-sp.webp
+Into the Inklands,3,28,The Bare Necessities,,Rare,2,TRUE,Amber,,,,[nan],3-28-en-sp.webp
+Into the Inklands,3,29,Cleansing Rainwater,,Common,2,TRUE,Amber,,,,[nan],3-29-en-sp.webp
+Into the Inklands,3,30,Heart of Atlantis,,Rare,4,FALSE,Amber,,,,[nan],3-30-en-sp.webp
+Into the Inklands,3,31,Wildcat's Wrench,,Uncommon,2,TRUE,Amber,,,,[nan],3-31-en-sp.webp
+Into the Inklands,3,32,Never Land,Mermaid Lagoon,Common,1,TRUE,Amber,,4,1,[nan],3-32-en-sp.webp
+Into the Inklands,3,33,Pride Lands,Pride Rock,Rare,2,FALSE,Amber,,7,1,[nan],3-33-en-sp.webp
+Into the Inklands,3,34,Tiana's Palace,Jazz Restaurant,Uncommon,3,FALSE,Amber,,8,1,[nan],3-34-en-sp.webp
+Into the Inklands,3,35,Alice,Tea Alchemist,Super_rare,6,TRUE,Amethyst,4,4,2,"['Dreamborn', 'Hero', 'Sorcerer']",3-35-en-sp.webp
+Into the Inklands,3,36,Chernabog's Followers,Creatures of Evil,Uncommon,1,TRUE,Amethyst,2,1,1,"['Storyborn', 'Ally']",3-36-en-sp.webp
+Into the Inklands,3,37,Diablo,Faithful Pet,Common,1,TRUE,Amethyst,2,1,1,"['Dreamborn', 'Ally']",3-37-en-sp.webp
+Into the Inklands,3,38,Genie,Supportive Friend,Super_rare,4,FALSE,Amethyst,3,5,1,"['Storyborn', 'Ally']",3-38-en-sp.webp
+Into the Inklands,3,39,Hydros,Ice Titan,Uncommon,3,TRUE,Amethyst,2,2,2,"['Storyborn', 'Titan']",3-39-en-sp.webp
+Into the Inklands,3,40,Iago,Pretty Polly,Common,3,TRUE,Amethyst,3,2,1,"['Storyborn', 'Ally']",3-40-en-sp.webp
+Into the Inklands,3,41,Jafar,Lamp Thief,Uncommon,3,TRUE,Amethyst,2,2,2,"['Storyborn', 'Villain', 'Sorcerer']",3-41-en-sp.webp
+Into the Inklands,3,42,Jafar,Striking Illusionist,Legendary,7,TRUE,Amethyst,4,5,1,"['Floodborn', 'Villain', 'Sorcerer']",3-42-en-sp.webp
+Into the Inklands,3,43,Lena Sabrewing,Rebellious Teenager,Common,2,TRUE,Amethyst,1,3,1,"['Storyborn', 'Hero', 'Sorcerer']",3-43-en-sp.webp
+Into the Inklands,3,44,Magic Broom,Dancing Duster,Uncommon,6,FALSE,Amethyst,3,3,1,"['Dreamborn', 'Broom']",3-44-en-sp.webp
+Into the Inklands,3,45,Magic Broom,Swift Cleaner,Common,5,FALSE,Amethyst,4,4,2,"['Dreamborn', 'Broom']",3-45-en-sp.webp
+Into the Inklands,3,46,Magic Broom,The Big Sweeper,Common,3,TRUE,Amethyst,1,5,1,"['Dreamborn', 'Broom']",3-46-en-sp.webp
+Into the Inklands,3,47,Magic Carpet,Flying Rug,Common,2,TRUE,Amethyst,2,1,1,"['Storyborn', 'Ally']",3-47-en-sp.webp
+Into the Inklands,3,48,Magica De Spell,Ambitious Witch,Common,2,TRUE,Amethyst,2,3,1,"['Storyborn', 'Villain', 'Sorcerer']",3-48-en-sp.webp
+Into the Inklands,3,49,Magica De Spell,The Midas Touch,Super_rare,7,FALSE,Amethyst,4,6,0,"['Floodborn', 'Villain', 'Sorcerer']",3-49-en-sp.webp
+Into the Inklands,3,50,Magica De Spell,Thieving Sorceress,Uncommon,4,TRUE,Amethyst,3,4,2,"['Storyborn', 'Villain', 'Sorcerer']",3-50-en-sp.webp
+Into the Inklands,3,51,Maleficent,Mistress of All Evil,Legendary,5,TRUE,Amethyst,2,3,2,"['Storyborn', 'Villain', 'Sorcerer']",3-51-en-sp.webp
+Into the Inklands,3,52,Mama Odie,Voice of Wisdom,Uncommon,6,FALSE,Amethyst,3,6,2,"['Dreamborn', 'Ally', 'Sorcerer']",3-52-en-sp.webp
+Into the Inklands,3,53,Pua,Potbellied Buddy,Common,2,TRUE,Amethyst,2,2,2,"['Storyborn', 'Ally']",3-53-en-sp.webp
+Into the Inklands,3,54,Rafiki,Mystical Fighter,Rare,1,TRUE,Amethyst,0,2,1,"['Dreamborn', 'Mentor', 'Sorcerer']",3-54-en-sp.webp
+Into the Inklands,3,55,Stratos,Tornado Titan,Rare,5,TRUE,Amethyst,4,4,0,"['Storyborn', 'Titan']",3-55-en-sp.webp
+Into the Inklands,3,56,The Firebird,Force of Destruction,Common,4,TRUE,Amethyst,6,2,1,"['Dreamborn', 'Villain']",3-56-en-sp.webp
+Into the Inklands,3,57,The Queen,Hateful Rival,Common,3,TRUE,Amethyst,4,3,1,"['Dreamborn', 'Villain', 'Queen', 'Sorcerer']",3-57-en-sp.webp
+Into the Inklands,3,58,Treasure Guardian,Protector of the Cave,Rare,4,FALSE,Amethyst,6,6,2,['Storyborn'],3-58-en-sp.webp
+Into the Inklands,3,59,Ursula,Sea Witch,Rare,3,FALSE,Amethyst,3,3,1,"['Dreamborn', 'Villain', 'Sorcerer']",3-59-en-sp.webp
+Into the Inklands,3,60,Bestow a Gift,,Common,1,TRUE,Amethyst,,,,[nan],3-60-en-sp.webp
+Into the Inklands,3,61,It Calls Me,,Uncommon,1,TRUE,Amethyst,,,,[nan],3-61-en-sp.webp
+Into the Inklands,3,62,Last-Ditch Effort,,Uncommon,3,FALSE,Amethyst,,,,[nan],3-62-en-sp.webp
+Into the Inklands,3,63,The Boss is on a Roll,,Rare,3,TRUE,Amethyst,,,,[nan],3-63-en-sp.webp
+Into the Inklands,3,64,The Lamp,,Rare,2,FALSE,Amethyst,,,,[nan],3-64-en-sp.webp
+Into the Inklands,3,65,The Sorcerer's Hat,,Rare,2,TRUE,Amethyst,,,,[nan],3-65-en-sp.webp
+Into the Inklands,3,66,Forbidden Mountain,Maleficent's Castle,Common,2,TRUE,Amethyst,,6,1,[nan],3-66-en-sp.webp
+Into the Inklands,3,67,The Queen's Castle,Mirror Chamber,Rare,4,TRUE,Amethyst,,7,2,[nan],3-67-en-sp.webp
+Into the Inklands,3,68,The Sorcerer's Tower,Wondrous Workspace,Uncommon,3,TRUE,Amethyst,,7,0,[nan],3-68-en-sp.webp
+Into the Inklands,3,69,Cubby,Mighty Lost Boy,Common,4,TRUE,Emerald,3,5,1,"['Storyborn', 'Ally']",3-69-en-sp.webp
+Into the Inklands,3,70,Cursed Merfolk,Ursula's Handiwork,Rare,1,FALSE,Emerald,0,1,2,['Storyborn'],3-70-en-sp.webp
+Into the Inklands,3,71,Don Karnage,Prince of Pirates,Common,5,TRUE,Emerald,4,4,2,"['Dreamborn', 'Villain', 'Prince', 'Pirate']",3-71-en-sp.webp
+Into the Inklands,3,72,Flotsam,Riffraff,Common,3,TRUE,Emerald,5,2,1,"['Dreamborn', 'Ally']",3-72-en-sp.webp
+Rise of the Floodborn,2,7,Eudora,Accomplished Seamstress,Common,5,TRUE,Amber,1,9,2,"['Storyborn', 'Ally']",2-7-en-sp.webp
+Rise of the Floodborn,2,10,Grumpy,Bad-Tempered,Common,4,TRUE,Amber,3,4,1,"['Storyborn', 'Ally', 'Seven Dwarfs']",2-10-en-sp.webp
+Rise of the Floodborn,2,11,Happy,Good-Natured,Common,5,TRUE,Amber,3,5,2,"['Storyborn', 'Ally', 'Seven Dwarfs']",2-11-en-sp.webp
+Rise of the Floodborn,2,15,Mulan,Free Spirit,Common,3,TRUE,Amber,2,3,2,"['Dreamborn', 'Hero', 'Princess']",2-15-en-sp.webp
+Rise of the Floodborn,2,18,Piglet,Very Small Animal,Common,3,TRUE,Amber,2,4,2,"['Storyborn', 'Ally']",2-18-en-sp.webp
+Rise of the Floodborn,2,20,Rapunzel,Sunshine,Common,2,TRUE,Amber,1,4,1,"['Dreamborn', 'Hero', 'Princess']",2-20-en-sp.webp
+Rise of the Floodborn,2,21,Sleepy,Nodding Off,Common,2,TRUE,Amber,2,3,2,"['Storyborn', 'Ally', 'Seven Dwarfs']",2-21-en-sp.webp
+Rise of the Floodborn,2,22,Sneezy,Very Allergic,Common,2,TRUE,Amber,1,4,1,"['Storyborn', 'Ally', 'Seven Dwarfs']",2-22-en-sp.webp
+Rise of the Floodborn,2,23,Snow White,Lost in the Forest,Common,2,TRUE,Amber,2,3,1,"['Storyborn', 'Hero', 'Princess']",2-23-en-sp.webp
+Rise of the Floodborn,2,27,The Queen,Regal Monarch,Common,1,TRUE,Amber,2,2,1,"['Storyborn', 'Villain', 'Queen']",2-27-en-sp.webp
+Rise of the Floodborn,2,28,Hold Still,,Common,2,TRUE,Amber,,,,[nan],2-28-en-sp.webp
+Rise of the Floodborn,2,30,Painting the Roses Red,,Common,2,TRUE,Amber,,,,[nan],2-30-en-sp.webp
+Rise of the Floodborn,2,37,Chip the Teacup,Gentle Soul,Common,1,TRUE,Amethyst,2,2,1,"['Storyborn', 'Ally']",2-37-en-sp.webp
+Rise of the Floodborn,2,38,Dr. Facilier,Savvy Opportunist,Common,4,TRUE,Amethyst,4,2,1,"['Storyborn', 'Villain', 'Sorcerer']",2-38-en-sp.webp
+Rise of the Floodborn,2,39,Elsa,Gloves Off,Common,4,TRUE,Amethyst,3,4,1,"['Storyborn', 'Hero', 'Queen', 'Sorcerer']",2-39-en-sp.webp
+Rise of the Floodborn,2,42,Fairy Godmother,Pure Heart,Common,3,TRUE,Amethyst,3,4,1,"['Storyborn', 'Ally', 'Fairy']",2-42-en-sp.webp
+Rise of the Floodborn,2,44,Jiminy Cricket,Pinocchio's Conscience,Common,2,TRUE,Amethyst,1,2,1,"['Storyborn', 'Mentor']",2-44-en-sp.webp
+Rise of the Floodborn,2,45,Kuzco,Wanted Llama,Common,2,TRUE,Amethyst,1,2,1,"['Storyborn', 'King']",2-45-en-sp.webp
+Rise of the Floodborn,2,50,Merlin,Crab,Common,3,TRUE,Amethyst,3,3,1,"['Storyborn', 'Mentor', 'Sorcerer']",2-50-en-sp.webp
+Rise of the Floodborn,2,54,Merlin,Squirrel,Common,2,TRUE,Amethyst,2,1,1,"['Storyborn', 'Mentor', 'Sorcerer']",2-54-en-sp.webp
+Rise of the Floodborn,2,59,Winnie the Pooh,Hunny Wizard,Common,5,TRUE,Amethyst,5,5,2,"['Dreamborn', 'Hero', 'Sorcerer']",2-59-en-sp.webp
+Rise of the Floodborn,2,63,I'm Stuck!,,Common,1,TRUE,Amethyst,,,,[nan],2-63-en-sp.webp
+Rise of the Floodborn,2,64,Legend of the Sword in the Stone,,Common,2,TRUE,Amethyst,,,,[nan],2-64-en-sp.webp
+Rise of the Floodborn,2,66,Croquet Mallet,,Common,1,FALSE,Amethyst,,,,[nan],2-66-en-sp.webp
+Rise of the Floodborn,2,69,Arthur,Trained Swordsman,Common,4,TRUE,Emerald,4,3,2,"['Dreamborn', 'Hero']",2-69-en-sp.webp
+Rise of the Floodborn,2,78,Donald Duck,Sleepwalker,Common,3,TRUE,Emerald,0,5,1,['Storyborn'],2-78-en-sp.webp
+Rise of the Floodborn,2,80,Enchantress,Unexpected Judge,Common,2,TRUE,Emerald,1,1,2,"['Dreamborn', 'Sorcerer']",2-80-en-sp.webp
+Rise of the Floodborn,2,81,Flynn Rider,Confident Vagabond,Common,1,TRUE,Emerald,1,3,1,"['Storyborn', 'Hero', 'Prince']",2-81-en-sp.webp
+Rise of the Floodborn,2,83,Gaston,Scheming Suitor,Common,2,TRUE,Emerald,1,3,1,"['Storyborn', 'Villain']",2-83-en-sp.webp
+Rise of the Floodborn,2,87,Panic,Underworld Imp,Common,3,FALSE,Emerald,2,3,2,"['Storyborn', 'Ally']",2-87-en-sp.webp
+Rise of the Floodborn,2,90,Queen of Hearts,Quick-Tempered,Common,2,FALSE,Emerald,1,2,2,"['Dreamborn', 'Villain', 'Queen']",2-90-en-sp.webp
+Rise of the Floodborn,2,91,Ratigan,Criminal Mastermind,Common,4,TRUE,Emerald,4,1,2,"['Dreamborn', 'Villain']",2-91-en-sp.webp
+Rise of the Floodborn,2,92,Ray,Easygoing Firefly,Common,5,TRUE,Emerald,3,3,3,"['Storyborn', 'Ally']",2-92-en-sp.webp
+Rise of the Floodborn,2,95,Virana,Fang Chief,Common,5,TRUE,Emerald,5,5,2,"['Storyborn', 'Villain', 'Queen']",2-95-en-sp.webp
+Rise of the Floodborn,2,98,Hypnotize,,Common,3,TRUE,Emerald,,,,[nan],2-98-en-sp.webp
+Rise of the Floodborn,2,99,Improvise,,Common,1,TRUE,Emerald,,,,[nan],2-99-en-sp.webp
+Rise of the Floodborn,2,103,Baloo,Fun-Loving Bear,Common,3,TRUE,Ruby,4,3,1,"['Storyborn', 'Ally']",2-103-en-sp.webp
+Rise of the Floodborn,2,104,Boun,Precocious Entrepreneur,Common,2,TRUE,Ruby,2,3,1,"['Storyborn', 'Ally']",2-104-en-sp.webp
+Rise of the Floodborn,2,107,Felicia,Always Hungry,Common,1,TRUE,Ruby,3,1,0,"['Dreamborn', 'Ally']",2-107-en-sp.webp
+Rise of the Floodborn,2,108,Fidget,Ratigan's Henchman,Common,3,TRUE,Ruby,3,2,1,"['Dreamborn', 'Ally']",2-108-en-sp.webp
+Rise of the Floodborn,2,111,Lady Tremaine,Overbearing Matriarch,Common,2,FALSE,Ruby,2,2,1,"['Storyborn', 'Villain']",2-111-en-sp.webp
+Rise of the Floodborn,2,115,Minnie Mouse,Zipping Around,Common,2,TRUE,Ruby,3,2,1,"['Storyborn', 'Hero']",2-115-en-sp.webp
+Rise of the Floodborn,2,117,Mulan,Soldier in Training,Common,4,FALSE,Ruby,4,3,1,"['Storyborn', 'Hero', 'Princess']",2-117-en-sp.webp
+Rise of the Floodborn,2,122,Raya,Headstrong,Common,3,TRUE,Ruby,2,3,1,"['Storyborn', 'Hero', 'Princess']",2-122-en-sp.webp
+Rise of the Floodborn,2,127,Tigger,One of a Kind,Common,3,TRUE,Ruby,3,3,1,"['Dreamborn', 'Tigger']",2-127-en-sp.webp
+Rise of the Floodborn,2,129,Go the Distance,,Common,2,TRUE,Ruby,,,,[nan],2-129-en-sp.webp
+Rise of the Floodborn,2,132,What Did You Call Me?,,Common,1,TRUE,Ruby,,,,[nan],2-132-en-sp.webp
+Rise of the Floodborn,2,135,Peter Pan's Dagger,,Common,2,FALSE,Ruby,,,,[nan],2-135-en-sp.webp
+Rise of the Floodborn,2,139,Basil,Of Baker Street,Common,2,TRUE,Sapphire,2,2,1,"['Dreamborn', 'Hero', 'Detective']",2-139-en-sp.webp
+Rise of the Floodborn,2,140,Basil,Perceptive Investigator,Common,4,TRUE,Sapphire,3,4,2,"['Storyborn', 'Hero', 'Detective']",2-140-en-sp.webp
+Rise of the Floodborn,2,144,Cruella De Vil,Fashionable Cruiser,Common,2,TRUE,Sapphire,3,2,1,"['Dreamborn', 'Villain']",2-144-en-sp.webp
+Rise of the Floodborn,2,146,Duke Weaselton,Small-Time Crook,Common,2,TRUE,Sapphire,1,2,2,['Storyborn'],2-146-en-sp.webp
+Rise of the Floodborn,2,150,James,Role Model,Common,4,FALSE,Sapphire,3,3,2,"['Storyborn', 'Mentor']",2-150-en-sp.webp
+Rise of the Floodborn,2,151,Jasmine,Heir of Agrabah,Common,1,TRUE,Sapphire,1,2,1,"['Storyborn', 'Hero', 'Princess']",2-151-en-sp.webp
+Rise of the Floodborn,2,156,Owl,Logical Lecturer,Common,1,TRUE,Sapphire,2,2,1,"['Storyborn', 'Ally']",2-156-en-sp.webp
+Rise of the Floodborn,2,158,Rabbit,Reluctant Host,Common,5,TRUE,Sapphire,4,6,2,"['Storyborn', 'Ally']",2-158-en-sp.webp
+Rise of the Floodborn,2,160,The Nokk,Water Spirit,Common,4,TRUE,Sapphire,4,3,1,['Storyborn'],2-160-en-sp.webp
+Rise of the Floodborn,2,165,Nothing to Hide,,Common,1,TRUE,Sapphire,,,,[nan],2-165-en-sp.webp
+Rise of the Floodborn,2,167,Gumbo Pot,,Common,2,TRUE,Sapphire,,,,[nan],2-167-en-sp.webp
+Rise of the Floodborn,2,169,Pawpsicle,,Common,1,TRUE,Sapphire,,,,[nan],2-169-en-sp.webp
+Rise of the Floodborn,2,171,Beast,Forbidding Recluse,Common,4,TRUE,Steel,3,4,1,"['Dreamborn', 'Hero', 'Prince']",2-171-en-sp.webp
+Rise of the Floodborn,2,174,Benja,Guardian of the Dragon Gem,Common,3,TRUE,Steel,2,3,2,"['Storyborn', 'Mentor', 'King']",2-174-en-sp.webp
+Rise of the Floodborn,2,176,Cinderella,Knight in Training,Common,2,TRUE,Steel,2,2,1,"['Dreamborn', 'Hero', 'Princess', 'Knight']",2-176-en-sp.webp
+Rise of the Floodborn,2,178,Donald Duck,Deep-Sea Diver,Common,5,TRUE,Steel,6,5,1,"['Dreamborn', 'Hero']",2-178-en-sp.webp
+Rise of the Floodborn,2,182,Hercules,Hero in Training,Common,2,TRUE,Steel,2,3,1,"['Storyborn', 'Hero', 'Prince']",2-182-en-sp.webp
+Rise of the Floodborn,2,184,Jafar,Royal Vizier,Common,2,TRUE,Steel,3,2,1,"['Storyborn', 'Villain', 'Sorcerer']",2-184-en-sp.webp
+Rise of the Floodborn,2,188,Magic Broom,Industrial Model,Common,3,TRUE,Steel,2,3,1,"['Dreamborn', 'Broom']",2-188-en-sp.webp
+Rise of the Floodborn,2,191,Prince Naveen,Penniless Royal,Common,3,TRUE,Steel,4,3,1,"['Storyborn', 'Prince']",2-191-en-sp.webp
+Rise of the Floodborn,2,197,Tiana,Diligent Waitress,Common,1,TRUE,Steel,1,3,1,"['Storyborn', 'Hero', 'Princess']",2-197-en-sp.webp
+Rise of the Floodborn,2,198,Charge!,,Common,2,TRUE,Steel,,,,[nan],2-198-en-sp.webp
+Rise of the Floodborn,2,199,Let the Storm Rage On,,Common,3,FALSE,Steel,,,,[nan],2-199-en-sp.webp
+Rise of the Floodborn,2,202,Last Cannon,,Common,1,TRUE,Steel,,,,[nan],2-202-en-sp.webp
+Shimmering Skies,5,4,Rutt,Northern Moose,Common,4,TRUE,Amber,3,4,1,"['Storyborn', 'Ally']",5-4-en-sp.webp
+Shimmering Skies,5,5,Kenai,Big Brother,Common,2,TRUE,Amber,1,4,1,"['Storyborn', 'Hero']",5-5-en-sp.webp
+Shimmering Skies,5,6,Vanellope von Schweetz,Sugar Rush Champ,Common,1,TRUE,Amber,2,2,1,"['Storyborn', 'Hero', 'Princess', 'Racer']",5-6-en-sp.webp
+Shimmering Skies,5,7,Tuke,Northern Moose,Common,4,TRUE,Amber,4,4,1,"['Storyborn', 'Ally']",5-7-en-sp.webp
+Shimmering Skies,5,8,Lilo,Junior Cake Decorator,Common,2,TRUE,Amber,1,3,1,"['Storyborn', 'Hero']",5-8-en-sp.webp
+Shimmering Skies,5,9,Vanellope von Schweetz,Candy Mechanic,Common,2,TRUE,Amber,2,2,1,"['Dreamborn', 'Hero', 'Princess', 'Racer']",5-9-en-sp.webp
+Shimmering Skies,5,10,"Fix-It Felix, Jr.",Trusty Builder,Common,3,TRUE,Amber,2,4,1,"['Storyborn', 'Hero']",5-10-en-sp.webp
+Shimmering Skies,5,11,Gazelle,Pop Star,Common,3,TRUE,Amber,2,3,2,"['Storyborn', 'Ally']",5-11-en-sp.webp
+Shimmering Skies,5,17,"Fix-It Felix, Jr.",Delighted Sightseer,Common,2,TRUE,Amber,1,3,1,"['Storyborn', 'Hero']",5-17-en-sp.webp
+Shimmering Skies,5,24,Minnie Mouse,Compassionate Friend,Common,4,TRUE,Amber,1,5,2,"['Storyborn', 'Hero']",5-24-en-sp.webp
+Shimmering Skies,5,26,Healing Touch,,Common,3,TRUE,Amber,,,,[nan],5-26-en-sp.webp
+Shimmering Skies,5,30,Healing Decanter,,Common,2,TRUE,Amber,,,,[nan],5-30-en-sp.webp
+Shimmering Skies,5,36,The Nokk,Mythical Spirit,Common,6,TRUE,Amethyst,5,5,1,"['Storyborn', 'Ally']",5-36-en-sp.webp
+Shimmering Skies,5,37,Cogsworth,Illuminary Watchman,Common,1,TRUE,Amethyst,1,1,1,"['Dreamborn', 'Ally']",5-37-en-sp.webp
+Shimmering Skies,5,38,Merlin,Turtle,Common,4,TRUE,Amethyst,3,3,2,"['Storyborn', 'Mentor', 'Sorcerer']",5-38-en-sp.webp
+Shimmering Skies,5,39,Archimedes,Exasperated Owl,Common,3,TRUE,Amethyst,2,2,2,"['Storyborn', 'Ally']",5-39-en-sp.webp
+Shimmering Skies,5,41,Earth Giant,Living Mountain,Common,4,TRUE,Amethyst,4,5,2,"['Storyborn', 'Ally']",5-41-en-sp.webp
+Shimmering Skies,5,42,Gale,Wind Spirit,Common,3,TRUE,Amethyst,1,2,2,"['Storyborn', 'Ally']",5-42-en-sp.webp
+Shimmering Skies,5,43,White Rabbit,Royal Herald,Common,3,TRUE,Amethyst,3,4,1,"['Storyborn', 'Ally']",5-43-en-sp.webp
+Shimmering Skies,5,54,Maleficent,Vengeful Sorceress,Common,2,TRUE,Amethyst,2,2,2,"['Storyborn', 'Villain', 'Sorcerer']",5-54-en-sp.webp
+Shimmering Skies,5,56,Anna,Eager Acolyte,Common,3,FALSE,Amethyst,1,3,1,"['Dreamborn', 'Hero', 'Queen']",5-56-en-sp.webp
+Shimmering Skies,5,59,Hypnotic Strength,,Common,2,TRUE,Amethyst,,,,[nan],5-59-en-sp.webp
+Shimmering Skies,5,62,Gathering Knowledge and Wisdom,,Common,2,FALSE,Amethyst,,,,[nan],5-62-en-sp.webp
+Shimmering Skies,5,64,Retrosphere,,Common,1,TRUE,Amethyst,,,,[nan],5-64-en-sp.webp
+Shimmering Skies,5,72,Zazu,Advisor to Mufasa,Common,5,TRUE,Emerald,3,5,2,"['Storyborn', 'Ally']",5-72-en-sp.webp
+Shimmering Skies,5,73,Ulf,Mime,Common,4,TRUE,Emerald,4,3,2,"['Storyborn', 'Ally']",5-73-en-sp.webp
+Shimmering Skies,5,74,Ed,Laughing Hyena,Common,3,FALSE,Emerald,2,3,1,"['Storyborn', 'Ally', 'Hyena']",5-74-en-sp.webp
+Shimmering Skies,5,75,Flora,Good Fairy,Common,3,TRUE,Emerald,2,4,1,"['Storyborn', 'Ally', 'Fairy']",5-75-en-sp.webp
+Shimmering Skies,5,76,Merryweather,Good Fairy,Common,1,TRUE,Emerald,1,2,1,"['Storyborn', 'Ally', 'Fairy']",5-76-en-sp.webp
+Shimmering Skies,5,77,Robin Hood,Archery Contestant,Common,2,TRUE,Emerald,2,2,1,"['Storyborn', 'Hero']",5-77-en-sp.webp
+Shimmering Skies,5,78,Fauna,Good Fairy,Common,5,TRUE,Emerald,3,7,2,"['Storyborn', 'Ally', 'Fairy']",5-78-en-sp.webp
+Shimmering Skies,5,86,Clarabelle,Clumsy Guest,Common,1,TRUE,Emerald,1,2,1,"['Storyborn', 'Ally']",5-86-en-sp.webp
+Shimmering Skies,5,87,Banzai,Taunting Hyena,Common,2,TRUE,Emerald,2,2,1,"['Storyborn', 'Ally', 'Hyena']",5-87-en-sp.webp
+Shimmering Skies,5,94,Hypnotic Deduction,,Common,2,TRUE,Emerald,,,,[nan],5-94-en-sp.webp
+Shimmering Skies,5,95,Night Howler Rage,,Common,3,TRUE,Emerald,,,,[nan],5-95-en-sp.webp
+Shimmering Skies,5,99,Obscurosphere,,Common,1,TRUE,Emerald,,,,[nan],5-99-en-sp.webp
+Shimmering Skies,5,108,Rancis Fluggerbutter,Chocolate Charger,Common,4,TRUE,Ruby,4,4,1,"['Storyborn', 'Ally', 'Racer']",5-108-en-sp.webp
+Shimmering Skies,5,110,Snowanna Rainbeau,Cool Competitor,Common,3,FALSE,Ruby,2,4,1,"['Storyborn', 'Ally', 'Racer']",5-110-en-sp.webp
+Shimmering Skies,5,111,Daisy Duck,Spotless Food-Fighter,Common,2,TRUE,Ruby,2,2,1,"['Storyborn', 'Hero']",5-111-en-sp.webp
+Shimmering Skies,5,112,Mickey Mouse,Enthusiastic Dancer,Common,4,TRUE,Ruby,2,4,2,"['Dreamborn', 'Hero']",5-112-en-sp.webp
+Shimmering Skies,5,113,Ratigan,Raging Rat,Common,3,TRUE,Ruby,1,5,1,"['Dreamborn', 'Villain']",5-113-en-sp.webp
+Shimmering Skies,5,114,Taffyta Muttonfudge,Crowd Favorite,Common,1,TRUE,Ruby,1,2,1,"['Storyborn', 'Ally', 'Racer']",5-114-en-sp.webp
+Shimmering Skies,5,120,Pete,Pastry Chomper,Common,3,TRUE,Ruby,4,3,1,"['Storyborn', 'Villain']",5-120-en-sp.webp
+Shimmering Skies,5,122,Donald Duck,Daisy's Date,Common,3,TRUE,Ruby,2,4,1,"['Storyborn', 'Ally']",5-122-en-sp.webp
+Shimmering Skies,5,125,Simba,Adventurous Successor,Common,1,FALSE,Ruby,2,1,1,"['Storyborn', 'Hero', 'Prince']",5-125-en-sp.webp
+Shimmering Skies,5,127,Break Free,,Common,1,TRUE,Ruby,,,,[nan],5-127-en-sp.webp
+Shimmering Skies,5,128,Evil Comes Prepared,,Common,2,TRUE,Ruby,,,,[nan],5-128-en-sp.webp
+Shimmering Skies,5,132,Potion of Might,,Common,1,TRUE,Ruby,,,,[nan],5-132-en-sp.webp
+Shimmering Skies,5,137,King Candy,Sovereign of Sugar,Common,1,TRUE,Sapphire,2,2,1,"['Storyborn', 'Villain', 'King', 'Racer']",5-137-en-sp.webp
+Shimmering Skies,5,138,Chaca,Impressive Daughter,Common,4,TRUE,Sapphire,4,3,2,"['Storyborn', 'Ally']",5-138-en-sp.webp
+Shimmering Skies,5,139,The Queen,Cruelest of All,Common,2,TRUE,Sapphire,0,4,1,"['Storyborn', 'Villain', 'Queen', 'Sorcerer']",5-139-en-sp.webp
+Shimmering Skies,5,141,Prince John,Opportunistic Briber,Common,3,TRUE,Sapphire,1,5,1,"['Dreamborn', 'Villain', 'Prince']",5-141-en-sp.webp
+Shimmering Skies,5,142,Merlin,Back from Bermuda,Common,4,TRUE,Sapphire,1,4,2,"['Storyborn', 'Mentor', 'Sorcerer']",5-142-en-sp.webp
+Shimmering Skies,5,152,Minnie Mouse,Quick-Thinking Inventor,Common,1,FALSE,Sapphire,1,2,1,"['Dreamborn', 'Hero', 'Inventor']",5-152-en-sp.webp
+Shimmering Skies,5,153,Basil,Practiced Detective,Common,1,TRUE,Sapphire,2,1,1,"['Storyborn', 'Hero', 'Detective']",5-153-en-sp.webp
+Shimmering Skies,5,155,Donald Duck,Focused Flatfoot,Common,5,TRUE,Sapphire,3,4,2,"['Dreamborn', 'Hero', 'Detective']",5-155-en-sp.webp
+Shimmering Skies,5,156,Tanana,Wise Woman,Common,2,TRUE,Sapphire,1,3,1,"['Storyborn', 'Ally']",5-156-en-sp.webp
+Shimmering Skies,5,160,Vision of the Future,,Common,2,TRUE,Sapphire,,,,[nan],5-160-en-sp.webp
+Shimmering Skies,5,162,Ever as Before,,Common,2,TRUE,Sapphire,,,,[nan],5-162-en-sp.webp
+Shimmering Skies,5,165,Medal of Heroes,,Common,2,TRUE,Sapphire,,,,[nan],5-165-en-sp.webp
+Shimmering Skies,5,173,Simba,Lost Prince,Common,3,TRUE,Steel,2,4,1,"['Storyborn', 'Hero', 'Prince']",5-173-en-sp.webp
+Shimmering Skies,5,174,Rudy,Groove Disrupter,Common,1,TRUE,Steel,2,2,1,['Storyborn'],5-174-en-sp.webp
+Shimmering Skies,5,175,Royal Guard,Bovine Protector,Common,4,TRUE,Steel,1,7,1,['Storyborn'],5-175-en-sp.webp
+Shimmering Skies,5,176,Mickey Mouse,Food Fight Defender,Common,1,TRUE,Steel,1,2,1,"['Storyborn', 'Hero']",5-176-en-sp.webp
+Shimmering Skies,5,178,Kronk,Unlicensed Investigator,Common,2,TRUE,Steel,1,4,1,"['Dreamborn', 'Ally']",5-178-en-sp.webp
+Shimmering Skies,5,179,HeiHei,Protective Rooster,Common,5,TRUE,Steel,4,5,2,"['Dreamborn', 'Ally']",5-179-en-sp.webp
+Shimmering Skies,5,180,Sneezy,Noisy Knight,Common,4,TRUE,Steel,3,4,1,"['Dreamborn', 'Ally', 'Knight', 'Seven Dwarfs']",5-180-en-sp.webp
+Shimmering Skies,5,181,Dopey,Knight Apprentice,Common,3,TRUE,Steel,2,2,1,"['Dreamborn', 'Ally', 'Knight', 'Seven Dwarfs']",5-181-en-sp.webp
+Shimmering Skies,5,191,Happy,Lively Knight,Common,1,TRUE,Steel,2,1,1,"['Dreamborn', 'Ally', 'Knight', 'Seven Dwarfs']",5-191-en-sp.webp
+Shimmering Skies,5,197,When Will My Life Begin?,,Common,3,TRUE,Steel,,,,[nan],5-197-en-sp.webp
+Shimmering Skies,5,198,Duck for Cover!,,Common,2,TRUE,Steel,,,,[nan],5-198-en-sp.webp
+Shimmering Skies,5,200,Shield of Arendelle,,Common,1,TRUE,Steel,,,,[nan],5-200-en-sp.webp
+The First Chapter,1,7,HeiHei,Boat Snack,Common,1,TRUE,Amber,1,2,1,"['Storyborn', 'Ally']",
+The First Chapter,1,13,Minnie Mouse,Beloved Princess,Common,2,TRUE,Amber,2,3,1,"['Dreamborn', 'Princess']",1-13-en-sp.webp
+The First Chapter,1,15,Mr. Smee,Loyal First Mate,Common,3,TRUE,Amber,2,5,1,"['Dreamborn', 'Ally', 'Pirate']",1-15-en-sp.webp
+The First Chapter,1,17,Pumbaa,Friendly Warthog,Common,4,TRUE,Amber,3,5,1,"['Storyborn', 'Ally']",1-17-en-sp.webp
+The First Chapter,1,19,Sebastian,Court Composer,Common,2,TRUE,Amber,2,2,1,"['Storyborn', 'Ally']",1-19-en-sp.webp
+The First Chapter,1,20,Simba,Protective Cub,Common,2,TRUE,Amber,2,3,1,"['Storyborn', 'Hero', 'Prince']",1-20-en-sp.webp
+The First Chapter,1,22,Stitch,New Dog,Common,1,TRUE,Amber,2,2,1,"['Storyborn', 'Hero', 'Alien']",1-22-en-sp.webp
+The First Chapter,1,24,Timon,Grub Rustler,Common,1,TRUE,Amber,1,2,1,"['Storyborn', 'Ally']",1-24-en-sp.webp
+The First Chapter,1,8,LeFou,Bumbler,Uncommon,2,TRUE,Amber,1,2,2,"['Storyborn', 'Ally']",
+The First Chapter,1,27,Hakuna Matata,,Common,4,TRUE,Amber,,,,[nan],1-27-en-sp.webp
+The First Chapter,1,28,Healing Glow,,Common,1,TRUE,Amber,,,,[nan],1-28-en-sp.webp
+The First Chapter,1,32,Dinglehopper,,Common,1,TRUE,Amber,,,,[nan],1-32-en-sp.webp
+The First Chapter,1,36,Archimedes,Highly Educated Owl,Common,1,TRUE,Amethyst,2,2,1,"['Dreamborn', 'Ally']",1-36-en-sp.webp
+The First Chapter,1,38,Dr. Facilier,Charlatan,Common,2,TRUE,Amethyst,0,4,1,"['Storyborn', 'Villain', 'Sorcerer']",1-38-en-sp.webp
+The First Chapter,1,40,Elsa,Queen Regent,Common,4,TRUE,Amethyst,4,4,1,"['Storyborn', 'Hero', 'Queen', 'Sorcerer']",1-40-en-sp.webp
+The First Chapter,1,45,Jafar,Wicked Sorcerer,Common,4,TRUE,Amethyst,2,5,1,"['Dreamborn', 'Villain', 'Sorcerer']",1-45-en-sp.webp
+The First Chapter,1,46,Jetsam,Ursula's Spy,Common,4,TRUE,Amethyst,3,3,1,"['Storyborn', 'Ally']",1-46-en-sp.webp
+The First Chapter,1,47,Magic Broom,Bucket Brigade,Common,2,TRUE,Amethyst,2,2,1,"['Dreamborn', 'Broom']",1-47-en-sp.webp
+The First Chapter,1,49,Maleficent,Sorceress,Common,3,TRUE,Amethyst,2,2,1,"['Storyborn', 'Villain', 'Sorcerer']",1-49-en-sp.webp
+The First Chapter,1,57,The Wardrobe,Belle's Confidant,Common,3,TRUE,Amethyst,3,4,1,"['Dreamborn', 'Ally']",1-57-en-sp.webp
+The First Chapter,1,58,Tinker Bell,Peter Pan's Ally,Common,5,FALSE,Amethyst,3,3,2,"['Storyborn', 'Ally', 'Fairy']",1-58-en-sp.webp
+The First Chapter,1,60,Yzma,Alchemist,Common,2,TRUE,Amethyst,2,2,1,"['Dreamborn', 'Villain', 'Sorcerer']",1-60-en-sp.webp
+The First Chapter,1,63,Freeze,,Common,2,FALSE,Amethyst,,,,[nan],1-63-en-sp.webp
+The First Chapter,1,26,Control Your Temper!,,Common,1,TRUE,Amber,,,,[nan],
+The First Chapter,1,69,Aladdin,Prince Ali,Common,2,TRUE,Emerald,2,2,1,"['Storyborn', 'Hero', 'Prince']",1-69-en-sp.webp
+The First Chapter,1,73,Duke of Weselton,Opportunistic Official,Common,1,TRUE,Emerald,2,2,1,"['Storyborn', 'Villain']",1-73-en-sp.webp
+The First Chapter,1,77,Genie,The Ever Impressive,Common,2,TRUE,Emerald,2,3,1,"['Dreamborn', 'Ally']",1-77-en-sp.webp
+The First Chapter,1,79,Horace,No-Good Scoundrel,Common,3,TRUE,Emerald,4,3,1,"['Storyborn', 'Ally']",1-79-en-sp.webp
+The First Chapter,1,87,Megara,Pulling the Strings,Common,2,TRUE,Emerald,2,1,1,"['Dreamborn', 'Ally']",1-87-en-sp.webp
+The First Chapter,1,89,Mickey Mouse,Steamboat Pilot,Common,3,TRUE,Emerald,3,4,1,"['Storyborn', 'Hero', 'Captain']",1-89-en-sp.webp
+The First Chapter,1,91,Peter Pan,Never Landing,Common,3,TRUE,Emerald,3,2,1,"['Dreamborn', 'Hero']",1-91-en-sp.webp
+The First Chapter,1,93,Tinker Bell,Most Helpful,Common,4,TRUE,Emerald,2,3,2,"['Storyborn', 'Ally', 'Fairy']",1-93-en-sp.webp
+The First Chapter,1,96,Stampede,,Common,1,FALSE,Emerald,,,,[nan],1-96-en-sp.webp
+The First Chapter,1,98,Sudden Chill,,Common,2,TRUE,Emerald,,,,[nan],1-98-en-sp.webp
+The First Chapter,1,100,Vicious Betrayal,,Common,1,TRUE,Emerald,,,,[nan],1-100-en-sp.webp
+The First Chapter,1,102,Stolen Scimitar,,Common,2,TRUE,Emerald,,,,[nan],1-102-en-sp.webp
+The First Chapter,1,103,Abu,Mischievous Monkey,Common,3,TRUE,Ruby,3,2,2,"['Storyborn', 'Ally']",1-103-en-sp.webp
+The First Chapter,1,105,Aladdin,Street Rat,Common,3,TRUE,Ruby,2,2,1,"['Storyborn', 'Hero']",1-105-en-sp.webp
+The First Chapter,1,109,Elsa,Ice Surfer,Common,4,TRUE,Ruby,3,4,1,"['Dreamborn', 'Hero', 'Queen', 'Sorcerer']",1-109-en-sp.webp
+The First Chapter,1,29,Just in Time,,Rare,3,FALSE,Amber,,,,[nan],
+The First Chapter,1,111,Goofy,Daredevil,Common,5,TRUE,Ruby,3,4,2,"['Dreamborn', 'Hero']",1-111-en-sp.webp
+The First Chapter,1,116,Minnie Mouse,Always Classy,Common,1,TRUE,Ruby,1,3,1,"['Storyborn', 'Hero']",1-116-en-sp.webp
+The First Chapter,1,119,Peter Pan,Fearless Fighter,Common,3,FALSE,Ruby,3,2,1,"['Storyborn', 'Hero']",1-119-en-sp.webp
+The First Chapter,1,120,Pongo,Ol' Rascal,Common,4,TRUE,Ruby,2,3,2,"['Storyborn', 'Hero']",1-120-en-sp.webp
+The First Chapter,1,122,Scar,Fiery Usurper,Common,4,TRUE,Ruby,5,3,1,"['Dreamborn', 'Villain']",1-122-en-sp.webp
+The First Chapter,1,124,Sergeant Tibbs,Courageous Cat,Common,1,TRUE,Ruby,2,2,1,"['Storyborn', 'Ally']",1-124-en-sp.webp
+The First Chapter,1,64,Friends on the Other Side,,Common,3,TRUE,Amethyst,,,,[nan],
+The First Chapter,1,133,Tangle,,Common,2,TRUE,Ruby,,,,[nan],1-133-en-sp.webp
+The First Chapter,1,138,Aurora,Briar Rose,Common,4,TRUE,Sapphire,2,5,1,"['Storyborn', 'Hero', 'Princess']",1-138-en-sp.webp
+The First Chapter,1,144,Donald Duck,Strutting His Stuff,Common,5,TRUE,Sapphire,4,3,2,"['Dreamborn', 'Hero', 'Inventor']",1-144-en-sp.webp
+The First Chapter,1,145,Flounder,Voice of Reason,Common,1,TRUE,Sapphire,2,2,1,"['Storyborn', 'Ally']",1-145-en-sp.webp
+The First Chapter,1,148,Jasmine,Disguised,Common,3,TRUE,Sapphire,3,3,2,"['Storyborn', 'Princess']",1-148-en-sp.webp
+The First Chapter,1,150,Maleficent,Sinister Visitor,Common,4,TRUE,Sapphire,3,4,2,"['Storyborn', 'Villain', 'Sorcerer']",1-150-en-sp.webp
+The First Chapter,1,153,Merlin,Self-Appointed Mentor,Common,4,TRUE,Sapphire,3,4,1,"['Dreamborn', 'Mentor', 'Sorcerer']",1-153-en-sp.webp
+The First Chapter,1,72,Cruella De Vil,Miserable as Usual,Rare,2,TRUE,Emerald,1,3,1,"['Storyborn', 'Villain']",
+The First Chapter,1,155,Mufasa,King of the Pride Lands,Common,6,TRUE,Sapphire,4,6,3,"['Storyborn', 'Mentor', 'King']",1-155-en-sp.webp
+The First Chapter,1,156,Philoctetes,Trainer of Heroes,Common,2,TRUE,Sapphire,3,1,1,"['Storyborn', 'Mentor']",1-156-en-sp.webp
+The First Chapter,1,161,Develop Your Brain,,Common,1,TRUE,Sapphire,,,,[nan],1-161-en-sp.webp
+The First Chapter,1,165,Work Together,,Common,1,TRUE,Sapphire,,,,[nan],1-165-en-sp.webp
+The First Chapter,1,169,Magic Golden Flower,,Common,1,TRUE,Sapphire,,,,[nan],1-169-en-sp.webp
+The First Chapter,1,171,Aladdin,Cornered Swordsman,Common,2,TRUE,Steel,2,1,2,"['Storyborn', 'Hero']",1-171-en-sp.webp
+The First Chapter,1,99,The Beast is Mine!,,Uncommon,3,TRUE,Emerald,,,,[nan],
+The First Chapter,1,110,Gaston,Arrogant Hunter,Common,2,TRUE,Ruby,4,2,0,"['Storyborn', 'Villain']",
+The First Chapter,1,179,Goons,Maleficent's Underlings,Common,1,TRUE,Steel,2,2,1,"['Storyborn', 'Ally']",1-179-en-sp.webp
+The First Chapter,1,181,Hercules,True Hero,Common,3,TRUE,Steel,3,3,1,"['Dreamborn', 'Hero', 'Prince']",1-181-en-sp.webp
+The First Chapter,1,182,Kristoff,Official Ice Master,Common,3,TRUE,Steel,3,3,2,"['Storyborn', 'Ally']",1-182-en-sp.webp
+The First Chapter,1,187,Prince Eric,Dashing and Brave,Common,2,TRUE,Steel,1,3,1,"['Storyborn', 'Hero', 'Prince']",1-187-en-sp.webp
+The First Chapter,1,188,Simba,Future King,Common,1,TRUE,Steel,1,2,1,"['Storyborn', 'Hero', 'Prince']",1-188-en-sp.webp
+The First Chapter,1,194,Tinker Bell,Tiny Tactician,Common,3,TRUE,Steel,2,4,1,"['Dreamborn', 'Ally', 'Fairy']",1-194-en-sp.webp
+The First Chapter,1,196,Break,,Common,2,TRUE,Steel,,,,[nan],1-196-en-sp.webp
+The First Chapter,1,112,LeFou,Instigator,Rare,2,TRUE,Ruby,2,2,1,"['Dreamborn', 'Ally']",
+The First Chapter,1,201,Beast's Mirror,,Common,2,TRUE,Steel,,,,[nan],1-201-en-sp.webp
+Ursula's Return,4,1,Agustin Madrigal,Clumsy Dad,Common,1,TRUE,Amber,2,2,1,"['Storyborn', 'Mentor', 'Madrigal']",4-1-en-sp.webp
+Ursula's Return,4,5,Cogsworth,Majordomo,Common,4,TRUE,Amber,3,3,1,"['Dreamborn', 'Ally']",4-5-en-sp.webp
+Ursula's Return,4,7,Daisy Duck,Musketeer Spy,Common,4,TRUE,Amber,2,3,1,"['Dreamborn', 'Hero', 'Musketeer']",4-7-en-sp.webp
+Ursula's Return,4,14,Max,Loyal Sheepdog,Common,3,TRUE,Amber,4,3,1,"['Storyborn', 'Ally']",4-14-en-sp.webp
+Ursula's Return,4,19,Mirabel Madrigal,Prophecy Finder,Common,2,TRUE,Amber,2,2,1,"['Storyborn', 'Hero', 'Madrigal']",4-19-en-sp.webp
+Ursula's Return,4,20,Pluto,Rescue Dog,Common,5,TRUE,Amber,4,5,2,"['Storyborn', 'Ally']",4-20-en-sp.webp
+Ursula's Return,4,21,Prince Eric,Seafaring Prince,Common,3,TRUE,Amber,3,3,1,"['Dreamborn', 'Hero', 'Prince']",4-21-en-sp.webp
+Ursula's Return,4,23,Stitch,Alien Dancer,Common,2,TRUE,Amber,2,3,1,"['Storyborn', 'Hero', 'Alien']",4-23-en-sp.webp
+Ursula's Return,4,25,Ursula,Vanessa,Common,2,TRUE,Amber,1,4,1,"['Storyborn', 'Villain', 'Sorcerer']",4-25-en-sp.webp
+Ursula's Return,4,27,First Aid,,Common,1,TRUE,Amber,,,,[nan],4-27-en-sp.webp
+Ursula's Return,4,32,Record Player,,Common,2,TRUE,Amber,,,,[nan],4-32-en-sp.webp
+Ursula's Return,4,33,Atlantica,Concert Hall,Common,1,TRUE,Amber,,6,,[nan],4-33-en-sp.webp
+Ursula's Return,4,37,Belle,Untrained Mystic,Common,3,TRUE,Amethyst,3,3,1,"['Dreamborn', 'Hero', 'Princess']",4-37-en-sp.webp
+Ursula's Return,4,41,Dolores Madrigal,Easy Listener,Common,4,TRUE,Amethyst,3,3,2,"['Storyborn', 'Ally', 'Madrigal']",4-41-en-sp.webp
+Ursula's Return,4,46,Jetsam,"Ursula's ""Baby""",Common,3,TRUE,Amethyst,2,4,1,"['Dreamborn', 'Ally']",4-46-en-sp.webp
+Ursula's Return,4,47,Luisa Madrigal,Magically Strong One,Common,4,FALSE,Amethyst,4,3,1,"['Storyborn', 'Ally', 'Madrigal']",4-47-en-sp.webp
+Ursula's Return,4,48,Magic Broom,Illuminary Keeper,Common,1,TRUE,Amethyst,1,2,1,"['Dreamborn', 'Broom']",4-48-en-sp.webp
+Ursula's Return,4,49,Magic Broom,Lively Sweeper,Common,3,TRUE,Amethyst,2,4,1,"['Dreamborn', 'Broom']",4-49-en-sp.webp
+Ursula's Return,4,55,Pico,Helpful Toucan,Common,2,TRUE,Amethyst,3,2,1,"['Storyborn', 'Ally']",4-55-en-sp.webp
+Ursula's Return,4,56,Tick-Tock,Ever-Present Pursuer,Common,6,TRUE,Amethyst,4,7,1,"['Storyborn', 'Ally']",4-56-en-sp.webp
+Ursula's Return,4,60,Poor Unfortunate Souls,,Common,2,TRUE,Amethyst,,,,[nan],4-60-en-sp.webp
+Ursula's Return,4,62,Swing into Action,,Common,1,TRUE,Amethyst,,,,[nan],4-62-en-sp.webp
+Ursula's Return,4,65,Rose Lantern,,Common,2,TRUE,Amethyst,,,,[nan],4-65-en-sp.webp
+Ursula's Return,4,67,Casa Madrigal,Casita,Common,1,TRUE,Amethyst,,6,,[nan],4-67-en-sp.webp
+Ursula's Return,4,71,Diablo,Maleficent's Spy,Common,1,TRUE,Emerald,1,2,1,"['Storyborn', 'Ally']",4-71-en-sp.webp
+Ursula's Return,4,72,Gunther,Interior Designer,Common,4,TRUE,Emerald,3,3,2,"['Dreamborn', 'Ally']",4-72-en-sp.webp
+Ursula's Return,4,73,Gus,Champion of Cheese,Common,2,TRUE,Emerald,2,3,1,"['Storyborn', 'Ally']",4-73-en-sp.webp
+Ursula's Return,4,77,Jaq,Connoisseur of Climbing,Common,3,TRUE,Emerald,1,4,2,"['Storyborn', 'Ally']",4-77-en-sp.webp
+Ursula's Return,4,79,Megara,Captivating Cynic,Common,3,FALSE,Emerald,3,6,2,"['Dreamborn', 'Ally']",4-79-en-sp.webp
+Ursula's Return,4,84,Pegasus,Gift for Hercules,Common,1,TRUE,Emerald,1,1,1,"['Storyborn', 'Ally']",4-84-en-sp.webp
+Ursula's Return,4,89,The Fates,Only One Eye,Common,1,TRUE,Emerald,2,1,1,"['Storyborn', 'Ally']",4-89-en-sp.webp
+Ursula's Return,4,91,Tor,Florist,Common,5,TRUE,Emerald,4,7,1,"['Dreamborn', 'Ally']",4-91-en-sp.webp
+Ursula's Return,4,93,Dodge!,,Common,2,TRUE,Emerald,,,,[nan],4-93-en-sp.webp
+Ursula's Return,4,94,Make the Potion,,Common,2,FALSE,Emerald,,,,[nan],4-94-en-sp.webp
+Ursula's Return,4,98,Hidden Inkcaster,,Common,2,FALSE,Emerald,,,,[nan],4-98-en-sp.webp
+Ursula's Return,4,101,Hidden Cove,Tranquil Haven,Common,1,TRUE,Emerald,,6,,[nan],4-101-en-sp.webp
+Ursula's Return,4,104,Benja,Bold Uniter,Common,4,TRUE,Ruby,5,3,1,"['Storyborn', 'Mentor', 'King']",4-104-en-sp.webp
+Ursula's Return,4,105,Fa Zhou,Mulan's Father,Common,2,TRUE,Ruby,0,4,1,"['Storyborn', 'Mentor']",4-105-en-sp.webp
+Ursula's Return,4,108,Hercules,Clumsy Kid,Common,3,FALSE,Ruby,3,3,1,"['Storyborn', 'Hero', 'Prince']",4-108-en-sp.webp
+Ursula's Return,4,111,Li Shang,Generalâ€™s Son,Common,1,TRUE,Ruby,2,2,1,"['Storyborn', 'Hero']",4-111-en-sp.webp
+Ursula's Return,4,116,Mulan,Injured Soldier,Common,1,TRUE,Ruby,2,3,1,"['Storyborn', 'Hero', 'Princess']",4-116-en-sp.webp
+Ursula's Return,4,120,Pegasus,Flying Steed,Common,2,TRUE,Ruby,3,1,1,"['Storyborn', 'Ally']",4-120-en-sp.webp
+Ursula's Return,4,122,Raya,Guardian of the Dragon Gem,Common,4,TRUE,Ruby,3,3,2,"['Storyborn', 'Hero', 'Princess']",4-122-en-sp.webp
+Ursula's Return,4,126,Tong,Survivor,Common,4,FALSE,Ruby,3,6,0,"['Storyborn', 'Ally']",4-126-en-sp.webp
+Ursula's Return,4,130,Brawl,,Common,3,TRUE,Ruby,,,,[nan],4-130-en-sp.webp
+Ursula's Return,4,133,The Plank,,Common,3,FALSE,Ruby,,,,[nan],4-133-en-sp.webp
+Ursula's Return,4,134,Vitalisphere,,Common,1,TRUE,Ruby,,,,[nan],4-134-en-sp.webp
+Ursula's Return,4,136,Training Grounds,Impossible Pillar,Common,1,TRUE,Ruby,,5,,[nan],4-136-en-sp.webp
+Ursula's Return,4,137,Anna,Braving the Storm,Common,2,TRUE,Sapphire,1,4,1,"['Dreamborn', 'Hero', 'Queen']",4-137-en-sp.webp
+Ursula's Return,4,141,Aurora,Tranquil Princess,Common,2,TRUE,Sapphire,1,3,1,"['Dreamborn', 'Hero', 'Princess']",4-141-en-sp.webp
+Ursula's Return,4,143,Fa Li,Mulanâ€™s Mother,Common,1,TRUE,Sapphire,1,3,1,"['Storyborn', 'Mentor']",4-143-en-sp.webp
+Ursula's Return,4,146,Hans,Noble Scoundrel,Common,3,TRUE,Sapphire,3,2,2,"['Storyborn', 'Villain', 'Prince']",4-146-en-sp.webp
+Ursula's Return,4,150,Olaf,Trusting Companion,Common,1,TRUE,Sapphire,1,2,1,"['Storyborn', 'Ally']",4-150-en-sp.webp
+Ursula's Return,4,151,Pascal,Inquisitive Pet,Common,3,TRUE,Sapphire,3,3,1,"['Storyborn', 'Ally']",4-151-en-sp.webp
+Ursula's Return,4,157,Transformed Chef,Castle Stove,Common,4,TRUE,Sapphire,3,3,2,"['Storyborn', 'Ally']",4-157-en-sp.webp
+Ursula's Return,4,161,Tuk Tuk,Curious Partner,Common,2,TRUE,Sapphire,2,3,1,"['Storyborn', 'Ally']",4-161-en-sp.webp
+Ursula's Return,4,163,Glean,,Common,1,TRUE,Sapphire,,,,[nan],4-163-en-sp.webp
+Ursula's Return,4,164,Seldom All They Seem,,Common,2,TRUE,Sapphire,,,,[nan],4-164-en-sp.webp
+Ursula's Return,4,168,Ice Block,,Common,1,FALSE,Sapphire,,,,[nan],4-168-en-sp.webp
+Ursula's Return,4,170,Winter Camp,Medical Tent,Common,3,TRUE,Sapphire,,8,1,[nan],4-170-en-sp.webp
+Ursula's Return,4,172,Aladdin,Resolute Swordsman,Common,1,TRUE,Steel,1,3,1,"['Hero', 'Storyborn']",4-172-en-sp.webp
+Ursula's Return,4,173,Arges,The Cyclops,Common,2,TRUE,Steel,4,1,1,"['Storyborn', 'Titan']",4-173-en-sp.webp
+Ursula's Return,4,174,Ariel,Determined Mermaid,Common,3,TRUE,Steel,2,4,1,"['Storyborn', 'Hero', 'Princess']",4-174-en-sp.webp
+Ursula's Return,4,176,Beast,Thick-Skinned,Common,3,TRUE,Steel,2,3,1,"['Storyborn', 'Hero', 'Prince']",4-176-en-sp.webp
+Ursula's Return,4,178,Chien-Po,Imperial Soldier,Common,5,TRUE,Steel,4,7,1,"['Storyborn', 'Ally']",4-178-en-sp.webp
+Ursula's Return,4,184,Luisa Madrigal,Rock of the Family,Common,3,TRUE,Steel,2,4,1,"['Storyborn', 'Ally', 'Madrigal']",4-184-en-sp.webp
+Ursula's Return,4,185,Magic Broom,Aerial Cleaner,Common,2,TRUE,Steel,2,3,1,"['Dreamborn', 'Broom']",4-185-en-sp.webp
+Ursula's Return,4,188,Mickey Mouse,Standard Bearer,Common,2,TRUE,Steel,1,3,1,"['Storyborn', 'Hero']",4-188-en-sp.webp
+Ursula's Return,4,194,Yao,Imperial Soldier,Common,4,TRUE,Steel,2,5,1,"['Storyborn', 'Ally']",4-194-en-sp.webp
+Ursula's Return,4,199,Triton's Decree,,Common,1,FALSE,Steel,,,,[nan],4-199-en-sp.webp
+Ursula's Return,4,200,Fortisphere,,Common,1,TRUE,Steel,,,,[nan],4-200-en-sp.webp
+Ursula's Return,4,204,Thebes,The Big Olive,Common,2,TRUE,Steel,,7,,[nan],4-204-en-sp.webp
+Azurite Sea,6,16,Tiana,Restaurant Owner,Legendary,3,FALSE,Amber,1,4,2,"['Storyborn', 'Hero', 'Princess']",6-16-en-sp.webp
+Azurite Sea,6,20,Simba,Pride Protector,Legendary,5,FALSE,Amber,4,4,2,"['Floodborn', 'Hero', 'Prince']",6-20-en-sp.webp
+Azurite Sea,6,56,Yzma,Conniving Chemist,Legendary,4,TRUE,Amethyst,3,3,2,"['Storyborn', 'Villain', 'Sorcerer']",6-56-en-sp.webp
+Azurite Sea,6,61,Genie,Wonderful Trickster,Legendary,7,TRUE,Amethyst,4,7,2,"['Floodborn', 'Ally']",6-61-en-sp.webp
+Azurite Sea,6,84,Jasmine,Royal Commodore,Legendary,6,TRUE,Emerald,5,5,2,"['Floodborn', 'Hero', 'Princess']",6-84-en-sp.webp
+Azurite Sea,6,86,Hercules,Baby Demigod,Legendary,6,FALSE,Emerald,6,3,2,"['Storyborn', 'Hero', 'Prince']",6-86-en-sp.webp
+Azurite Sea,6,124,Maui,Half-Shark,Legendary,6,TRUE,Ruby,7,5,1,"['Storyborn', 'Hero', 'Deity']",6-124-en-sp.webp
+Azurite Sea,6,125,Hades,Strong Arm,Legendary,5,FALSE,Ruby,4,3,1,"['Storyborn', 'Villain', 'Deity']",6-125-en-sp.webp
+Azurite Sea,6,142,Oswald,The Lucky Rabbit,Legendary,2,FALSE,Sapphire,2,1,2,"['Storyborn', 'Hero']",6-142-en-sp.webp
+Azurite Sea,6,157,Baymax,Armored Companion,Legendary,5,TRUE,Sapphire,2,6,2,"['Storyborn', 'Hero', 'Robot']",6-157-en-sp.webp
+Azurite Sea,6,190,Wreck-it Ralph,Ham Hands,Legendary,6,FALSE,Steel,4,4,3,"['Dreamborn', 'Hero']",6-190-en-sp.webp
+Azurite Sea,6,194,John Silver,Stern Captain,Legendary,8,TRUE,Steel,6,6,2,"['Floodborn', 'Villain', 'Alien', 'Pirate', 'Captain']",6-194-en-sp.webp
+Into the Inklands,3,73,Friar Tuck,Priest of Nottingham,Uncommon,4,TRUE,Emerald,2,4,2,"['Storyborn', 'Ally']",3-73-en-sp.webp
+Into the Inklands,3,74,Helga Sinclair,Femme Fatale,Super_rare,5,FALSE,Emerald,4,4,2,"['Floodborn', 'Villain']",3-74-en-sp.webp
+Into the Inklands,3,75,Helga Sinclair,Vengeful Partner,Rare,2,TRUE,Emerald,2,1,1,"['Storyborn', 'Villain']",3-75-en-sp.webp
+Into the Inklands,3,76,Jetsam,Riffraff,Common,3,TRUE,Emerald,2,2,2,"['Dreamborn', 'Ally']",3-76-en-sp.webp
+Into the Inklands,3,77,Kit Cloudkicker,Tough Guy,Uncommon,3,TRUE,Emerald,2,2,1,"['Storyborn', 'Ally']",3-77-en-sp.webp
+Into the Inklands,3,78,Lyle Tiberius Rourke,Cunning Mercenary,Super_rare,3,FALSE,Emerald,2,4,1,"['Storyborn', 'Villain']",3-78-en-sp.webp
+Into the Inklands,3,79,Milo Thatch,Clever Cartographer,Common,1,TRUE,Emerald,2,2,1,"['Dreamborn', 'Hero']",3-79-en-sp.webp
+Into the Inklands,3,80,Milo Thatch,King of Atlantis,Legendary,7,FALSE,Emerald,4,4,3,"['Floodborn', 'Hero', 'King']",3-80-en-sp.webp
+Into the Inklands,3,81,Morph,Space Goo,Rare,2,TRUE,Emerald,2,1,1,"['Storyborn', 'Ally', 'Alien']",3-81-en-sp.webp
+Into the Inklands,3,82,Peter Pan,Lost Boy Leader,Rare,4,TRUE,Emerald,3,3,1,"['Dreamborn', 'Hero']",3-82-en-sp.webp
+Into the Inklands,3,83,Prince John,Phony King,Uncommon,5,FALSE,Emerald,2,4,2,"['Storyborn', 'Villain', 'Prince']",3-83-en-sp.webp
+Into the Inklands,3,84,Robin Hood,Daydreamer,Rare,6,TRUE,Emerald,4,5,4,"['Dreamborn', 'Hero']",3-84-en-sp.webp
+Rise of the Floodborn,2,14,Mufasa,Betrayed Leader,Legendary,5,TRUE,Amber,3,3,2,"['Storyborn', 'Mentor', 'King']",2-14-en-sp.webp
+Rise of the Floodborn,2,25,Snow White,Well Wisher,Legendary,6,FALSE,Amber,3,5,2,"['Floodborn', 'Hero', 'Princess']",2-25-en-sp.webp
+Rise of the Floodborn,2,41,Fairy Godmother,Mystic Armorer,Legendary,5,TRUE,Amethyst,3,4,2,"['Floodborn', 'Mentor', 'Fairy']",2-41-en-sp.webp
+Rise of the Floodborn,2,47,Madam Mim,Purple Dragon,Legendary,7,TRUE,Amethyst,5,7,4,"['Storyborn', 'Villain', 'Sorcerer', 'Dragon']",2-47-en-sp.webp
+Rise of the Floodborn,2,70,Beast,Relentless,Legendary,6,TRUE,Emerald,4,5,2,"['Storyborn', 'Hero', 'Prince']",2-70-en-sp.webp
+Rise of the Floodborn,2,72,Belle,Hidden Archer,Legendary,5,FALSE,Emerald,3,3,3,"['Floodborn', 'Hero', 'Princess']",2-72-en-sp.webp
+Rise of the Floodborn,2,106,Donald Duck,Not Again!,Legendary,5,TRUE,Ruby,1,5,1,"['Dreamborn', 'Hero']",2-106-en-sp.webp
+Rise of the Floodborn,2,125,Scar,Vicious Cheater,Legendary,7,FALSE,Ruby,6,5,2,"['Storyborn', 'Villain']",2-125-en-sp.webp
+Rise of the Floodborn,2,137,Alice,Growing Girl,Legendary,3,TRUE,Sapphire,1,4,1,"['Dreamborn', 'Hero']",2-137-en-sp.webp
+Rise of the Floodborn,2,159,Sisu,Divine Water Dragon,Legendary,4,FALSE,Sapphire,2,4,2,"['Storyborn', 'Hero', 'Deity', 'Dragon']",2-159-en-sp.webp
+Rise of the Floodborn,2,173,Beast,Tragic Hero,Legendary,5,TRUE,Steel,3,5,2,"['Floodborn', 'Hero', 'Prince']",2-173-en-sp.webp
+Rise of the Floodborn,2,189,Namaari,Morning Mist,Legendary,4,FALSE,Steel,2,4,1,"['Storyborn', 'Villain', 'Princess']",2-189-en-sp.webp
+Shimmering Skies,5,3,Prince Naveen,Ukulele Player,Legendary,4,FALSE,Amber,3,3,2,"['Storyborn', 'Hero', 'Prince']",5-3-en-sp.webp
+Shimmering Skies,5,14,Mirabel Madrigal,Family Gatherer,Legendary,5,TRUE,Amber,5,5,5,"['Storyborn', 'Hero', 'Madrigal']",5-14-en-sp.webp
+Shimmering Skies,5,49,Genie,Main Attraction,Legendary,7,FALSE,Amethyst,5,5,2,"['Storyborn', 'Ally']",5-49-en-sp.webp
+Shimmering Skies,5,58,Camilo Madrigal,Family Copycat,Legendary,6,TRUE,Amethyst,3,7,1,"['Storyborn', 'Ally', 'Madrigal']",5-58-en-sp.webp
+Shimmering Skies,5,84,Clarabelle,Light on Her Hooves,Legendary,7,TRUE,Emerald,5,6,2,"['Floodborn', 'Ally']",5-84-en-sp.webp
+Shimmering Skies,5,85,Anna,Diplomatic Queen,Legendary,3,FALSE,Emerald,2,3,2,"['Storyborn', 'Hero', 'Queen']",5-85-en-sp.webp
+Shimmering Skies,5,107,Donald Duck,Pie Slinger,Legendary,5,TRUE,Ruby,3,6,1,"['Floodborn', 'Hero', 'Knight']",5-107-en-sp.webp
+Shimmering Skies,5,118,Robin Hood,Sharpshooter,Legendary,4,FALSE,Ruby,1,4,2,"['Storyborn', 'Hero']",5-118-en-sp.webp
+Shimmering Skies,5,150,Mufasa,Ruler of Pride Rock,Legendary,8,FALSE,Sapphire,4,9,4,"['Storyborn', 'Mentor', 'King']",5-150-en-sp.webp
+Shimmering Skies,5,159,Merlin,Intellectual Visionary,Legendary,6,FALSE,Sapphire,3,7,2,"['Floodborn', 'Mentor', 'Sorcerer']",5-159-en-sp.webp
+Shimmering Skies,5,172,Jafar,Tyrannical Hypnotist,Legendary,6,TRUE,Steel,0,7,2,"['Dreamborn', 'Villain', 'Sorcerer']",5-172-en-sp.webp
+Shimmering Skies,5,194,Arthur,King Victorious,Legendary,7,FALSE,Steel,3,6,3,"['Floodborn', 'Hero', 'King']",5-194-en-sp.webp
+The First Chapter,1,18,Rapunzel,Gifted with Healing,Legendary,4,TRUE,Amber,1,5,2,"['Storyborn', 'Hero', 'Princess']",1-18-en-sp.webp
+The First Chapter,1,21,Stitch,Carefree Surfer,Legendary,7,TRUE,Amber,4,8,2,"['Dreamborn', 'Hero', 'Alien']",1-21-en-sp.webp
+The First Chapter,1,42,Elsa,Spirit of Winter,Legendary,8,FALSE,Amethyst,4,6,3,"['Floodborn', 'Hero', 'Queen', 'Sorcerer']",1-42-en-sp.webp
+The First Chapter,1,59,Ursula,Power Hungry,Legendary,7,FALSE,Amethyst,2,8,3,"['Storyborn', 'Villain', 'Sorcerer']",1-59-en-sp.webp
+The First Chapter,1,70,Beast,Wolfsbane,Legendary,5,FALSE,Emerald,4,4,2,"['Dreamborn', 'Hero', 'Prince']",1-70-en-sp.webp
+The First Chapter,1,82,John Silver,Alien Pirate,Legendary,6,TRUE,Emerald,5,5,2,"['Storyborn', 'Villain', 'Alien', 'Pirate', 'Captain']",1-82-en-sp.webp
+The First Chapter,1,113,Maleficent,Monstrous Dragon,Legendary,9,TRUE,Ruby,7,5,2,"['Storyborn', 'Villain', 'Dragon']",
+The First Chapter,1,115,Mickey Mouse,Brave Little Tailor,Legendary,8,TRUE,Ruby,5,5,4,"['Dreamborn', 'Hero']",1-115-en-sp.webp
+The First Chapter,1,142,Belle,Strange but Special,Legendary,4,TRUE,Sapphire,2,4,1,"['Storyborn', 'Hero', 'Princess']",1-142-en-sp.webp
+The First Chapter,1,147,Hades,Infernal Schemer,Legendary,7,FALSE,Sapphire,3,6,2,"['Dreamborn', 'Villain', 'Deity']",1-147-en-sp.webp
+The First Chapter,1,178,Gantu,Galactic Federation Captain,Legendary,8,TRUE,Steel,6,6,2,"['Storyborn', 'Alien', 'Captain']",1-178-en-sp.webp
+The First Chapter,1,192,Te KÄ,Heartless,Legendary,6,TRUE,Steel,5,5,2,"['Dreamborn', 'Villain', 'Deity']",1-192-en-sp.webp
+Ursula's Return,4,4,Cinderella,Melody Weaver,Legendary,5,TRUE,Amber,1,5,2,"['Dreamborn', 'Hero', 'Princess']",4-4-en-sp.webp
+Ursula's Return,4,16,Mickey Mouse,Musketeer Captain,Legendary,7,FALSE,Amber,3,6,2,"['Floodborn', 'Hero', 'Musketeer', 'Captain']",4-16-en-sp.webp
+Ursula's Return,4,58,Ursula,Sea Witch Queen,Legendary,7,TRUE,Amethyst,4,7,3,"['Floodborn', 'Villain', 'Queen', 'Sorcerer']",4-58-en-sp.webp
+Ursula's Return,4,59,Yen Sid,Powerful Sorcerer,Legendary,2,TRUE,Amethyst,1,3,1,"['Storyborn', 'Hero', 'Sorcerer']",4-59-en-sp.webp
+Ursula's Return,4,70,Diablo,Devoted Herald,Legendary,3,FALSE,Emerald,2,2,1,"['Floodborn', 'Ally']",4-70-en-sp.webp
+Ursula's Return,4,74,Hades,Double Dealer,Legendary,4,TRUE,Emerald,3,3,1,"['Storyborn', 'Villain', 'Deity']",4-74-en-sp.webp
+Ursula's Return,4,114,Mulan,Elite Archer,Legendary,6,TRUE,Ruby,2,6,2,"['Floodborn', 'Hero', 'Princess']",4-114-en-sp.webp
+Ursula's Return,4,125,Sisu,Empowered Sibling,Legendary,8,FALSE,Ruby,5,4,3,"['Floodborn', 'Hero', 'Deity', 'Dragon']",4-125-en-sp.webp
+Ursula's Return,4,156,The Queen,Diviner,Legendary,3,TRUE,Sapphire,3,3,1,"['Dreamborn', 'Villain', 'Queen', 'Sorcerer']",4-156-en-sp.webp
+Ursula's Return,4,158,Triton,Champion of Atlantica,Legendary,9,TRUE,Sapphire,7,9,3,"['Floodborn', 'King']",4-158-en-sp.webp
+Ursula's Return,4,179,Donald Duck,Buccaneer,Legendary,4,TRUE,Steel,3,4,1,"['Dreamborn', 'Hero', 'Pirate', 'Captain']",4-179-en-sp.webp
+Ursula's Return,4,191,Piglet,Sturdy Swordsman,Legendary,5,FALSE,Steel,3,5,3,"['Dreamborn', 'Hero']",4-191-en-sp.webp
+The First Chapter,1,131,Fan the Flames,,Uncommon,1,TRUE,Ruby,,,,[nan],
+The First Chapter,1,132,He's Got a Sword!,,Common,1,TRUE,Ruby,,,,[nan],
+Azurite Sea,6,3,Winnie the Pooh,Hunny Pirate,Rare,2,FALSE,Amber,2,2,1,"['Storyborn', 'Hero', 'Pirate']",6-3-en-sp.webp
+Azurite Sea,6,13,Monterey Jack,Good-Hearted Ranger,Rare,4,TRUE,Amber,0,7,2,"['Storyborn', 'Ally']",6-13-en-sp.webp
+Azurite Sea,6,14,Chip 'n' Dale,Recovery Rangers,Rare,8,FALSE,Amber,6,6,3,"['Floodborn', 'Hero']",6-14-en-sp.webp
+Azurite Sea,6,15,Judy Hopps,Resourceful Rabbit,Rare,6,TRUE,Amber,3,6,2,"['Storyborn', 'Hero']",6-15-en-sp.webp
+Azurite Sea,6,19,Nani,Caring Sister,Rare,5,TRUE,Amber,3,5,2,"['Storyborn', 'Hero']",6-19-en-sp.webp
+Azurite Sea,6,21,Kanga,Nurturing Mother,Rare,3,FALSE,Amber,2,4,1,"['Storyborn', 'Ally']",6-21-en-sp.webp
+Azurite Sea,6,30,Safe and Sound,,Rare,2,FALSE,Amber,,,,[nan],6-30-en-sp.webp
+Azurite Sea,6,32,Pooh Pirate Ship,,Rare,1,FALSE,Amber,,,,[nan],6-32-en-sp.webp
+Azurite Sea,6,36,Hades,Lord of the Dead,Rare,6,FALSE,Amethyst,3,4,3,"['Storyborn', 'Villain', 'Deity']",6-36-en-sp.webp
+Azurite Sea,6,37,Madam Mim,Tiny Adversary,Rare,2,TRUE,Amethyst,0,3,1,"['Storyborn', 'Villain', 'Sorcerer']",6-37-en-sp.webp
+Azurite Sea,6,52,Rafiki,Ethereal Guide,Rare,9,FALSE,Amethyst,6,6,4,"['Floodborn', 'Mentor', 'Sorcerer']",6-52-en-sp.webp
+Azurite Sea,6,53,Genie,Wish Fulfilled,Rare,4,FALSE,Amethyst,2,4,2,"['Storyborn', 'Ally']",6-53-en-sp.webp
+Azurite Sea,6,57,Mama Odie,Solitary Sage,Rare,5,FALSE,Amethyst,4,5,1,"['Storyborn', 'Ally', 'Sorcerer']",6-57-en-sp.webp
+Azurite Sea,6,64,Seeking the Half Crown,,Rare,5,FALSE,Amethyst,,,,[nan],6-64-en-sp.webp
+Azurite Sea,6,65,Maleficent's Staff,,Rare,2,TRUE,Amethyst,,,,[nan],6-65-en-sp.webp
+Azurite Sea,6,69,Mystical Tree,Mama Odie's Home,Rare,2,TRUE,Amethyst,,7,0,[nan],6-69-en-sp.webp
+Azurite Sea,6,70,Jasmine,Royal Seafarer,Rare,3,TRUE,Emerald,2,3,1,"['Storyborn', 'Hero', 'Princess']",6-70-en-sp.webp
+Azurite Sea,6,71,Captain Hook,Underhanded,Rare,3,TRUE,Emerald,1,4,2,"['Storyborn', 'Villain', 'Pirate', 'Captain']",6-71-en-sp.webp
+Azurite Sea,6,72,Stitch,Alien Buccaneer,Rare,4,FALSE,Emerald,3,4,2,"['Floodborn', 'Hero', 'Alien', 'Pirate']",6-72-en-sp.webp
+Azurite Sea,6,73,Go Go Tomago,Darting Dynamo,Rare,2,TRUE,Emerald,2,2,1,"['Storyborn', 'Hero', 'Inventor']",6-73-en-sp.webp
+Azurite Sea,6,89,Goofy,Expert Shipwright,Rare,5,TRUE,Emerald,1,4,3,"['Dreamborn', 'Hero', 'Inventor']",6-89-en-sp.webp
+Azurite Sea,6,92,Olivia Flaversham,The Toymaker's Daughter,Rare,2,FALSE,Emerald,1,1,3,['Storyborn'],6-92-en-sp.webp
+Azurite Sea,6,97,You Came Back,,Rare,3,FALSE,Emerald,,,,[nan],6-97-en-sp.webp
+Azurite Sea,6,102,Owl Island,Secluded Entrance,Rare,3,FALSE,Emerald,,6,0,[nan],6-102-en-sp.webp
+Azurite Sea,6,107,Raya,Kumandran Rider,Rare,4,TRUE,Ruby,3,3,2,"['Storyborn', 'Hero', 'Princess']",6-107-en-sp.webp
+Azurite Sea,6,108,Wendy Darling,Courageous Captain,Rare,2,FALSE,Ruby,1,2,1,"['Dreamborn', 'Hero', 'Pirate', 'Captain']",6-108-en-sp.webp
+Azurite Sea,6,121,Moana,Kakamora Leader,Rare,7,TRUE,Ruby,6,5,1,"['Floodborn', 'Hero', 'Princess', 'Pirate', 'Captain']",6-121-en-sp.webp
+Azurite Sea,6,122,Pete,Freebooter,Rare,3,TRUE,Ruby,5,2,1,"['Dreamborn', 'Villain', 'Pirate']",6-122-en-sp.webp
+Azurite Sea,6,123,Goofy,Flying Goof,Rare,6,FALSE,Ruby,5,5,1,"['Storyborn', 'Hero']",6-123-en-sp.webp
+Azurite Sea,6,126,Tigger,In the Crow's Nest,Rare,3,TRUE,Ruby,0,4,1,"['Storyborn', 'Hero', 'Tigger', 'Pirate']",6-126-en-sp.webp
+Azurite Sea,6,131,Energy Blast,,Rare,7,FALSE,Ruby,,,,[nan],6-131-en-sp.webp
+Azurite Sea,6,135,Flotilla,Coconut Armada,Rare,2,FALSE,Ruby,,6,0,[nan],6-135-en-sp.webp
+Azurite Sea,6,141,Zipper,Astute Decoy,Rare,3,TRUE,Sapphire,2,2,2,"['Storyborn', 'Ally']",6-141-en-sp.webp
+Azurite Sea,6,154,Hiro Hamada,Team Leader,Rare,4,TRUE,Sapphire,1,5,1,"['Storyborn', 'Hero', 'Inventor']",6-154-en-sp.webp
+Azurite Sea,6,155,Tadashi Hamada,Gifted Roboticist,Rare,3,FALSE,Sapphire,2,2,2,"['Storyborn', 'Mentor', 'Inventor']",6-155-en-sp.webp
+Azurite Sea,6,156,Baymax,Personal Healthcare Companion,Rare,3,TRUE,Sapphire,,4,2,"['Storyborn', 'Hero', 'Robot']",6-156-en-sp.webp
+Azurite Sea,6,159,Hiram Flaversham,Intrigued Inventor,Rare,2,FALSE,Sapphire,,2,3,"['Storyborn', 'Ally', 'Inventor']",6-159-en-sp.webp
+Azurite Sea,6,160,Yokai,Scientific Supervillain,Rare,9,TRUE,Sapphire,6,10,2,"['Floodborn', 'Villain', 'Inventor']",6-160-en-sp.webp
+Azurite Sea,6,162,We Could Be Immortals,,Rare,4,TRUE,Sapphire,,,,[nan],6-162-en-sp.webp
+Azurite Sea,6,169,Rescue Rangers Submarine,Mobile Headquarters,Rare,2,TRUE,Sapphire,0,8,0,[nan],6-169-en-sp.webp
+Azurite Sea,6,172,Kakamora,Pirate Chief,Rare,7,FALSE,Steel,4,6,2,"['Storyborn', 'Pirate', 'Captain']",6-172-en-sp.webp
+Azurite Sea,6,174,Mr. Big,Shrewd Tycoon,Rare,4,FALSE,Steel,1,1,3,['Storyborn'],6-174-en-sp.webp
+Azurite Sea,6,188,Cobra Bubbles,Former CIA,Rare,5,TRUE,Steel,3,4,2,"['Dreamborn', 'Ally']",6-188-en-sp.webp
+Azurite Sea,6,189,Gantu,Captain Crankyhead,Rare,5,TRUE,Steel,4,3,4,"['Dreamborn', 'Alien', 'Captain']",6-189-en-sp.webp
+Azurite Sea,6,191,Calhoun,Marine Sergeant,Rare,2,FALSE,Steel,3,2,1,"['Storyborn', 'Hero']",6-191-en-sp.webp
+Azurite Sea,6,198,Ambush!,,Rare,3,FALSE,Steel,,,,[nan],6-198-en-sp.webp
+Azurite Sea,6,200,King's Sensor Core,,Rare,3,TRUE,Steel,,,,[nan],6-200-en-sp.webp
+Azurite Sea,6,203,Treasure Mountain,Azurite Sea Island,Rare,5,FALSE,Steel,,9,2,[nan],6-203-en-sp.webp
+Into the Inklands,3,85,Shenzi,Hyena Pack Leader,Super_rare,4,TRUE,Emerald,0,6,1,"['Storyborn', 'Ally', 'Hyena']",3-85-en-sp.webp
+Into the Inklands,3,86,Sir Hiss,Aggravating Asp,Common,2,TRUE,Emerald,3,1,1,"['Dreamborn', 'Ally']",3-86-en-sp.webp
+Into the Inklands,3,87,Skippy,Energetic Rabbit,Common,2,TRUE,Emerald,2,2,1,"['Storyborn', 'Ally']",3-87-en-sp.webp
+Into the Inklands,3,88,Starkey,Devious Pirate,Uncommon,7,TRUE,Emerald,6,6,3,"['Storyborn', 'Ally', 'Pirate']",3-88-en-sp.webp
+Into the Inklands,3,89,Stitch,Covert Agent,Rare,5,TRUE,Emerald,3,3,2,"['Dreamborn', 'Hero', 'Alien']",3-89-en-sp.webp
+Into the Inklands,3,90,Ursula,Deceiver,Uncommon,2,TRUE,Emerald,1,3,1,"['Storyborn', 'Villain', 'Sorcerer']",3-90-en-sp.webp
+Into the Inklands,3,91,Ursula,Deceiver of All,Legendary,3,TRUE,Emerald,2,3,1,"['Dreamborn', 'Villain', 'Sorcerer']",3-91-en-sp.webp
+Into the Inklands,3,92,Wildcat,Mechanic,Uncommon,3,TRUE,Emerald,2,3,1,"['Storyborn', 'Ally']",3-92-en-sp.webp
+Into the Inklands,3,93,Zazu,Steward of the Pride Lands,Common,1,TRUE,Emerald,2,1,1,"['Storyborn', 'Ally']",3-93-en-sp.webp
+Into the Inklands,3,94,Has Set My Heaaaaaaart .Â .Â .,,Uncommon,2,TRUE,Emerald,,,,[nan],3-94-en-sp.webp
+Into the Inklands,3,95,I Will Find My Way,,Common,1,TRUE,Emerald,,,,[nan],3-95-en-sp.webp
+Into the Inklands,3,96,Strike a Good Match,,Common,2,TRUE,Emerald,,,,[nan],3-96-en-sp.webp
+Into the Inklands,3,97,Airfoil,,Common,2,TRUE,Emerald,,,,[nan],3-97-en-sp.webp
+Into the Inklands,3,98,Robin's Bow,,Uncommon,3,FALSE,Emerald,,,,[nan],3-98-en-sp.webp
+Into the Inklands,3,99,Starlight Vial,,Rare,4,FALSE,Emerald,,,,[nan],3-99-en-sp.webp
+Into the Inklands,3,100,De Vil Manor,Cruella's Estate,Common,1,TRUE,Emerald,,4,1,[nan],3-100-en-sp.webp
+Into the Inklands,3,101,Fang,River City,Rare,4,TRUE,Emerald,,6,2,[nan],3-101-en-sp.webp
+Into the Inklands,3,102,Kuzco's Palace,Home of the Emperor,Uncommon,3,TRUE,Emerald,,7,1,[nan],3-102-en-sp.webp
+Into the Inklands,3,103,Ariel,Adventurous Collector,Super_rare,3,TRUE,Ruby,2,3,1,"['Dreamborn', 'Hero', 'Princess']",3-103-en-sp.webp
+Into the Inklands,3,104,Billy Bones,Keeper of the Map,Common,5,TRUE,Ruby,6,5,1,"['Storyborn', 'Alien', 'Pirate']",3-104-en-sp.webp
+Into the Inklands,3,105,Captain Hook,Master Swordsman,Rare,5,TRUE,Ruby,5,4,1,"['Dreamborn', 'Villain', 'Pirate', 'Captain']",3-105-en-sp.webp
+Into the Inklands,3,106,Della Duck,Unstoppable Mom,Common,2,FALSE,Ruby,3,3,0,"['Storyborn', 'Ally']",3-106-en-sp.webp
+Into the Inklands,3,107,HeiHei,Accidental Explorer,Uncommon,2,TRUE,Ruby,3,2,1,"['Storyborn', 'Ally']",3-107-en-sp.webp
+Into the Inklands,3,108,Hydra,Deadly Serpent,Legendary,6,FALSE,Ruby,6,5,2,['Storyborn'],3-108-en-sp.webp
+Into the Inklands,3,109,Jim Hawkins,Space Traveler,Legendary,5,TRUE,Ruby,4,4,2,"['Storyborn', 'Hero']",3-109-en-sp.webp
+Into the Inklands,3,110,Jim Hawkins,Thrill Seeker,Common,2,TRUE,Ruby,3,2,1,"['Dreamborn', 'Hero']",3-110-en-sp.webp
+Into the Inklands,3,111,Kakamora,Menacing Sailor,Common,3,FALSE,Ruby,3,2,1,"['Storyborn', 'Pirate']",3-111-en-sp.webp
+Into the Inklands,3,112,Madame Medusa,The Boss,Super_rare,6,FALSE,Ruby,4,4,1,"['Storyborn', 'Villain']",3-112-en-sp.webp
+Into the Inklands,3,113,Maui,Soaring Demigod,Uncommon,3,FALSE,Ruby,5,2,0,"['Storyborn', 'Hero', 'Deity']",3-113-en-sp.webp
+Into the Inklands,3,114,Maui,Whale,Rare,7,TRUE,Ruby,8,8,1,"['Storyborn', 'Hero', 'Deity']",3-114-en-sp.webp
+Into the Inklands,3,115,Milo Thatch,Spirited Scholar,Common,2,TRUE,Ruby,2,2,1,"['Storyborn', 'Hero']",3-115-en-sp.webp
+Into the Inklands,3,116,Moana,Born Leader,Rare,5,TRUE,Ruby,4,4,2,"['Floodborn', 'Hero', 'Princess', 'Captain']",3-116-en-sp.webp
+Into the Inklands,3,117,Moana,Undeterred Voyager,Common,4,TRUE,Ruby,3,4,1,"['Storyborn', 'Hero', 'Princess']",3-117-en-sp.webp
+Into the Inklands,3,118,Nutsy,Vulture Henchman,Common,2,TRUE,Ruby,2,3,1,"['Storyborn', 'Ally']",3-118-en-sp.webp
+Into the Inklands,3,119,Peter Pan,Never Land Hero,Common,3,TRUE,Ruby,1,3,2,"['Storyborn', 'Hero']",3-119-en-sp.webp
+Into the Inklands,3,120,Peter Pan,Pirate's Bane,Rare,6,TRUE,Ruby,4,5,2,"['Floodborn', 'Hero']",3-120-en-sp.webp
+Into the Inklands,3,121,Prince Eric,Expert Helmsman,Super_rare,4,FALSE,Ruby,2,2,2,"['Dreamborn', 'Hero', 'Prince']",3-121-en-sp.webp
+Into the Inklands,3,122,Scroop,Backstabber,Uncommon,5,TRUE,Ruby,2,5,2,"['Storyborn', 'Villain', 'Alien', 'Pirate']",3-122-en-sp.webp
+Into the Inklands,3,123,Simba,Scrappy Cub,Rare,2,FALSE,Ruby,1,1,3,"['Storyborn', 'Hero', 'Prince']",3-123-en-sp.webp
+Into the Inklands,3,124,Slightly,Lost Boy,Uncommon,4,TRUE,Ruby,4,3,1,"['Storyborn', 'Ally']",3-124-en-sp.webp
+Into the Inklands,3,125,Stitch,Little Rocket,Common,2,FALSE,Ruby,3,1,1,"['Dreamborn', 'Hero', 'Alien']",3-125-en-sp.webp
+Into the Inklands,3,126,Trigger,Not-So-Sharp Shooter,Uncommon,2,TRUE,Ruby,3,1,1,"['Storyborn', 'Ally']",3-126-en-sp.webp
+Into the Inklands,3,127,Webby Vanderquack,Enthusiastic Duck,Common,3,TRUE,Ruby,3,4,1,"['Storyborn', 'Ally']",3-127-en-sp.webp
+Into the Inklands,3,128,Divebomb,,Uncommon,3,TRUE,Ruby,,,,[nan],3-128-en-sp.webp
+Into the Inklands,3,129,I've Got a Dream,,Uncommon,2,TRUE,Ruby,,,,[nan],3-129-en-sp.webp
+Into the Inklands,3,130,On Your Feet! Now!,,Rare,4,FALSE,Ruby,,,,[nan],3-130-en-sp.webp
+Into the Inklands,3,131,Voyage,,Common,1,TRUE,Ruby,,,,[nan],3-131-en-sp.webp
+Into the Inklands,3,132,Maui's Fish Hook,,Rare,3,TRUE,Ruby,,,,[nan],3-132-en-sp.webp
+Rise of the Floodborn,2,2,Christopher Robin,Adventurer,Rare,6,TRUE,Amber,2,6,2,"['Dreamborn', 'Hero']",2-2-en-sp.webp
+Rise of the Floodborn,2,3,Cinderella,Ballroom Sensation,Rare,1,TRUE,Amber,1,2,1,"['Storyborn', 'Hero', 'Princess']",2-3-en-sp.webp
+Rise of the Floodborn,2,4,Cobra Bubbles,Just a Social Worker,Rare,7,TRUE,Amber,5,9,2,"['Storyborn', 'Ally']",2-4-en-sp.webp
+Rise of the Floodborn,2,9,Grand Duke,Advisor to the King,Rare,2,TRUE,Amber,2,2,1,"['Storyborn', 'Ally']",2-9-en-sp.webp
+Rise of the Floodborn,2,16,Mulan,Reflecting,Rare,4,TRUE,Amber,3,3,2,"['Floodborn', 'Hero', 'Princess']",2-16-en-sp.webp
+Rise of the Floodborn,2,31,World's Greatest Criminal Mind,,Rare,3,TRUE,Amber,,,,[nan],2-31-en-sp.webp
+Rise of the Floodborn,2,33,Dragon Gem,,Rare,3,FALSE,Amber,,,,[nan],2-33-en-sp.webp
+Rise of the Floodborn,2,34,Sleepy's Flute,,Rare,2,FALSE,Amber,,,,[nan],2-34-en-sp.webp
+Rise of the Floodborn,2,46,Madam Mim,Fox,Rare,3,TRUE,Amethyst,4,3,1,"['Storyborn', 'Villain', 'Sorcerer']",2-46-en-sp.webp
+Rise of the Floodborn,2,48,Madam Mim,Rival of Merlin,Rare,5,TRUE,Amethyst,2,5,2,"['Floodborn', 'Villain', 'Sorcerer']",2-48-en-sp.webp
+Rise of the Floodborn,2,52,Merlin,Rabbit,Rare,4,FALSE,Amethyst,2,3,1,"['Storyborn', 'Mentor', 'Sorcerer']",2-52-en-sp.webp
+Rise of the Floodborn,2,53,Merlin,Shapeshifter,Rare,4,TRUE,Amethyst,1,5,1,"['Storyborn', 'Mentor', 'Sorcerer']",2-53-en-sp.webp
+Rise of the Floodborn,2,56,Pinocchio,Star Attraction,Rare,2,FALSE,Amethyst,1,1,3,"['Storyborn', 'Hero']",2-56-en-sp.webp
+Rise of the Floodborn,2,62,Gruesome and Grim,,Rare,3,FALSE,Amethyst,,,,[nan],2-62-en-sp.webp
+Rise of the Floodborn,2,67,Perplexing Signposts,,Rare,2,FALSE,Amethyst,,,,[nan],2-67-en-sp.webp
+Rise of the Floodborn,2,68,The Sorcerer's Spellbook,,Rare,3,FALSE,Amethyst,,,,[nan],2-68-en-sp.webp
+Rise of the Floodborn,2,82,Flynn Rider,His Own Biggest Fan,Rare,4,FALSE,Emerald,2,3,4,"['Floodborn', 'Hero', 'Prince']",2-82-en-sp.webp
+Rise of the Floodborn,2,84,Little John,Loyal Friend,Rare,6,TRUE,Emerald,6,6,2,"['Storyborn', 'Ally']",2-84-en-sp.webp
+Rise of the Floodborn,2,85,Lucifer,Cunning Cat,Rare,5,FALSE,Emerald,2,2,2,"['Storyborn', 'Ally']",2-85-en-sp.webp
+Rise of the Floodborn,2,88,Pete,Bad Guy,Rare,5,TRUE,Emerald,3,4,2,"['Storyborn', 'Villain']",2-88-en-sp.webp
+Rise of the Floodborn,2,89,Prince John,Greediest of All,Rare,3,FALSE,Emerald,1,2,2,"['Dreamborn', 'Villain', 'Prince']",2-89-en-sp.webp
+Rise of the Floodborn,2,96,Bibbidi Bobbidi Boo,,Rare,3,FALSE,Emerald,,,,[nan],2-96-en-sp.webp
+Rise of the Floodborn,2,100,Pack Tactics,,Rare,4,TRUE,Emerald,,,,[nan],2-100-en-sp.webp
+Rise of the Floodborn,2,102,Ratigan's Marvelous Trap,,Rare,3,FALSE,Emerald,,,,[nan],2-102-en-sp.webp
+Rise of the Floodborn,2,109,Honest John,Not That Honest,Rare,3,FALSE,Ruby,2,3,1,"['Storyborn', 'Villain']",2-109-en-sp.webp
+Rise of the Floodborn,2,112,Lumiere,Hotheaded Candelabra,Rare,7,TRUE,Ruby,7,7,2,"['Dreamborn', 'Ally']",2-112-en-sp.webp
+The First Chapter,1,154,Mickey Mouse,Detective,Common,3,FALSE,Sapphire,1,3,1,"['Dreamborn', 'Hero', 'Detective']",
+Rise of the Floodborn,2,121,Ratigan,Very Large Mouse,Rare,5,FALSE,Ruby,3,3,2,"['Storyborn', 'Villain']",2-121-en-sp.webp
+Rise of the Floodborn,2,126,Shere Khan,Menacing Predator,Rare,3,TRUE,Ruby,3,3,1,"['Storyborn', 'Villain']",2-126-en-sp.webp
+Rise of the Floodborn,2,128,Tuk Tuk,Wrecking Ball,Rare,4,FALSE,Ruby,4,5,0,"['Storyborn', 'Ally']",2-128-en-sp.webp
+Rise of the Floodborn,2,130,Teeth and Ambitions,,Rare,2,TRUE,Ruby,,,,[nan],2-130-en-sp.webp
+Rise of the Floodborn,2,134,Dinner Bell,,Rare,4,FALSE,Ruby,,,,[nan],2-134-en-sp.webp
+Rise of the Floodborn,2,147,Gaston,Intellectual Powerhouse,Rare,6,FALSE,Sapphire,4,4,3,"['Floodborn', 'Villain']",2-147-en-sp.webp
+Rise of the Floodborn,2,149,Hiram Flaversham,Toymaker,Rare,4,TRUE,Sapphire,1,6,1,"['Storyborn', 'Inventor']",2-149-en-sp.webp
+Rise of the Floodborn,2,153,Mrs. Judson,Housekeeper,Rare,4,FALSE,Sapphire,1,5,2,"['Storyborn', 'Ally']",2-153-en-sp.webp
+Rise of the Floodborn,2,155,Noi,Orphaned Thief,Rare,2,TRUE,Sapphire,1,2,2,"['Storyborn', 'Ally']",2-155-en-sp.webp
+Rise of the Floodborn,2,157,Prince Charming,Heir to the Throne,Rare,4,TRUE,Sapphire,3,3,3,"['Dreamborn', 'Hero', 'Prince']",2-157-en-sp.webp
+Rise of the Floodborn,2,161,Winnie the Pooh,Having a Think,Rare,3,TRUE,Sapphire,2,3,2,"['Storyborn', 'Hero']",2-161-en-sp.webp
+Rise of the Floodborn,2,162,Falling Down the Rabbit Hole,,Rare,4,FALSE,Sapphire,,,,[nan],2-162-en-sp.webp
+Rise of the Floodborn,2,168,Maurice's Workshop,,Rare,3,FALSE,Sapphire,,,,[nan],2-168-en-sp.webp
+Rise of the Floodborn,2,175,Chief Bogo,Respected Officer,Rare,4,FALSE,Steel,2,4,2,['Dreamborn'],2-175-en-sp.webp
+Rise of the Floodborn,2,180,Goofy,Knight for a Day,Rare,9,TRUE,Steel,10,10,4,"['Dreamborn', 'Hero', 'Knight']",2-180-en-sp.webp
+Rise of the Floodborn,2,181,Hercules,Divine Hero,Rare,6,TRUE,Steel,6,3,2,"['Floodborn', 'Hero', 'Prince', 'Deity']",2-181-en-sp.webp
+Rise of the Floodborn,2,185,Kronk,Junior Chipmunk,Rare,6,TRUE,Steel,4,5,2,"['Storyborn', 'Ally']",2-185-en-sp.webp
+Rise of the Floodborn,2,192,Queen of Hearts,Capricious Monarch,Rare,7,TRUE,Steel,5,6,1,"['Storyborn', 'Villain', 'Queen']",2-192-en-sp.webp
+Rise of the Floodborn,2,194,The Huntsman,Reluctant Enforcer,Rare,2,TRUE,Steel,1,1,2,"['Storyborn', 'Ally']",2-194-en-sp.webp
+Rise of the Floodborn,2,201,Strength of a Raging Fire,,Rare,3,TRUE,Steel,,,,[nan],2-201-en-sp.webp
+Rise of the Floodborn,2,204,Weight Set,,Rare,3,TRUE,Steel,,,,[nan],2-204-en-sp.webp
+Shimmering Skies,5,1,Koda,Talkative Cub,Rare,2,TRUE,Amber,2,1,2,"['Storyborn', 'Ally']",5-1-en-sp.webp
+The First Chapter,1,157,Robin Hood,Unrivaled Archer,Super_rare,6,TRUE,Sapphire,4,4,2,"['Storyborn', 'Hero']",
+Shimmering Skies,5,18,Moana,Determined Explorer,Rare,3,FALSE,Amber,3,4,2,"['Storyborn', 'Hero', 'Princess']",5-18-en-sp.webp
+Shimmering Skies,5,19,Vanellope von Schweetz,Sugar Rush Princess,Rare,4,TRUE,Amber,2,4,2,"['Floodborn', 'Hero', 'Princess', 'Racer']",5-19-en-sp.webp
+Shimmering Skies,5,21,Wreck-It Ralph,Admiral Underpants,Rare,7,FALSE,Amber,6,7,2,"['Storyborn', 'Hero']",5-21-en-sp.webp
+Shimmering Skies,5,27,Revive,,Rare,5,FALSE,Amber,,,,[nan],5-27-en-sp.webp
+Shimmering Skies,5,31,Queen's Sensor Core,,Rare,2,TRUE,Amber,,,,[nan],5-31-en-sp.webp
+Shimmering Skies,5,34,Pride Lands,Jungle Oasis,Rare,3,TRUE,Amber,,8,1,[nan],5-34-en-sp.webp
+Shimmering Skies,5,45,Luisa Madrigal,Entertaining Muscle,Rare,6,FALSE,Amethyst,4,8,3,"['Storyborn', 'Ally', 'Madrigal']",5-45-en-sp.webp
+Shimmering Skies,5,46,Anna,Mystical Majesty,Rare,7,FALSE,Amethyst,4,5,2,"['Floodborn', 'Hero', 'Queen', 'Sorcerer']",5-46-en-sp.webp
+Shimmering Skies,5,50,Olaf,Happy Passenger,Rare,9,FALSE,Amethyst,6,6,3,"['Storyborn', 'Ally']",5-50-en-sp.webp
+Shimmering Skies,5,53,Magica De Spell,Cruel Sorceress,Rare,4,TRUE,Amethyst,2,5,1,"['Storyborn', 'Villain', 'Sorcerer']",5-53-en-sp.webp
+Shimmering Skies,5,55,Rafiki,Shaman Duelist,Rare,4,FALSE,Amethyst,1,4,2,"['Storyborn', 'Mentor', 'Sorcerer']",5-55-en-sp.webp
+Shimmering Skies,5,61,We Know the Way,,Rare,3,TRUE,Amethyst,,,,[nan],5-61-en-sp.webp
+Shimmering Skies,5,65,Half Hexwell Crown,,Rare,6,FALSE,Amethyst,,,,[nan],5-65-en-sp.webp
+Shimmering Skies,5,67,Elsa's Ice Palace,Place of Solitude,Rare,3,FALSE,Amethyst,,4,1,[nan],5-67-en-sp.webp
+Shimmering Skies,5,69,Robin Hood,Timely Contestant,Rare,9,FALSE,Emerald,6,6,4,"['Storyborn', 'Hero']",5-69-en-sp.webp
+Shimmering Skies,5,79,Iago,Fake Flamingo,Rare,4,TRUE,Emerald,2,4,1,"['Storyborn', 'Ally']",5-79-en-sp.webp
+Shimmering Skies,5,80,Banzai,Gluttonous Predator,Rare,2,FALSE,Emerald,3,2,2,"['Storyborn', 'Ally', 'Hyena']",5-80-en-sp.webp
+Shimmering Skies,5,91,Shenzi,Head Hyena,Rare,5,TRUE,Emerald,3,6,1,"['Storyborn', 'Ally', 'Hyena']",5-91-en-sp.webp
+Shimmering Skies,5,93,Scar,Vengeful Lion,Rare,4,TRUE,Emerald,4,2,1,"['Storyborn', 'Villain']",5-93-en-sp.webp
+Shimmering Skies,5,97,Remember Who You Are,,Rare,4,FALSE,Emerald,,,,[nan],5-97-en-sp.webp
+Shimmering Skies,5,98,Prince John's Mirror,,Rare,3,TRUE,Emerald,,,,[nan],5-98-en-sp.webp
+Shimmering Skies,5,101,Sherwood Forest,Outlaw Hideaway,Rare,2,TRUE,Emerald,,7,0,[nan],5-101-en-sp.webp
+Shimmering Skies,5,104,Wreck-It Ralph,Demolition Dude,Rare,3,TRUE,Ruby,1,4,1,"['Storyborn', 'Hero']",5-104-en-sp.webp
+Shimmering Skies,5,115,Denahi,Avenging Brother,Rare,5,FALSE,Ruby,7,5,2,['Storyborn'],5-115-en-sp.webp
+Shimmering Skies,5,119,Gaston,Pure Paragon,Rare,9,FALSE,Ruby,10,6,2,"['Dreamborn', 'Villain']",5-119-en-sp.webp
+Shimmering Skies,5,123,Ratigan,Party Crasher,Rare,7,FALSE,Ruby,5,5,3,"['Floodborn', 'Villain']",5-123-en-sp.webp
+Shimmering Skies,5,124,Vanellope von Schweetz,Random Roster Racer,Rare,4,FALSE,Ruby,3,3,2,"['Storyborn', 'Hero', 'Princess', 'Racer']",5-124-en-sp.webp
+Shimmering Skies,5,129,Don't Let the Frostbite Bite,,Rare,7,TRUE,Ruby,,,,[nan],5-129-en-sp.webp
+Shimmering Skies,5,133,The Sword Released,,Rare,3,FALSE,Ruby,,,,[nan],5-133-en-sp.webp
+Shimmering Skies,5,135,Sugar Rush Speedway,Starting Line,Rare,1,FALSE,Ruby,,5,0,[nan],5-135-en-sp.webp
+Shimmering Skies,5,140,Scrooge McDuck,Afficionado of Antiquities,Rare,4,FALSE,Sapphire,5,5,2,"['Storyborn', 'Hero']",5-140-en-sp.webp
+Shimmering Skies,5,145,Sheriff of Nottingham,Bushel Britches,Rare,9,FALSE,Sapphire,5,9,4,"['Storyborn', 'Villain']",5-145-en-sp.webp
+The First Chapter,1,162,If it's Not Baroque,,Rare,3,FALSE,Sapphire,,,,[nan],
+Shimmering Skies,5,148,The Queen,Crown of the Council,Rare,4,FALSE,Sapphire,3,2,2,"['Storyborn', 'Villain', 'Queen', 'Sorcerer']",5-148-en-sp.webp
+Shimmering Skies,5,158,Belle,Of the Ball,Rare,4,FALSE,Sapphire,2,3,2,"['Dreamborn', 'Hero', 'Princess']",5-158-en-sp.webp
+Shimmering Skies,5,161,Royal Tantrum,,Rare,4,FALSE,Sapphire,,,,[nan],5-161-en-sp.webp
+Shimmering Skies,5,166,Basil's Magnifying Glass,,Rare,2,TRUE,Sapphire,,,,[nan],5-166-en-sp.webp
+Shimmering Skies,5,169,The Great Illuminary,Radiant Ballroom,Rare,3,TRUE,Sapphire,,9,0,[nan],5-169-en-sp.webp
+Shimmering Skies,5,182,Namaari,Resolute Daughter,Rare,9,FALSE,Steel,5,5,3,"['Storyborn', 'Villain', 'Princess']",5-182-en-sp.webp
+Shimmering Skies,5,184,Yzma,Unjustly Treated,Rare,4,FALSE,Steel,1,4,2,"['Dreamborn', 'Villain', 'Sorcerer']",5-184-en-sp.webp
+Shimmering Skies,5,187,Pete,Wrestling Champ,Rare,3,FALSE,Steel,1,3,1,"['Dreamborn', 'Villain']",5-187-en-sp.webp
+Shimmering Skies,5,188,Sir Ector,Castle Lord,Rare,7,FALSE,Steel,7,10,3,"['Storyborn', 'Knight']",5-188-en-sp.webp
+Shimmering Skies,5,193,Doc,Bold Knight,Rare,2,FALSE,Steel,1,3,1,"['Dreamborn', 'Ally', 'Knight', 'Seven Dwarfs']",5-193-en-sp.webp
+Shimmering Skies,5,196,Tug-of-War,,Rare,5,TRUE,Steel,,,,[nan],5-196-en-sp.webp
+Shimmering Skies,5,201,Plate Armor,,Rare,4,FALSE,Steel,,,,[nan],5-201-en-sp.webp
+Shimmering Skies,5,203,Bad-Anon,Villain Support Center,Rare,3,TRUE,Steel,,7,1,[nan],5-203-en-sp.webp
+The First Chapter,1,174,Captain Hook,Forceful Duelist,Common,1,TRUE,Steel,1,2,1,"['Dreamborn', 'Villain', 'Pirate', 'Captain']",
+The First Chapter,1,5,Hades,King of Olympus,Rare,8,FALSE,Amber,6,7,1,"['Floodborn', 'Villain', 'King', 'Deity']",1-5-en-sp.webp
+The First Chapter,1,6,Hades,Lord of the Underworld,Rare,4,FALSE,Amber,3,2,1,"['Storyborn', 'Villain', 'Deity']",1-6-en-sp.webp
+The First Chapter,1,9,Lilo,Making a Wish,Rare,1,FALSE,Amber,1,1,2,"['Storyborn', 'Hero']",1-9-en-sp.webp
+The First Chapter,1,14,Moana,Of Motunui,Rare,5,TRUE,Amber,1,6,3,"['Storyborn', 'Hero', 'Princess']",1-14-en-sp.webp
+The First Chapter,1,176,Cerberus,Three-Headed Dog,Common,5,TRUE,Steel,5,6,1,['Storyborn'],
+The First Chapter,1,30,Part of Your World,,Rare,3,FALSE,Amber,,,,[nan],1-30-en-sp.webp
+The First Chapter,1,33,Lantern,,Rare,2,FALSE,Amber,,,,[nan],1-33-en-sp.webp
+The First Chapter,1,34,Ursula's Shell Necklace,,Rare,3,FALSE,Amber,,,,[nan],1-34-en-sp.webp
+The First Chapter,1,37,Dr. Facilier,Agent Provocateur,Rare,7,FALSE,Amethyst,4,5,3,"['Floodborn', 'Villain', 'Sorcerer']",1-37-en-sp.webp
+The First Chapter,1,39,Dr. Facilier,Remarkable Gentleman,Rare,3,TRUE,Amethyst,2,4,1,"['Storyborn', 'Villain', 'Sorcerer']",1-39-en-sp.webp
+The First Chapter,1,43,Flotsam,Ursula's Spy,Rare,5,FALSE,Amethyst,3,4,2,"['Storyborn', 'Ally']",1-43-en-sp.webp
+The First Chapter,1,44,Jafar,Keeper of Secrets,Rare,4,TRUE,Amethyst,0,5,2,"['Dreamborn', 'Villain', 'Sorcerer']",1-44-en-sp.webp
+The First Chapter,1,48,Maleficent,Biding Her Time,Rare,1,FALSE,Amethyst,1,1,2,"['Dreamborn', 'Villain', 'Sorcerer']",1-48-en-sp.webp
+The First Chapter,1,61,Zeus,God of Lightning,Rare,4,FALSE,Amethyst,0,4,2,"['Storyborn', 'Deity']",1-61-en-sp.webp
+The First Chapter,1,66,Magic Mirror,,Rare,2,FALSE,Amethyst,,,,[nan],1-66-en-sp.webp
+The First Chapter,1,68,White Rabbit's Pocket Watch,,Rare,3,TRUE,Amethyst,,,,[nan],1-68-en-sp.webp
+The First Chapter,1,197,Fire the Cannons!,,Common,1,FALSE,Steel,,,,[nan],
+The First Chapter,1,76,Genie,Powers Unleashed,Rare,8,FALSE,Emerald,3,5,3,"['Floodborn', 'Hero']",1-76-en-sp.webp
+The First Chapter,1,78,Hans,Scheming Prince,Rare,4,TRUE,Emerald,3,3,3,"['Storyborn', 'Villain', 'Prince']",1-78-en-sp.webp
+The First Chapter,1,80,Iago,Loud-Mouthed Parrot,Rare,3,TRUE,Emerald,1,4,1,"['Storyborn', 'Ally']",1-80-en-sp.webp
+The First Chapter,1,84,Kuzco,Temperamental Emperor,Rare,5,FALSE,Emerald,2,4,3,"['Storyborn', 'King']",1-84-en-sp.webp
+The First Chapter,1,85,Lady Tremaine,Wicked Stepmother,Rare,6,FALSE,Emerald,1,5,1,"['Dreamborn', 'Villain']",1-85-en-sp.webp
+The First Chapter,1,94,Do It Again!,,Rare,3,FALSE,Emerald,,,,[nan],1-94-en-sp.webp
+The First Chapter,1,97,Steal from the Rich,,Rare,5,FALSE,Emerald,,,,[nan],1-97-en-sp.webp
+The First Chapter,1,107,Captain Hook,Ruthless Pirate,Rare,7,FALSE,Ruby,5,5,2,"['Storyborn', 'Villain', 'Pirate', 'Captain']",1-107-en-sp.webp
+Rise of the Floodborn,2,19,Rapunzel,Gifted Artist,Uncommon,5,TRUE,Amber,0,6,2,"['Floodborn', 'Hero', 'Princess']",
+The First Chapter,1,114,Maui,Hero to All,Rare,5,TRUE,Ruby,6,5,0,"['Storyborn', 'Hero', 'Deity']",1-114-en-sp.webp
+The First Chapter,1,123,Scar,Shameless Firebrand,Rare,8,FALSE,Ruby,6,6,1,"['Floodborn', 'Villain', 'King']",1-123-en-sp.webp
+The First Chapter,1,125,Stitch,Abomination,Rare,6,TRUE,Ruby,4,6,3,"['Storyborn', 'Hero', 'Alien']",1-125-en-sp.webp
+The First Chapter,1,128,Be Prepared,,Rare,7,FALSE,Ruby,,,,[nan],1-128-en-sp.webp
+The First Chapter,1,134,Poisoned Apple,,Rare,3,FALSE,Ruby,,,,[nan],1-134-en-sp.webp
+The First Chapter,1,136,Sword of Truth,,Rare,4,FALSE,Ruby,,,,[nan],1-136-en-sp.webp
+The First Chapter,1,137,Ariel,Whoseit Collector,Rare,4,FALSE,Sapphire,3,3,1,"['Storyborn', 'Hero', 'Princess']",1-137-en-sp.webp
+The First Chapter,1,149,Jasmine,Queen of Agrabah,Rare,5,TRUE,Sapphire,2,5,2,"['Floodborn', 'Hero', 'Princess', 'Queen']",1-149-en-sp.webp
+The First Chapter,1,151,Maleficent,Uninvited,Rare,5,TRUE,Sapphire,3,6,3,"['Dreamborn', 'Villain', 'Sorcerer']",1-151-en-sp.webp
+The First Chapter,1,152,Maurice,World-Famous Inventor,Rare,6,TRUE,Sapphire,2,7,2,"['Dreamborn', 'Mentor', 'Inventor']",1-152-en-sp.webp
+The First Chapter,1,158,Scar,Mastermind,Rare,6,TRUE,Sapphire,5,4,2,"['Storyborn', 'Villain']",1-158-en-sp.webp
+Rise of the Floodborn,2,114,Minnie Mouse,Wide-Eyed Diver,Rare,4,TRUE,Ruby,2,3,1,"['Floodborn', 'Hero']",
+The First Chapter,1,163,Let It Go,,Rare,5,TRUE,Sapphire,,,,[nan],1-163-en-sp.webp
+The First Chapter,1,168,Fishbone Quill,,Rare,3,TRUE,Sapphire,,,,[nan],1-168-en-sp.webp
+The First Chapter,1,173,Captain Hook,Captain of the Jolly Roger,Rare,4,FALSE,Steel,3,4,1,"['Storyborn', 'Villain', 'Pirate', 'Captain']",1-173-en-sp.webp
+The First Chapter,1,175,Captain Hook,Thinking a Happy Thought,Rare,5,FALSE,Steel,2,5,1,"['Floodborn', 'Villain', 'Pirate', 'Captain']",1-175-en-sp.webp
+The First Chapter,1,185,Maui,Demigod,Rare,8,TRUE,Steel,8,8,3,"['Storyborn', 'Hero', 'Deity']",1-185-en-sp.webp
+The First Chapter,1,186,Mickey Mouse,Musketeer,Rare,6,TRUE,Steel,2,7,2,"['Dreamborn', 'Hero', 'Musketeer']",1-186-en-sp.webp
+The First Chapter,1,189,Simba,Returned King,Rare,7,TRUE,Steel,4,6,2,"['Storyborn', 'Hero', 'King']",1-189-en-sp.webp
+The First Chapter,1,198,Grab Your Sword,,Rare,5,FALSE,Steel,,,,[nan],1-198-en-sp.webp
+The First Chapter,1,203,Musketeer Tabard,,Rare,4,FALSE,Steel,,,,[nan],1-203-en-sp.webp
+The First Chapter,1,204,Plasma Blaster,,Rare,3,FALSE,Steel,,,,[nan],1-204-en-sp.webp
+Ursula's Return,4,2,Alma Madrigal,Family Matriarch,Rare,3,FALSE,Amber,1,3,2,"['Storyborn', 'Mentor', 'Madrigal']",4-2-en-sp.webp
+Ursula's Return,4,3,Ariel,Singing Mermaid,Rare,4,TRUE,Amber,3,3,2,"['Storyborn', 'Hero', 'Princess']",4-3-en-sp.webp
+Ursula's Return,4,11,Golden Harp,Enchanter of the Land,Rare,1,TRUE,Amber,1,4,2,"['Storyborn', 'Ally']",4-11-en-sp.webp
+Ursula's Return,4,12,Goofy,Musketeer Swordsman,Rare,4,FALSE,Amber,3,4,2,"['Dreamborn', 'Hero', 'Musketeer']",4-12-en-sp.webp
+Ursula's Return,4,24,Ursula,Eric's Bride,Rare,4,FALSE,Amber,2,4,2,"['Floodborn', 'Villain', 'Princess', 'Sorcerer']",4-24-en-sp.webp
+Ursula's Return,4,28,Look at This Family,,Rare,7,TRUE,Amber,,,,[nan],4-28-en-sp.webp
+Ursula's Return,4,31,Miracle Candle,,Rare,2,TRUE,Amber,,,,[nan],4-31-en-sp.webp
+Ursula's Return,4,34,The Underworld,River Styx,Rare,2,TRUE,Amber,,6,1,[nan],4-34-en-sp.webp
+Ursula's Return,4,38,Bruno Madrigal,Out of the Shadows,Rare,5,FALSE,Amethyst,4,5,1,"['Storyborn', 'Ally', 'Madrigal']",4-38-en-sp.webp
+Ursula's Return,4,42,Elsa,Storm Chaser,Rare,3,FALSE,Amethyst,1,4,1,"['Storyborn', 'Hero', 'Queen', 'Sorcerer']",4-42-en-sp.webp
+Ursula's Return,4,45,Isabela Madrigal,Golden Child,Rare,5,TRUE,Amethyst,3,4,1,"['Storyborn', 'Ally', 'Madrigal']",4-45-en-sp.webp
+Ursula's Return,4,52,Mrs. Potts,Enchanted Teapot,Rare,4,TRUE,Amethyst,3,4,2,"['Storyborn', 'Ally']",4-52-en-sp.webp
+Ursula's Return,4,53,Pepa Madrigal,Weather Maker,Rare,5,FALSE,Amethyst,1,5,1,"['Storyborn', 'Ally', 'Madrigal']",4-53-en-sp.webp
+Ursula's Return,4,61,Second Star to the Right,,Rare,10,FALSE,Amethyst,,,,[nan],4-61-en-sp.webp
+Ursula's Return,4,64,Mystical Rose,,Rare,2,TRUE,Amethyst,,,,[nan],4-64-en-sp.webp
+Ursula's Return,4,68,Ursulaâ€™s Lair,Eye of the Storm,Rare,3,FALSE,Amethyst,,6,1,[nan],4-68-en-sp.webp
+Ursula's Return,4,69,Cri-Kee,Lucky Cricket,Rare,5,TRUE,Emerald,3,4,3,"['Storyborn', 'Ally']",4-69-en-sp.webp
+Ursula's Return,4,76,Hera,Queen of the Gods,Rare,3,TRUE,Emerald,1,3,2,"['Storyborn', 'Queen', 'Deity']",4-76-en-sp.webp
+Ursula's Return,4,78,Jasmine,Desert Warrior,Rare,5,FALSE,Emerald,3,3,2,"['Dreamborn', 'Hero', 'Princess']",4-78-en-sp.webp
+Ursula's Return,4,88,Prince Phillip,Warden of the Woods,Rare,4,FALSE,Emerald,3,4,2,"['Dreamborn', 'Hero', 'Prince']",4-88-en-sp.webp
+Ursula's Return,4,90,The Muses,Proclaimers of Heroes,Rare,4,TRUE,Emerald,2,4,1,"['Storyborn', 'Ally']",4-90-en-sp.webp
+Ursula's Return,4,95,Under the Sea,,Rare,8,FALSE,Emerald,,,,[nan],4-95-en-sp.webp
+Ursula's Return,4,97,We Donâ€™t Talk About Bruno,,Rare,5,TRUE,Emerald,,,,[nan],4-97-en-sp.webp
+Ursula's Return,4,102,Ursulaâ€™s Garden,Full of the Unfortunate,Rare,4,TRUE,Emerald,,7,1,[nan],4-102-en-sp.webp
+Ursula's Return,4,107,Goofy,Super Goof,Rare,4,TRUE,Ruby,2,4,1,"['Storyborn', 'Hero']",4-107-en-sp.webp
+Ursula's Return,4,113,Lumiere,Fiery Friend,Rare,2,TRUE,Ruby,2,2,1,"['Dreamborn', 'Ally']",4-113-en-sp.webp
+Ursula's Return,4,117,Namaari,Heir of Fang,Rare,3,FALSE,Ruby,2,3,1,"['Storyborn', 'Villain', 'Princess']",4-117-en-sp.webp
+Ursula's Return,4,124,Sisu,Emboldened Warrior,Rare,3,TRUE,Ruby,1,4,2,"['Storyborn', 'Hero', 'Deity', 'Dragon']",4-124-en-sp.webp
+Ursula's Return,4,127,Tuk Tuk,Lively Partner,Rare,3,TRUE,Ruby,2,3,1,"['Storyborn', 'Ally']",4-127-en-sp.webp
+Ursula's Return,4,129,Be King Undisputed,,Rare,4,FALSE,Ruby,,,,[nan],4-129-en-sp.webp
+Ursula's Return,4,131,Imperial Proclamation,,Rare,1,TRUE,Ruby,,,,[nan],4-131-en-sp.webp
+Ursula's Return,4,135,Snuggly Duckling,Disreputable Pub,Rare,2,TRUE,Ruby,,9,,[nan],4-135-en-sp.webp
+Ursula's Return,4,142,Dang Hu,Talon Chief,Rare,5,TRUE,Sapphire,3,5,2,"['Storyborn', 'Villain']",4-142-en-sp.webp
+Ursula's Return,4,148,John Silver,Terror of the Realm,Rare,8,TRUE,Sapphire,8,8,3,"['Dreamborn', 'Villain', 'Alien', 'Pirate', 'Captain']",4-148-en-sp.webp
+Ursula's Return,4,152,Prince Phillip,Gallant Defender,Rare,3,TRUE,Sapphire,1,3,2,"['Storyborn', 'Hero', 'Prince']",4-152-en-sp.webp
+Ursula's Return,4,153,Rapunzel,Appreciative Artist,Rare,5,TRUE,Sapphire,3,5,3,"['Dreamborn', 'Hero', 'Princess']",4-153-en-sp.webp
+Ursula's Return,4,159,Triton,Discerning King,Rare,3,FALSE,Sapphire,3,3,1,"['Storyborn', 'King']",4-159-en-sp.webp
+Ursula's Return,4,165,Treasures Untold,,Rare,6,TRUE,Sapphire,,,,[nan],4-165-en-sp.webp
+Ursula's Return,4,166,Field of Ice,,Rare,3,TRUE,Sapphire,,,,[nan],4-166-en-sp.webp
+Ursula's Return,4,169,Arielâ€™s Grotto,A Secret Place,Rare,2,TRUE,Sapphire,,7,,[nan],4-169-en-sp.webp
+Ursula's Return,4,180,Hercules,Beloved Hero,Rare,6,TRUE,Steel,6,5,2,"['Storyborn', 'Hero', 'Prince']",4-180-en-sp.webp
+Ursula's Return,4,181,LeFou,Opportunistic Flunky,Rare,3,TRUE,Steel,2,3,1,"['Dreamborn', 'Ally']",4-181-en-sp.webp
+Ursula's Return,4,187,Mickey Mouse,Playful Sorcerer,Rare,5,TRUE,Steel,3,4,2,"['Floodborn', 'Hero', 'Sorcerer']",4-187-en-sp.webp
+Ursula's Return,4,190,Philoctetes,No-Nonsense Instructor,Rare,4,TRUE,Steel,2,3,2,"['Storyborn', 'Ally']",4-190-en-sp.webp
+Ursula's Return,4,192,Rajah,Royal Protector,Rare,4,TRUE,Steel,3,4,2,"['Storyborn', 'Ally']",4-192-en-sp.webp
+Ursula's Return,4,197,One Last Hope,,Rare,3,FALSE,Steel,,,,[nan],4-197-en-sp.webp
+Ursula's Return,4,202,RLS Legacy's Cannon,,Rare,3,FALSE,Steel,,,,[nan],4-202-en-sp.webp
+Ursula's Return,4,203,The Wall,Border Fortress,Rare,4,TRUE,Steel,,8,,[nan],4-203-en-sp.webp
+Rise of the Floodborn,2,163,Four Dozen Eggs,,Uncommon,4,TRUE,Sapphire,,,,[nan],
+Azurite Sea,6,2,Lilo,Escape Artist,Super_rare,2,TRUE,Amber,1,2,2,"['Storyborn', 'Hero']",6-2-en-sp.webp
+Azurite Sea,6,25,Jim Hawkins,Honorable Pirate,Super_rare,7,TRUE,Amber,4,7,2,"['Dreamborn', 'Hero', 'Pirate', 'Captain']",6-25-en-sp.webp
+Azurite Sea,6,35,Sugar Rush Speedway,Finish Line,Super_rare,2,FALSE,Amber,,7,0,[nan],6-35-en-sp.webp
+Azurite Sea,6,54,Sisu,Uniting Dragon,Super_rare,4,FALSE,Amethyst,3,3,2,"['Storyborn', 'Hero', 'Deity', 'Dragon']",6-54-en-sp.webp
+Azurite Sea,6,55,Madam Mim,Truly Marvelous,Super_rare,3,FALSE,Amethyst,2,3,1,"['Storyborn', 'Villain', 'Sorcerer']",6-55-en-sp.webp
+Azurite Sea,6,59,Mad Hatter,Eccentric Host,Super_rare,1,TRUE,Amethyst,1,1,1,['Storyborn'],6-59-en-sp.webp
+Azurite Sea,6,81,Daisy Duck,Pirate Captain,Super_rare,4,TRUE,Emerald,3,3,2,"['Dreamborn', 'Hero', 'Pirate', 'Captain']",6-81-en-sp.webp
+Azurite Sea,6,85,Peter Pan,Never Land Prankster,Super_rare,7,TRUE,Emerald,4,6,1,"['Storyborn', 'Hero']",6-85-en-sp.webp
+Azurite Sea,6,93,Bend to My Will,,Super_rare,7,FALSE,Emerald,,,,[nan],6-93-en-sp.webp
+Azurite Sea,6,103,Mickey Mouse,Pirate Captain,Super_rare,5,TRUE,Ruby,4,4,2,"['Floodborn', 'Hero', 'Pirate', 'Captain']",6-103-en-sp.webp
+Azurite Sea,6,120,Minnie Mouse,Pirate Lookout,Super_rare,3,FALSE,Ruby,3,2,1,"['Dreamborn', 'Hero', 'Pirate']",6-120-en-sp.webp
+Azurite Sea,6,127,Scar,Heartless Hunter,Super_rare,5,FALSE,Ruby,4,2,3,"['Storyborn', 'Villain']",6-127-en-sp.webp
+Azurite Sea,6,140,Gadget Hackwrench,Brilliant Bosun,Super_rare,6,TRUE,Sapphire,3,6,3,"['Floodborn', 'Ally', 'Inventor']",6-140-en-sp.webp
+Azurite Sea,6,153,Tadashi Hamada,Baymax Inventor,Super_rare,6,TRUE,Sapphire,3,3,3,"['Storyborn', 'Mentor', 'Inventor']",6-153-en-sp.webp
+Azurite Sea,6,161,Alice,Savvy Sailor,Super_rare,3,FALSE,Sapphire,1,4,2,"['Dreamborn', 'Hero']",6-161-en-sp.webp
+Azurite Sea,6,176,Mr. Smee,Captain of the Jolly Roger,Super_rare,6,FALSE,Steel,3,6,2,"['Floodborn', 'Villain', 'Pirate', 'Captain']",6-176-en-sp.webp
+Azurite Sea,6,192,Captain Amelia,Commander of the Legacy,Super_rare,4,TRUE,Steel,1,4,2,"['Storyborn', 'Ally', 'Alien', 'Captain']",6-192-en-sp.webp
+Azurite Sea,6,193,Jafar,Powerâ€Hungry Vizier,Super_rare,5,FALSE,Steel,3,4,1,"['Dreamborn', 'Villain', 'Sorcerer']",6-193-en-sp.webp
+Into the Inklands,3,133,Sumerian Talisman,,Uncommon,3,TRUE,Ruby,,,,[nan],3-133-en-sp.webp
+Into the Inklands,3,134,Agrabah,Marketplace,Common,3,TRUE,Ruby,,5,2,[nan],3-134-en-sp.webp
+Into the Inklands,3,135,Jolly Roger,Hook's Ship,Uncommon,1,FALSE,Ruby,,5,0,[nan],
+Into the Inklands,3,136,RLS Legacy,Solar Galleon,Rare,4,FALSE,Ruby,,8,2,[nan],3-136-en-sp.webp
+Into the Inklands,3,137,Audrey Ramirez,The Engineer,Rare,5,TRUE,Sapphire,2,5,2,"['Storyborn', 'Ally']",3-137-en-sp.webp
+Into the Inklands,3,138,Captain Amelia,First in Command,Common,3,TRUE,Sapphire,1,5,1,"['Storyborn', 'Alien', 'Captain']",3-138-en-sp.webp
+Into the Inklands,3,139,Dewey,Showy Nephew,Uncommon,3,TRUE,Sapphire,2,3,2,"['Dreamborn', 'Ally']",3-139-en-sp.webp
+Into the Inklands,3,140,Flintheart Glomgold,Lone Cheater,Uncommon,4,TRUE,Sapphire,3,4,2,"['Storyborn', 'Villain']",3-140-en-sp.webp
+Into the Inklands,3,141,Genie,Cramped in the Lamp,Uncommon,2,TRUE,Sapphire,2,2,2,"['Storyborn', 'Ally']",3-141-en-sp.webp
+Into the Inklands,3,142,Gramma Tala,Keeper of Ancient Stories,Common,4,TRUE,Sapphire,3,3,1,"['Storyborn', 'Mentor']",3-142-en-sp.webp
+Into the Inklands,3,143,Gramma Tala,Spirit of the Ocean,Legendary,7,TRUE,Sapphire,4,8,2,"['Floodborn', 'Mentor']",3-143-en-sp.webp
+Into the Inklands,3,144,Gyro Gearloose,Gadget Whiz,Rare,3,TRUE,Sapphire,1,4,1,"['Storyborn', 'Ally', 'Inventor']",3-144-en-sp.webp
+Into the Inklands,3,145,Huey,Savvy Nephew,Rare,2,TRUE,Sapphire,2,2,1,"['Storyborn', 'Ally']",3-145-en-sp.webp
+Into the Inklands,3,146,King Louie,Bandleader,Common,7,TRUE,Sapphire,7,7,3,"['Storyborn', 'Ally', 'King']",3-146-en-sp.webp
+Into the Inklands,3,147,Kit Cloudkicker,Navigator,Uncommon,6,TRUE,Sapphire,2,5,3,"['Floodborn', 'Ally']",3-147-en-sp.webp
+Into the Inklands,3,148,Kit Cloudkicker,Spunky Bear Cub,Common,1,TRUE,Sapphire,0,1,1,"['Storyborn', 'Ally']",3-148-en-sp.webp
+Into the Inklands,3,149,Louie,Chill Nephew,Common,4,TRUE,Sapphire,3,4,2,"['Dreamborn', 'Ally']",3-149-en-sp.webp
+Into the Inklands,3,150,Maid Marian,Delightful Dreamer,Common,5,TRUE,Sapphire,4,4,2,"['Storyborn', 'Princess']",3-150-en-sp.webp
+Rise of the Floodborn,2,12,King Louie,Jungle VIP,Super_rare,7,TRUE,Amber,3,8,2,"['Storyborn', 'King']",2-12-en-sp.webp
+Rise of the Floodborn,2,13,Mickey Mouse,Friendly Face,Super_rare,6,TRUE,Amber,1,6,3,"['Storyborn', 'Hero']",2-13-en-sp.webp
+Rise of the Floodborn,2,26,The Queen,Commanding Presence,Super_rare,5,TRUE,Amber,4,3,2,"['Floodborn', 'Villain', 'Queen']",2-26-en-sp.webp
+Rise of the Floodborn,2,35,Arthur,Wizard's Apprentice,Super_rare,3,FALSE,Amethyst,1,3,1,"['Dreamborn', 'Hero', 'Sorcerer']",2-35-en-sp.webp
+Rise of the Floodborn,2,55,Peter Pan's Shadow,Not Sewn On,Super_rare,4,FALSE,Amethyst,2,3,2,"['Storyborn', 'Ally']",2-55-en-sp.webp
+Rise of the Floodborn,2,60,Yzma,Scary Beyond All Reason,Super_rare,6,TRUE,Amethyst,4,4,2,"['Floodborn', 'Villain', 'Sorcerer']",2-60-en-sp.webp
+Rise of the Floodborn,2,75,Cheshire Cat,From the Shadows,Super_rare,8,TRUE,Emerald,5,6,2,['Floodborn'],2-75-en-sp.webp
+Rise of the Floodborn,2,79,Dr. Facilier,Fortune Teller,Super_rare,7,TRUE,Emerald,4,4,3,"['Storyborn', 'Villain', 'Sorcerer']",2-79-en-sp.webp
+Rise of the Floodborn,2,93,The Queen,Disguised Peddler,Super_rare,3,FALSE,Emerald,2,3,0,"['Storyborn', 'Villain', 'Queen']",2-93-en-sp.webp
+Rise of the Floodborn,2,110,Lady Tremaine,Imperious Queen,Super_rare,6,FALSE,Ruby,3,4,2,"['Floodborn', 'Villain', 'Queen']",2-110-en-sp.webp
+Rise of the Floodborn,2,118,Namaari,Nemesis,Super_rare,4,FALSE,Ruby,3,3,1,"['Storyborn', 'Villain', 'Princess']",2-118-en-sp.webp
+Rise of the Floodborn,2,123,Raya,Leader of Heart,Super_rare,6,TRUE,Ruby,5,3,2,"['Floodborn', 'Hero', 'Princess']",2-123-en-sp.webp
+Rise of the Floodborn,2,138,Basil,Great Mouse Detective,Super_rare,6,TRUE,Sapphire,3,4,3,"['Floodborn', 'Hero', 'Detective']",2-138-en-sp.webp
+Rise of the Floodborn,2,142,Cogsworth,Grandfather Clock,Super_rare,5,TRUE,Sapphire,2,5,2,"['Floodborn', 'Ally']",2-142-en-sp.webp
+Rise of the Floodborn,2,148,Grand Pabbie,Oldest and Wisest,Super_rare,7,FALSE,Sapphire,3,6,3,"['Storyborn', 'Mentor']",2-148-en-sp.webp
+Rise of the Floodborn,2,172,Beast,Selfless Protector,Super_rare,6,TRUE,Steel,2,8,1,"['Storyborn', 'Hero', 'Prince']",2-172-en-sp.webp
+Rise of the Floodborn,2,177,Cinderella,Stouthearted,Super_rare,7,TRUE,Steel,5,5,3,"['Floodborn', 'Hero', 'Princess', 'Knight']",2-177-en-sp.webp
+Rise of the Floodborn,2,196,Tiana,Celebrating Princess,Super_rare,4,FALSE,Steel,1,4,2,"['Dreamborn', 'Hero', 'Princess']",2-196-en-sp.webp
+Shimmering Skies,5,15,Minnie Mouse,Drum Major,Super_rare,5,TRUE,Amber,4,4,2,"['Floodborn', 'Hero']",5-15-en-sp.webp
+Shimmering Skies,5,16,Daisy Duck,Donald's Date,Super_rare,1,FALSE,Amber,1,4,2,"['Storyborn', 'Ally']",5-16-en-sp.webp
+Into the Inklands,3,155,Scrooge McDuck,Uncle Moneybags,Uncommon,2,TRUE,Sapphire,1,3,1,"['Dreamborn', 'Hero']",
+Shimmering Skies,5,35,Maleficent,Formidable Queen,Super_rare,8,FALSE,Amethyst,7,7,2,"['Floodborn', 'Villain', 'Queen', 'Sorcerer']",5-35-en-sp.webp
+Shimmering Skies,5,44,Madam Mim,Elephant,Super_rare,4,TRUE,Amethyst,3,7,1,"['Storyborn', 'Villain', 'Sorcerer']",5-44-en-sp.webp
+Shimmering Skies,5,48,Elsa,The Fifth Spirit,Super_rare,5,TRUE,Amethyst,2,5,1,"['Dreamborn', 'Hero', 'Queen', 'Sorcerer']",5-48-en-sp.webp
+Shimmering Skies,5,82,Scroop,Odious Mutineer,Super_rare,3,FALSE,Emerald,2,1,2,"['Storyborn', 'Villain', 'Alien', 'Pirate']",5-82-en-sp.webp
+Shimmering Skies,5,83,Prince Phillip,Swordsman of the Realm,Super_rare,7,TRUE,Emerald,3,9,3,"['Storyborn', 'Hero', 'Prince']",5-83-en-sp.webp
+Shimmering Skies,5,92,Mother Gothel,Unwavering Schemer,Super_rare,6,TRUE,Emerald,4,6,2,"['Floodborn', 'Villain']",5-92-en-sp.webp
+Shimmering Skies,5,105,Maximus,Team Champion,Super_rare,6,TRUE,Ruby,3,5,2,"['Storyborn', 'Ally']",5-105-en-sp.webp
+Shimmering Skies,5,116,Pete,Steamboat Rival,Super_rare,7,TRUE,Ruby,6,6,2,"['Storyborn', 'Villain']",5-116-en-sp.webp
+Shimmering Skies,5,131,Who's With Me?,,Super_rare,3,TRUE,Ruby,,,,[nan],5-131-en-sp.webp
+Shimmering Skies,5,144,The Queen,Fairest of All,Super_rare,5,TRUE,Sapphire,2,6,1,"['Floodborn', 'Villain', 'Queen', 'Sorcerer']",5-144-en-sp.webp
+Shimmering Skies,5,147,Prince John,Gold Lover,Super_rare,4,TRUE,Sapphire,3,4,1,"['Storyborn', 'Villain', 'Prince']",5-147-en-sp.webp
+Shimmering Skies,5,149,Kuzco,Selfish Emperor,Super_rare,6,TRUE,Sapphire,3,5,2,"['Storyborn', 'King']",5-149-en-sp.webp
+Shimmering Skies,5,183,Snow White,Fair-Hearted,Super_rare,5,FALSE,Steel,3,5,3,"['Dreamborn', 'Hero', 'Princess', 'Knight']",5-183-en-sp.webp
+Shimmering Skies,5,185,Kronk,Head of Security,Super_rare,7,FALSE,Steel,6,6,1,"['Floodborn', 'Ally', 'Captain']",5-185-en-sp.webp
+Shimmering Skies,5,186,Grumpy,Skeptical Knight,Super_rare,3,TRUE,Steel,3,1,1,"['Dreamborn', 'Ally', 'Knight', 'Seven Dwarfs']",5-186-en-sp.webp
+The First Chapter,1,2,Ariel,Spectacular Singer,Super_rare,3,TRUE,Amber,2,3,1,"['Storyborn', 'Hero', 'Princess']",1-2-en-sp.webp
+The First Chapter,1,10,Maximus,Palace Horse,Super_rare,5,TRUE,Amber,4,5,1,"['Storyborn', 'Ally']",1-10-en-sp.webp
+The First Chapter,1,23,Stitch,Rock Star,Super_rare,6,TRUE,Amber,3,5,3,"['Floodborn', 'Hero', 'Alien']",1-23-en-sp.webp
+The First Chapter,1,50,Marshmallow,Persistent Guardian,Super_rare,6,FALSE,Amethyst,5,5,1,"['Storyborn', 'Ally']",1-50-en-sp.webp
+The First Chapter,1,51,Mickey Mouse,Wayward Sorcerer,Super_rare,4,TRUE,Amethyst,3,4,2,"['Dreamborn', 'Sorcerer']",1-51-en-sp.webp
+The First Chapter,1,56,The Queen,Wicked and Vain,Super_rare,5,TRUE,Amethyst,4,5,1,"['Storyborn', 'Villain', 'Queen']",1-56-en-sp.webp
+The First Chapter,1,75,Genie,On the Job,Super_rare,6,FALSE,Emerald,3,4,2,"['Storyborn', 'Ally']",1-75-en-sp.webp
+The First Chapter,1,88,Mickey Mouse,Artful Rogue,Super_rare,7,FALSE,Emerald,6,5,2,"['Floodborn', 'Hero']",1-88-en-sp.webp
+The First Chapter,1,90,Mother Gothel,Selfish Manipulator,Super_rare,6,TRUE,Emerald,3,6,2,"['Storyborn', 'Villain']",1-90-en-sp.webp
+The First Chapter,1,104,Aladdin,Heroic Outlaw,Super_rare,7,TRUE,Ruby,5,5,2,"['Floodborn', 'Hero']",1-104-en-sp.webp
+The First Chapter,1,118,Mulan,Imperial Soldier,Super_rare,5,TRUE,Ruby,4,5,1,"['Storyborn', 'Hero', 'Princess']",1-118-en-sp.webp
+The First Chapter,1,126,Te KÄ,The Burning One,Super_rare,6,FALSE,Ruby,8,6,0,"['Storyborn', 'Villain', 'Deity']",1-126-en-sp.webp
+The First Chapter,1,139,Aurora,Dreaming Guardian,Super_rare,5,TRUE,Sapphire,3,5,2,"['Floodborn', 'Hero', 'Princess']",1-139-en-sp.webp
+Into the Inklands,3,161,How Far I'll Go,,Uncommon,4,FALSE,Sapphire,,,,[nan],
+The First Chapter,1,159,Tamatoa,So Shiny!,Super_rare,8,TRUE,Sapphire,5,8,1,"['Storyborn', 'Villain']",1-159-en-sp.webp
+The First Chapter,1,180,Hans,Thirteenth in Line,Super_rare,4,TRUE,Steel,3,3,2,"['Storyborn', 'Villain', 'Prince']",1-180-en-sp.webp
+The First Chapter,1,193,Tinker Bell,Giant Fairy,Super_rare,6,TRUE,Steel,4,5,2,"['Floodborn', 'Ally', 'Fairy']",1-193-en-sp.webp
+The First Chapter,1,195,A Whole New World,,Super_rare,5,FALSE,Steel,,,,[nan],1-195-en-sp.webp
+Ursula's Return,4,10,Gaston,Despicable Dealer,Super_rare,3,FALSE,Amber,2,4,1,"['Storyborn', 'Villain']",4-10-en-sp.webp
+Ursula's Return,4,17,Minnie Mouse,Musketeer Champion,Super_rare,5,FALSE,Amber,1,5,2,"['Dreamborn', 'Hero', 'Musketeer']",4-17-en-sp.webp
+Ursula's Return,4,18,Mirabel Madrigal,Gift of the Family,Super_rare,5,FALSE,Amber,3,5,2,"['Dreamborn', 'Hero', 'Madrigal']",4-18-en-sp.webp
+Ursula's Return,4,36,Belle,Accomplished Mystic,Super_rare,5,TRUE,Amethyst,4,4,2,"['Floodborn', 'Hero', 'Princess', 'Sorcerer']",4-36-en-sp.webp
+Ursula's Return,4,39,Bruno Madrigal,Undetected Uncle,Super_rare,4,TRUE,Amethyst,3,3,1,"['Storyborn', 'Ally', 'Madrigal']",4-39-en-sp.webp
+Ursula's Return,4,54,Peter Pan,Shadow Finder,Super_rare,3,FALSE,Amethyst,2,3,1,"['Storyborn', 'Hero']",4-54-en-sp.webp
+Ursula's Return,4,85,Pete,Born to Cheat,Super_rare,2,FALSE,Emerald,2,3,1,"['Dreamborn', 'Villain', 'Musketeer']",4-85-en-sp.webp
+Ursula's Return,4,87,Prince Phillip,Vanquisher of Foes,Super_rare,9,TRUE,Emerald,6,6,3,"['Floodborn', 'Hero', 'Prince']",4-87-en-sp.webp
+Ursula's Return,4,92,Zeus,Mr. Lightning Bolts,Super_rare,3,TRUE,Emerald,0,5,2,"['Storyborn', 'King', 'Deity']",4-92-en-sp.webp
+Ursula's Return,4,106,Flynn Rider,Frenemy,Super_rare,2,TRUE,Ruby,2,2,1,"['Storyborn', 'Hero', 'Prince']",4-106-en-sp.webp
+Ursula's Return,4,119,Noi,Acrobatic Baby,Super_rare,4,TRUE,Ruby,4,4,1,"['Storyborn', 'Ally']",4-119-en-sp.webp
+Ursula's Return,4,121,Raya,Fierce Protector,Super_rare,3,TRUE,Ruby,3,3,1,"['Storyborn', 'Hero', 'Princess']",4-121-en-sp.webp
+Ursula's Return,4,138,Anna,True-Hearted,Super_rare,4,TRUE,Sapphire,2,4,2,"['Dreamborn', 'Hero', 'Queen', 'Knight']",4-138-en-sp.webp
+Ursula's Return,4,139,Ariel,Treasure Collector,Super_rare,6,FALSE,Sapphire,3,4,3,"['Storyborn', 'Hero', 'Princess']",4-139-en-sp.webp
+Ursula's Return,4,140,Aurora,Lore Guardian,Super_rare,4,TRUE,Sapphire,3,3,2,"['Floodborn', 'Hero', 'Princess']",4-140-en-sp.webp
+Ursula's Return,4,175,Ariel,Sonic Warrior,Super_rare,6,TRUE,Steel,3,8,2,"['Floodborn', 'Hero', 'Princess']",4-175-en-sp.webp
+Ursula's Return,4,186,Magic Broom,Brigade Commander,Super_rare,6,TRUE,Steel,2,6,2,"['Dreamborn', 'Broom']",4-186-en-sp.webp
+Ursula's Return,4,193,Raya,Unstoppable Force,Super_rare,7,TRUE,Steel,3,6,2,"['Dreamborn', 'Hero', 'Princess']",4-193-en-sp.webp
+Azurite Sea,6,1,Owl,Pirate Lookout,Uncommon,3,TRUE,Amber,3,3,1,"['Storyborn', 'Ally', 'Pirate']",6-1-en-sp.webp
+Azurite Sea,6,4,Gopher,Ship's Carpenter,Uncommon,4,TRUE,Amber,1,6,2,"['Storyborn', 'Ally', 'Pirate']",6-4-en-sp.webp
+Azurite Sea,6,8,David,Impressive Surfer,Uncommon,3,TRUE,Amber,3,3,1,"['Storyborn', 'Ally']",6-8-en-sp.webp
+Azurite Sea,6,9,Prince Naveen,Vigilant First Mate,Uncommon,5,TRUE,Amber,2,6,2,"['Floodborn', 'Hero', 'Prince']",6-9-en-sp.webp
+Azurite Sea,6,12,Chip,Ranger Leader,Uncommon,4,TRUE,Amber,3,4,2,"['Storyborn', 'Hero']",6-12-en-sp.webp
+Azurite Sea,6,17,Grand Councilwoman,Federation Leader,Uncommon,2,TRUE,Amber,1,3,1,"['Storyborn', 'Alien']",6-17-en-sp.webp
+Azurite Sea,6,18,Dale,Mischievous Ranger,Uncommon,4,TRUE,Amber,3,4,1,"['Storyborn', 'Hero']",6-18-en-sp.webp
+Azurite Sea,6,29,Rescue Rangers Away!,,Uncommon,2,TRUE,Amber,,,,[nan],6-29-en-sp.webp
+Azurite Sea,6,33,Scrump,,Uncommon,2,TRUE,Amber,,,,[nan],6-33-en-sp.webp
+Azurite Sea,6,46,The Walrus,Greedy Gourmand,Uncommon,4,TRUE,Amethyst,3,6,1,['Storyborn'],6-46-en-sp.webp
+Azurite Sea,6,47,Scar,Tempestuous Lion,Uncommon,6,FALSE,Amethyst,4,4,2,"['Dreamborn', 'Villain', 'Sorcerer']",6-47-en-sp.webp
+Azurite Sea,6,48,Tinker Bell,Queen of the Azurite Fairies,Uncommon,7,TRUE,Amethyst,5,6,2,"['Floodborn', 'Ally', 'Queen', 'Fairy', 'Captain']",6-48-en-sp.webp
+Azurite Sea,6,49,Diablo,Obedient Raven,Uncommon,1,TRUE,Amethyst,0,1,1,"['Storyborn', 'Ally']",6-49-en-sp.webp
+Azurite Sea,6,50,March Hare,Absurd Host,Uncommon,4,TRUE,Amethyst,2,3,2,['Storyborn'],6-50-en-sp.webp
+Azurite Sea,6,51,Magic Carpet,Amazing Flier,Uncommon,3,TRUE,Amethyst,1,3,3,"['Storyborn', 'Ally']",6-51-en-sp.webp
+Azurite Sea,6,58,Peter Pan,Shadow Catcher,Uncommon,4,FALSE,Amethyst,1,3,1,"['Storyborn', 'Hero']",6-58-en-sp.webp
+Azurite Sea,6,63,Lose the Way,,Uncommon,2,TRUE,Amethyst,,,,[nan],6-63-en-sp.webp
+Azurite Sea,6,67,Pixie Dust,,Uncommon,4,FALSE,Amethyst,,,,[nan],6-67-en-sp.webp
+Azurite Sea,6,74,Honey Lemon,Chemical Genius,Uncommon,2,TRUE,Emerald,1,1,2,"['Storyborn', 'Hero', 'Inventor']",6-74-en-sp.webp
+Azurite Sea,6,80,Donald Duck,First Mate,Uncommon,3,TRUE,Emerald,2,3,1,"['Dreamborn', 'Hero', 'Pirate']",6-80-en-sp.webp
+Azurite Sea,6,82,Mertle Edmonds,Lilo's Rival,Uncommon,1,TRUE,Emerald,1,3,1,['Storyborn'],6-82-en-sp.webp
+Azurite Sea,6,83,Prince Phillip,Royal Explorer,Uncommon,3,TRUE,Emerald,3,2,2,"['Storyborn', 'Hero', 'Prince']",6-83-en-sp.webp
+Azurite Sea,6,90,Bellwether,Assistant Mayor,Uncommon,3,FALSE,Emerald,2,3,1,"['Storyborn', 'Villain']",6-90-en-sp.webp
+Azurite Sea,6,91,Basil,Disguised Detective,Uncommon,6,TRUE,Emerald,4,5,2,"['Floodborn', 'Hero', 'Detective']",6-91-en-sp.webp
+Azurite Sea,6,96,Mosquito Bite,,Uncommon,1,TRUE,Emerald,,,,[nan],6-96-en-sp.webp
+Azurite Sea,6,98,MegaBot,,Uncommon,2,FALSE,Emerald,,,,[nan],6-98-en-sp.webp
+Azurite Sea,6,100,Transport Pod,,Uncommon,1,TRUE,Emerald,,,,[nan],6-100-en-sp.webp
+Azurite Sea,6,104,Kakamora,Boarding Party,Uncommon,4,FALSE,Ruby,5,2,1,"['Storyborn', 'Pirate']",6-104-en-sp.webp
+Azurite Sea,6,106,Jasmine,Rebellious Princess,Uncommon,3,TRUE,Ruby,2,3,2,"['Storyborn', 'Hero', 'Princess']",6-106-en-sp.webp
+Azurite Sea,6,109,John Silver,Ferocious Friend,Uncommon,4,FALSE,Ruby,2,4,2,"['Storyborn', 'Villain', 'Alien', 'Pirate', 'Captain']",6-109-en-sp.webp
+Azurite Sea,6,110,Vanellope Von Schweetz,Gutsy Go-Getter,Uncommon,3,TRUE,Ruby,2,3,1,"['Storyborn', 'Hero', 'Princess', 'Racer']",6-110-en-sp.webp
+Azurite Sea,6,118,John Darling,Sophisticated Swordsman,Uncommon,2,TRUE,Ruby,1,4,1,"['Storyborn', 'Ally', 'Pirate']",6-118-en-sp.webp
+Azurite Sea,6,119,Aladdin,Intrepid Commander,Uncommon,4,TRUE,Ruby,1,4,2,"['Floodborn', 'Hero', 'Prince']",6-119-en-sp.webp
+Azurite Sea,6,130,The Islands I Pulled from the Sea,,Uncommon,3,FALSE,Ruby,,,,[nan],6-130-en-sp.webp
+Azurite Sea,6,132,Longboat,,Uncommon,2,FALSE,Ruby,,,,[nan],6-132-en-sp.webp
+Azurite Sea,6,134,Card Soldier's Spear,,Uncommon,1,TRUE,Ruby,,,,[nan],6-134-en-sp.webp
+Azurite Sea,6,143,Yokai,Enigmatic Inventor,Uncommon,4,TRUE,Sapphire,3,3,2,"['Storyborn', 'Villain', 'Inventor']",6-143-en-sp.webp
+Azurite Sea,6,144,Pleakley,Scientific Expert,Uncommon,3,TRUE,Sapphire,3,4,1,"['Storyborn', 'Ally', 'Alien']",6-144-en-sp.webp
+Azurite Sea,6,145,Hiro Hamada,Robotics Prodigy,Uncommon,3,TRUE,Sapphire,,3,1,"['Storyborn', 'Hero', 'Inventor']",6-145-en-sp.webp
+Azurite Sea,6,146,Heihei,Not-So-Tricky Chicken,Uncommon,2,TRUE,Sapphire,2,2,1,"['Storyborn', 'Ally']",6-146-en-sp.webp
+Azurite Sea,6,149,Wasabi,Methodical Engineer,Uncommon,4,TRUE,Sapphire,3,3,1,"['Storyborn', 'Hero', 'Inventor']",6-149-en-sp.webp
+Azurite Sea,6,150,Nick Wilde,Sly Fox,Uncommon,3,TRUE,Sapphire,1,3,1,"['Floodborn', 'Ally']",6-150-en-sp.webp
+Azurite Sea,6,152,Dr. Delbert Doppler,Fussy Astronomer,Uncommon,4,TRUE,Sapphire,4,4,1,"['Storyborn', 'Ally', 'Alien']",6-152-en-sp.webp
+Azurite Sea,6,165,Prepare Your Bot,,Uncommon,1,TRUE,Sapphire,,,,[nan],6-165-en-sp.webp
+Azurite Sea,6,167,Microbots,,Uncommon,2,TRUE,Sapphire,,,,[nan],6-167-en-sp.webp
+Azurite Sea,6,175,Mr. Smee,Steadfast Mate,Uncommon,2,TRUE,Steel,3,2,1,"['Storyborn', 'Ally', 'Pirate']",6-175-en-sp.webp
+Azurite Sea,6,183,Jim Hawkins,Rigging Specialist,Uncommon,5,FALSE,Steel,5,5,2,"['Floodborn', 'Hero']",6-183-en-sp.webp
+Azurite Sea,6,184,Tuk Tuk,Big Buddy,Uncommon,5,TRUE,Steel,6,5,1,"['Storyborn', 'Ally']",6-184-en-sp.webp
+Azurite Sea,6,185,Billy Bones,Space Sailor,Uncommon,3,TRUE,Steel,2,2,2,"['Storyborn', 'Alien', 'Pirate']",6-185-en-sp.webp
+Azurite Sea,6,186,Pluto,Guard Dog,Uncommon,4,TRUE,Steel,1,5,1,"['Storyborn', 'Ally']",6-186-en-sp.webp
+Azurite Sea,6,187,Mickey Mouse,Night Watch,Uncommon,3,TRUE,Steel,2,3,2,"['Storyborn', 'Hero']",6-187-en-sp.webp
+Azurite Sea,6,195,Hot Potato,,Uncommon,3,TRUE,Steel,,,,[nan],6-195-en-sp.webp
+Azurite Sea,6,199,Unfortunate Situation,,Uncommon,4,TRUE,Steel,,,,[nan],6-199-en-sp.webp
+Azurite Sea,6,201,Training Dummy,,Uncommon,2,TRUE,Steel,,,,[nan],6-201-en-sp.webp
+Into the Inklands,3,151,Mama Odie,Mystical Maven,Rare,3,FALSE,Sapphire,1,3,1,"['Storyborn', 'Mentor']",3-151-en-sp.webp
+Into the Inklands,3,152,Pluto,Mickey's Clever Friend,Common,3,TRUE,Sapphire,3,4,1,"['Dreamborn', 'Ally']",3-152-en-sp.webp
+Into the Inklands,3,153,Rufus,Orphanage Cat,Common,5,TRUE,Sapphire,4,5,1,"['Dreamborn', 'Ally']",3-153-en-sp.webp
+Into the Inklands,3,154,Scrooge McDuck,Richest Duck in the World,Super_rare,5,FALSE,Sapphire,3,5,1,"['Storyborn', 'Hero']",3-154-en-sp.webp
+Into the Inklands,3,176,John Silver,Greedy Treasure Seeker,Rare,3,TRUE,Steel,3,3,1,"['Dreamborn', 'Villain', 'Alien', 'Pirate', 'Captain']",
+Into the Inklands,3,156,The Queen,Mirror Seeker,Uncommon,4,TRUE,Sapphire,2,5,1,"['Storyborn', 'Villain', 'Queen', 'Sorcerer']",3-156-en-sp.webp
+Into the Inklands,3,157,Tinker Bell,Very Clever Fairy,Super_rare,5,TRUE,Sapphire,3,4,2,"['Dreamborn', 'Ally', 'Fairy']",3-157-en-sp.webp
+Into the Inklands,3,158,Wendy Darling,Authority on Peter Pan,Super_rare,3,TRUE,Sapphire,3,1,2,"['Storyborn', 'Hero']",3-158-en-sp.webp
+Into the Inklands,3,159,Distract,,Common,2,TRUE,Sapphire,,,,[nan],3-159-en-sp.webp
+Into the Inklands,3,160,Friend Like Me,,Rare,5,TRUE,Sapphire,,,,[nan],3-160-en-sp.webp
+Into the Inklands,3,162,Repair,,Common,2,TRUE,Sapphire,,,,[nan],3-162-en-sp.webp
+Into the Inklands,3,163,Aurelian Gyrosensor,,Rare,2,TRUE,Sapphire,,,,[nan],3-163-en-sp.webp
+Into the Inklands,3,164,Heart of Te Fiti,,Rare,3,TRUE,Sapphire,,,,[nan],3-164-en-sp.webp
+Into the Inklands,3,165,Lucky Dime,,Legendary,7,FALSE,Sapphire,,,,[nan],3-165-en-sp.webp
+Into the Inklands,3,166,Scrooge's Top Hat,,Uncommon,2,FALSE,Sapphire,,,,[nan],3-166-en-sp.webp
+Into the Inklands,3,167,Vault Door,,Common,4,TRUE,Sapphire,,,,[nan],3-167-en-sp.webp
+Into the Inklands,3,168,Belle's House,Maurice's Workshop,Rare,1,TRUE,Sapphire,,6,0,[nan],3-168-en-sp.webp
+Into the Inklands,3,169,McDuck Manor,Scrooge's Mansion,Common,4,TRUE,Sapphire,,9,2,[nan],3-169-en-sp.webp
+Into the Inklands,3,170,Motunui,Island Paradise,Uncommon,2,TRUE,Sapphire,,5,1,[nan],3-170-en-sp.webp
+Into the Inklands,3,171,Chief Tui,Proud of Motunui,Common,4,TRUE,Steel,3,4,2,"['Storyborn', 'Mentor', 'King']",3-171-en-sp.webp
+Into the Inklands,3,172,Eeyore,Overstuffed Donkey,Common,5,TRUE,Steel,4,5,1,"['Storyborn', 'Ally']",3-172-en-sp.webp
+Into the Inklands,3,173,Gustav the Giant,Terror of the Kingdom,Rare,3,TRUE,Steel,6,6,1,"['Dreamborn', 'Villain']",3-173-en-sp.webp
+Into the Inklands,3,174,Hades,Hotheaded Ruler,Rare,6,TRUE,Steel,5,5,2,"['Storyborn', 'Villain', 'Deity']",3-174-en-sp.webp
+Into the Inklands,3,175,Helga Sinclair,Right-Hand Woman,Common,3,TRUE,Steel,2,4,1,"['Storyborn', 'Villain']",3-175-en-sp.webp
+Into the Inklands,3,177,Kida,Royal Warrior,Common,2,TRUE,Steel,2,3,1,"['Storyborn', 'Hero', 'Princess']",3-177-en-sp.webp
+Into the Inklands,3,178,Little John,Resourceful Outlaw,Super_rare,6,TRUE,Steel,4,5,2,"['Floodborn', 'Hero']",3-178-en-sp.webp
+Into the Inklands,3,179,Little John,Robin's Pal,Uncommon,3,TRUE,Steel,2,4,1,"['Storyborn', 'Ally']",3-179-en-sp.webp
+Into the Inklands,3,180,Lythos,Rock Titan,Uncommon,4,TRUE,Steel,4,1,1,"['Storyborn', 'Titan']",3-180-en-sp.webp
+Into the Inklands,3,181,Mickey Mouse,Stalwart Explorer,Common,3,TRUE,Steel,3,3,1,"['Dreamborn', 'Hero']",3-181-en-sp.webp
+Into the Inklands,3,182,Mickey Mouse,Trumpeter,Legendary,4,FALSE,Steel,0,1,1,"['Dreamborn', 'Hero']",3-182-en-sp.webp
+Into the Inklands,3,183,Minnie Mouse,Funky Spelunker,Common,1,TRUE,Steel,0,3,1,"['Dreamborn', 'Hero']",3-183-en-sp.webp
+Into the Inklands,3,184,Mr. Smee,Bumbling Mate,Uncommon,2,TRUE,Steel,3,3,2,"['Storyborn', 'Ally', 'Pirate']",3-184-en-sp.webp
+Into the Inklands,3,185,Mufasa,Champion of the Pride Lands,Rare,7,TRUE,Steel,3,10,3,"['Storyborn', 'Mentor', 'King']",3-185-en-sp.webp
+Into the Inklands,3,186,Nala,Fierce Friend,Uncommon,3,TRUE,Steel,2,4,2,"['Storyborn', 'Ally']",3-186-en-sp.webp
+Into the Inklands,3,187,Pyros,Lava Titan,Rare,5,TRUE,Steel,5,4,1,"['Storyborn', 'Titan']",3-187-en-sp.webp
+Into the Inklands,3,188,Razoul,Palace Guard,Common,2,TRUE,Steel,1,3,1,"['Storyborn', 'Ally', 'Captain']",3-188-en-sp.webp
+Into the Inklands,3,189,Robin Hood,Beloved Outlaw,Common,1,TRUE,Steel,2,2,1,"['Storyborn', 'Hero']",3-189-en-sp.webp
+Into the Inklands,3,190,Robin Hood,Champion of Sherwood,Legendary,5,TRUE,Steel,3,6,2,"['Floodborn', 'Hero']",3-190-en-sp.webp
+Into the Inklands,3,191,Sheriff of Nottingham,Corrupt Official,Super_rare,4,FALSE,Steel,2,4,1,"['Dreamborn', 'Villain']",3-191-en-sp.webp
+Into the Inklands,3,192,Simba,Fighting Prince,Super_rare,7,TRUE,Steel,5,7,2,"['Dreamborn', 'Hero', 'Prince']",3-192-en-sp.webp
+Into the Inklands,3,193,Simba,Rightful King,Uncommon,5,TRUE,Steel,4,6,1,"['Storyborn', 'Hero', 'King']",3-193-en-sp.webp
+Into the Inklands,3,194,Thaddeus E. Klang,Metallic Leader,Uncommon,5,TRUE,Steel,3,5,2,"['Storyborn', 'Villain']",3-194-en-sp.webp
+Into the Inklands,3,195,And Then Along Came Zeus,,Rare,4,FALSE,Steel,,,,[nan],3-195-en-sp.webp
+Into the Inklands,3,196,Ba-Boom!,,Common,2,TRUE,Steel,,,,[nan],3-196-en-sp.webp
+Into the Inklands,3,197,Olympus Would Be That Way,,Common,1,TRUE,Steel,,,,[nan],3-197-en-sp.webp
+Into the Inklands,3,198,Rise of the Titans,,Uncommon,3,TRUE,Steel,,,,[nan],3-198-en-sp.webp
+Into the Inklands,3,199,Captain Hook's Rapier,,Uncommon,3,FALSE,Steel,,,,[nan],3-199-en-sp.webp
+Into the Inklands,3,200,Gizmosuit,,Common,3,TRUE,Steel,,,,[nan],3-200-en-sp.webp
+Into the Inklands,3,201,Map of Treasure Planet,,Rare,3,TRUE,Steel,,,,[nan],3-201-en-sp.webp
+Into the Inklands,3,202,Maui's Place of Exile,Hidden Island,Rare,2,TRUE,Steel,,5,0,[nan],3-202-en-sp.webp
+Into the Inklands,3,203,Nottingham,Prince John's Castle,Common,2,TRUE,Steel,,6,1,[nan],3-203-en-sp.webp
+Into the Inklands,3,204,The Bayou,Mysterious Swamp,Uncommon,1,TRUE,Steel,,3,1,[nan],3-204-en-sp.webp
+Rise of the Floodborn,2,1,Bashful,Hopeless Romantic,Uncommon,4,TRUE,Amber,2,5,3,"['Storyborn', 'Ally', 'Seven Dwarfs']",2-1-en-sp.webp
+Rise of the Floodborn,2,5,Doc,Leader of the Seven Dwarfs,Uncommon,3,TRUE,Amber,2,3,2,"['Storyborn', 'Ally', 'Seven Dwarfs']",2-5-en-sp.webp
+Rise of the Floodborn,2,6,Dopey,Always Playful,Uncommon,3,TRUE,Amber,2,2,1,"['Storyborn', 'Ally', 'Seven Dwarfs']",2-6-en-sp.webp
+Rise of the Floodborn,2,8,Gaston,Baritone Bully,Uncommon,3,TRUE,Amber,3,3,1,"['Dreamborn', 'Villain']",2-8-en-sp.webp
+Rise of the Floodborn,2,17,Nana,Darling Family Pet,Uncommon,2,TRUE,Amber,1,3,1,"['Storyborn', 'Ally']",2-17-en-sp.webp
+Rise of the Floodborn,2,24,Snow White,Unexpected Houseguest,Uncommon,2,FALSE,Amber,1,2,1,"['Storyborn', 'Hero', 'Princess']",2-24-en-sp.webp
+Rise of the Floodborn,2,29,Last Stand,,Uncommon,2,FALSE,Amber,,,,[nan],2-29-en-sp.webp
+Rise of the Floodborn,2,32,Zero to Hero,,Uncommon,2,FALSE,Amber,,,,[nan],2-32-en-sp.webp
+Rise of the Floodborn,2,36,Blue Fairy,Rewarding Good Deeds,Uncommon,2,TRUE,Amethyst,1,1,1,"['Storyborn', 'Ally', 'Fairy']",2-36-en-sp.webp
+Rise of the Floodborn,2,40,Fairy Godmother,Here to Help,Uncommon,5,TRUE,Amethyst,3,7,2,"['Storyborn', 'Ally', 'Fairy']",2-40-en-sp.webp
+Rise of the Floodborn,2,43,HeiHei,Persistent Presence,Uncommon,2,TRUE,Amethyst,2,1,1,"['Dreamborn', 'Ally']",2-43-en-sp.webp
+Rise of the Floodborn,2,49,Madam Mim,Snake,Uncommon,2,TRUE,Amethyst,3,3,1,"['Storyborn', 'Villain', 'Sorcerer']",2-49-en-sp.webp
+Rise of the Floodborn,2,51,Merlin,Goat,Uncommon,4,TRUE,Amethyst,4,3,1,"['Storyborn', 'Mentor', 'Sorcerer']",2-51-en-sp.webp
+Rise of the Floodborn,2,57,Pinocchio,On the Run,Uncommon,5,FALSE,Amethyst,3,3,2,"['Floodborn', 'Hero']",2-57-en-sp.webp
+Rise of the Floodborn,2,58,Pinocchio,Talkative Puppet,Uncommon,2,FALSE,Amethyst,1,1,1,"['Storyborn', 'Hero']",2-58-en-sp.webp
+Rise of the Floodborn,2,61,Yzma,Without Beauty Sleep,Uncommon,3,TRUE,Amethyst,3,4,1,"['Storyborn', 'Villain', 'Sorcerer']",2-61-en-sp.webp
+Rise of the Floodborn,2,65,Binding Contract,,Uncommon,4,FALSE,Amethyst,,,,[nan],2-65-en-sp.webp
+Rise of the Floodborn,2,71,Belle,Bookworm,Uncommon,3,FALSE,Emerald,2,4,1,"['Storyborn', 'Hero', 'Princess']",2-71-en-sp.webp
+Rise of the Floodborn,2,73,Bucky,Squirrel Squeak Tutor,Uncommon,3,TRUE,Emerald,1,1,1,"['Storyborn', 'Ally']",2-73-en-sp.webp
+Rise of the Floodborn,2,74,Cheshire Cat,Always Grinning,Uncommon,2,TRUE,Emerald,3,2,1,['Storyborn'],2-74-en-sp.webp
+Rise of the Floodborn,2,76,Daisy Duck,Secret Agent,Uncommon,4,TRUE,Emerald,2,3,2,"['Dreamborn', 'Ally']",2-76-en-sp.webp
+Rise of the Floodborn,2,77,Donald Duck,Perfect Gentleman,Uncommon,4,TRUE,Emerald,2,5,2,"['Floodborn', 'Ally']",2-77-en-sp.webp
+Rise of the Floodborn,2,86,Pain,Underworld Imp,Uncommon,2,TRUE,Emerald,1,4,1,"['Storyborn', 'Ally']",2-86-en-sp.webp
+Rise of the Floodborn,2,94,Tiana,True Princess,Uncommon,5,TRUE,Emerald,5,3,3,"['Storyborn', 'Hero', 'Princess']",2-94-en-sp.webp
+Rise of the Floodborn,2,97,Bounce,,Uncommon,2,FALSE,Emerald,,,,[nan],2-97-en-sp.webp
+Rise of the Floodborn,2,101,Ring the Bell,,Uncommon,3,TRUE,Emerald,,,,[nan],2-101-en-sp.webp
+Rise of the Floodborn,2,105,Card Soldiers,Full Deck,Uncommon,5,TRUE,Ruby,5,5,2,"['Storyborn', 'Ally']",2-105-en-sp.webp
+Rise of the Floodborn,2,113,Minnie Mouse,Stylish Surfer,Uncommon,3,TRUE,Ruby,1,3,2,"['Dreamborn', 'Hero']",2-113-en-sp.webp
+Rise of the Floodborn,2,116,Mother Gothel,Withered and Wicked,Uncommon,2,TRUE,Ruby,3,4,1,"['Storyborn', 'Villain']",2-116-en-sp.webp
+Rise of the Floodborn,2,119,Queen of Hearts,Impulsive Ruler,Uncommon,2,TRUE,Ruby,2,2,1,"['Storyborn', 'Villain', 'Queen']",2-119-en-sp.webp
+Rise of the Floodborn,2,120,Queen of Hearts,Sensing Weakness,Uncommon,5,TRUE,Ruby,4,3,1,"['Floodborn', 'Villain', 'Queen']",2-120-en-sp.webp
+Rise of the Floodborn,2,124,Raya,Warrior of Kumandra,Uncommon,4,TRUE,Ruby,5,3,1,"['Storyborn', 'Hero', 'Princess']",2-124-en-sp.webp
+Rise of the Floodborn,2,131,The Most Diabolical Scheme,,Uncommon,3,FALSE,Ruby,,,,[nan],2-131-en-sp.webp
+Rise of the Floodborn,2,133,You Can Fly!,,Uncommon,2,TRUE,Ruby,,,,[nan],2-133-en-sp.webp
+Rise of the Floodborn,2,136,Sword in the Stone,,Uncommon,1,FALSE,Ruby,,,,[nan],2-136-en-sp.webp
+Rise of the Floodborn,2,141,Caterpillar,Calm and Collected,Uncommon,3,TRUE,Sapphire,1,3,3,['Dreamborn'],2-141-en-sp.webp
+Rise of the Floodborn,2,143,Cogsworth,Talking Clock,Uncommon,2,TRUE,Sapphire,2,3,1,"['Storyborn', 'Ally']",2-143-en-sp.webp
+Rise of the Floodborn,2,145,Cruella De Vil,Perfectly Wretched,Uncommon,5,TRUE,Sapphire,4,3,2,"['Floodborn', 'Villain']",2-145-en-sp.webp
+Rise of the Floodborn,2,152,Judy Hopps,Optimistic Officer,Uncommon,3,TRUE,Sapphire,2,3,2,"['Storyborn', 'Hero']",2-152-en-sp.webp
+Rise of the Floodborn,2,154,Nick Wilde,Wily Fox,Uncommon,4,TRUE,Sapphire,2,4,2,"['Storyborn', 'Ally']",2-154-en-sp.webp
+Ursula's Return,4,9,FÃ©lix Madrigal,Fun-Loving Family Man,Uncommon,3,TRUE,Amber,2,4,2,"['Storyborn', 'Ally', 'Madrigal']",
+Rise of the Floodborn,2,164,Launch,,Uncommon,3,FALSE,Sapphire,,,,[nan],2-164-en-sp.webp
+Rise of the Floodborn,2,166,Fang Crossbow,,Uncommon,3,TRUE,Sapphire,,,,[nan],2-166-en-sp.webp
+Rise of the Floodborn,2,170,Sardine Can,,Uncommon,4,TRUE,Sapphire,,,,[nan],2-170-en-sp.webp
+Rise of the Floodborn,2,179,Eli La Bouff,Big Daddy,Uncommon,4,TRUE,Steel,2,5,2,"['Storyborn', 'Mentor']",2-179-en-sp.webp
+Rise of the Floodborn,2,183,Jafar,Dreadnought,Uncommon,4,TRUE,Steel,3,4,1,"['Floodborn', 'Villain', 'Sorcerer']",2-183-en-sp.webp
+Rise of the Floodborn,2,186,Lawrence,Jealous Manservant,Uncommon,3,TRUE,Steel,0,4,2,"['Storyborn', 'Ally']",2-186-en-sp.webp
+Rise of the Floodborn,2,187,Li Shang,Archery Instructor,Uncommon,5,TRUE,Steel,3,6,2,"['Storyborn', 'Hero']",2-187-en-sp.webp
+Rise of the Floodborn,2,190,Pacha,Village Leader,Uncommon,6,TRUE,Steel,4,8,2,"['Storyborn', 'Hero']",2-190-en-sp.webp
+Rise of the Floodborn,2,193,Robin Hood,Capable Fighter,Uncommon,2,FALSE,Steel,1,3,1,"['Dreamborn', 'Hero']",2-193-en-sp.webp
+Rise of the Floodborn,2,195,The Prince,Never Gives Up,Uncommon,3,TRUE,Steel,1,3,2,"['Dreamborn', 'Hero', 'Prince']",2-195-en-sp.webp
+Rise of the Floodborn,2,200,Pick a Fight,,Uncommon,2,FALSE,Steel,,,,[nan],2-200-en-sp.webp
+Rise of the Floodborn,2,203,Mouse Armor,,Uncommon,2,FALSE,Steel,,,,[nan],2-203-en-sp.webp
+Ursula's Return,4,15,Mickey Mouse,Leader of the Band,Uncommon,4,TRUE,Amber,2,5,1,"['Storyborn', 'Hero']",
+Shimmering Skies,5,12,"Fix-It Felix, Jr.",Niceland Steward,Uncommon,5,TRUE,Amber,4,5,1,"['Floodborn', 'Hero']",5-12-en-sp.webp
+Ursula's Return,4,115,Mulan,Enemy of Entanglement,Uncommon,2,TRUE,Ruby,1,3,1,"['Storyborn', 'Hero', 'Princess']",
+Shimmering Skies,5,22,Maid Marian,Lady of the Lists,Uncommon,6,TRUE,Amber,4,5,2,"['Dreamborn', 'Princess']",5-22-en-sp.webp
+Shimmering Skies,5,23,Sven,Reindeer Steed,Uncommon,4,TRUE,Amber,3,3,2,"['Storyborn', 'Ally']",5-23-en-sp.webp
+Shimmering Skies,5,25,Try Everything,,Uncommon,4,TRUE,Amber,,,,[nan],5-25-en-sp.webp
+Shimmering Skies,5,29,Invited to the Ball,,Uncommon,2,FALSE,Amber,,,,[nan],5-29-en-sp.webp
+Shimmering Skies,5,32,Amber Chromicon,,Uncommon,2,TRUE,Amber,,,,[nan],5-32-en-sp.webp
+Shimmering Skies,5,33,Rapunzel's Tower,Secluded Prison,Uncommon,2,TRUE,Amber,,8,0,[nan],5-33-en-sp.webp
+Shimmering Skies,5,40,Bruni,Fire Salamander,Uncommon,4,TRUE,Amethyst,2,2,2,"['Storyborn', 'Ally']",5-40-en-sp.webp
+Shimmering Skies,5,47,Archimedes,Electrified Owl,Uncommon,5,TRUE,Amethyst,1,4,2,"['Floodborn', 'Ally']",5-47-en-sp.webp
+Shimmering Skies,5,51,Maleficent,Vexed Partygoer,Uncommon,3,TRUE,Amethyst,0,4,2,"['Storyborn', 'Villain', 'Sorcerer']",5-51-en-sp.webp
+Shimmering Skies,5,52,Monstro,Whale of a Whale,Uncommon,5,TRUE,Amethyst,5,6,1,['Storyborn'],5-52-en-sp.webp
+Shimmering Skies,5,57,King of Hearts,Monarch of Wonderland,Uncommon,4,TRUE,Amethyst,1,4,2,"['Storyborn', 'Ally', 'King']",5-57-en-sp.webp
+Shimmering Skies,5,60,Finders Keepers,,Uncommon,5,TRUE,Amethyst,,,,[nan],5-60-en-sp.webp
+Shimmering Skies,5,63,Magical Aid,,Uncommon,3,TRUE,Amethyst,,,,[nan],5-63-en-sp.webp
+Shimmering Skies,5,66,Amethyst Chromicon,,Uncommon,2,TRUE,Amethyst,,,,[nan],5-66-en-sp.webp
+Shimmering Skies,5,68,The Library,A Gift for Belle,Uncommon,3,TRUE,Amethyst,,8,1,[nan],5-68-en-sp.webp
+Shimmering Skies,5,70,Shenzi,Scar's Accomplice,Uncommon,3,TRUE,Emerald,2,3,1,"['Storyborn', 'Ally', 'Hyena']",5-70-en-sp.webp
+Shimmering Skies,5,71,Little John,Camp Cook,Uncommon,1,TRUE,Emerald,0,4,1,"['Storyborn', 'Ally']",5-71-en-sp.webp
+Shimmering Skies,5,81,Ed,Hysterical Partygoer,Uncommon,4,FALSE,Emerald,2,4,3,"['Storyborn', 'Ally', 'Hyena']",5-81-en-sp.webp
+Shimmering Skies,5,88,Robin Hood,Sneaky Sleuth,Uncommon,5,TRUE,Emerald,3,5,1,"['Floodborn', 'Hero']",5-88-en-sp.webp
+Shimmering Skies,5,89,Mother Gothel,Conceited Manipulator,Uncommon,2,TRUE,Emerald,1,3,1,"['Storyborn', 'Villain']",5-89-en-sp.webp
+Shimmering Skies,5,90,Clarabelle,Contented Wallflower,Uncommon,3,TRUE,Emerald,2,3,1,"['Storyborn', 'Ally']",5-90-en-sp.webp
+Shimmering Skies,5,96,You're Welcome,,Uncommon,4,TRUE,Emerald,,,,[nan],5-96-en-sp.webp
+Shimmering Skies,5,100,Emerald Chromicon,,Uncommon,3,FALSE,Emerald,,,,[nan],5-100-en-sp.webp
+Shimmering Skies,5,102,Tropical Rainforest,Jaguar Lair,Uncommon,3,TRUE,Emerald,,6,1,[nan],5-102-en-sp.webp
+Shimmering Skies,5,103,Taffyta Muttonfudge,Ruthless Rival,Uncommon,2,TRUE,Ruby,2,2,2,"['Storyborn', 'Ally', 'Racer']",5-103-en-sp.webp
+Shimmering Skies,5,106,Turbo,Royal Hack,Uncommon,2,FALSE,Ruby,2,3,1,"['Storyborn', 'Villain', 'Racer']",5-106-en-sp.webp
+Shimmering Skies,5,109,Scar,Betrayer,Uncommon,5,TRUE,Ruby,6,3,2,"['Storyborn', 'Villain']",5-109-en-sp.webp
+Shimmering Skies,5,117,Taffyta Muttonfudge,Sour Speedster,Uncommon,4,TRUE,Ruby,3,3,1,"['Floodborn', 'Ally', 'Racer']",5-117-en-sp.webp
+Shimmering Skies,5,121,Arthur,Novice Sparrow,Uncommon,1,FALSE,Ruby,2,3,0,"['Storyborn', 'Hero']",5-121-en-sp.webp
+Shimmering Skies,5,126,Minnie Mouse,Dazzling Dancer,Uncommon,3,TRUE,Ruby,2,4,1,"['Dreamborn', 'Hero']",5-126-en-sp.webp
+Shimmering Skies,5,130,Glimmer vs Glimmer,,Uncommon,4,FALSE,Ruby,,,,[nan],5-130-en-sp.webp
+Shimmering Skies,5,134,Ruby Chromicon,,Uncommon,1,TRUE,Ruby,,,,[nan],5-134-en-sp.webp
+Shimmering Skies,5,136,Ratigan's Party,Seedy Back Room,Uncommon,2,TRUE,Ruby,,7,0,[nan],5-136-en-sp.webp
+Shimmering Skies,5,143,Pacha,Emperor's Guide,Uncommon,3,TRUE,Sapphire,0,4,2,"['Storyborn', 'Hero']",5-143-en-sp.webp
+Ursula's Return,4,196,"I Find â€™Em, I Flatten â€™Em",,Uncommon,4,TRUE,Steel,,,,[nan],
+Shimmering Skies,5,154,King Candy,Sweet Abomination,Uncommon,5,FALSE,Sapphire,3,3,2,"['Floodborn', 'Villain', 'King', 'Racer']",5-154-en-sp.webp
+Shimmering Skies,5,157,Tipo,Growing Son,Uncommon,2,TRUE,Sapphire,1,2,1,"['Storyborn', 'Ally']",5-157-en-sp.webp
+Shimmering Skies,5,163,Hide Away,,Uncommon,2,TRUE,Sapphire,,,,[nan],5-163-en-sp.webp
+Shimmering Skies,5,164,All Funned Out,,Uncommon,1,TRUE,Sapphire,,,,[nan],5-164-en-sp.webp
+Shimmering Skies,5,167,Merlin's Carpetbag,,Uncommon,5,FALSE,Sapphire,,,,[nan],5-167-en-sp.webp
+Shimmering Skies,5,168,Sapphire Chromicon,,Uncommon,4,FALSE,Sapphire,,,,[nan],5-168-en-sp.webp
+Shimmering Skies,5,170,Merlin's Cottage,The Wizard's Home,Uncommon,1,TRUE,Sapphire,,7,0,[nan],5-170-en-sp.webp
+Shimmering Skies,5,2,Nala,Mischievous Cub,Uncommon,1,TRUE,Amber,0,4,1,"['Storyborn', 'Ally']",
+Shimmering Skies,5,177,Sleepy,Sluggish Knight,Uncommon,2,TRUE,Steel,0,4,1,"['Dreamborn', 'Ally', 'Knight', 'Seven Dwarfs']",5-177-en-sp.webp
+Shimmering Skies,5,189,Bashful,Adoring Knight,Uncommon,4,TRUE,Steel,3,4,1,"['Dreamborn', 'Ally', 'Knight', 'Seven Dwarfs']",5-189-en-sp.webp
+Shimmering Skies,5,190,Arthur,Wart,Uncommon,2,TRUE,Steel,2,2,2,"['Storyborn', 'Hero']",5-190-en-sp.webp
+Shimmering Skies,5,192,Simba,Son of Mufasa,Uncommon,6,TRUE,Steel,3,5,1,"['Floodborn', 'Hero', 'King']",5-192-en-sp.webp
+Shimmering Skies,5,195,Pete,Games Referee,Uncommon,3,TRUE,Steel,3,3,1,"['Dreamborn', 'Villain']",5-195-en-sp.webp
+Shimmering Skies,5,199,Food Fight!,,Uncommon,1,FALSE,Steel,,,,[nan],5-199-en-sp.webp
+Shimmering Skies,5,202,Steel Chromicon,,Uncommon,6,FALSE,Steel,,,,[nan],5-202-en-sp.webp
+Shimmering Skies,5,204,Seven Dwarfs' Mine,Secure Fortress,Uncommon,2,TRUE,Steel,,6,1,[nan],5-204-en-sp.webp
+The First Chapter,1,1,Ariel,On Human Legs,Uncommon,4,TRUE,Amber,3,4,2,"['Storyborn', 'Hero', 'Princess']",1-1-en-sp.webp
+The First Chapter,1,3,Cinderella,Gentle and Kind,Uncommon,4,TRUE,Amber,2,5,2,"['Storyborn', 'Hero', 'Princess']",1-3-en-sp.webp
+The First Chapter,1,4,Goofy,Musketeer,Uncommon,5,TRUE,Amber,3,6,1,"['Dreamborn', 'Hero', 'Musketeer']",1-4-en-sp.webp
+Shimmering Skies,5,13,Kristoff,Reindeer Keeper,Rare,9,FALSE,Amber,3,7,3,"['Dreamborn', 'Ally']",
+The First Chapter,1,11,Maximus,Relentless Pursuer,Uncommon,3,TRUE,Amber,3,3,1,"['Dreamborn', 'Ally']",1-11-en-sp.webp
+The First Chapter,1,12,Mickey Mouse,True Friend,Uncommon,3,TRUE,Amber,3,3,2,"['Storyborn', 'Hero']",1-12-en-sp.webp
+The First Chapter,1,16,Prince Phillip,Dragonslayer,Uncommon,4,FALSE,Amber,3,3,2,"['Storyborn', 'Hero', 'Prince']",1-16-en-sp.webp
+The First Chapter,1,25,Be Our Guest,,Uncommon,2,TRUE,Amber,,,,[nan],1-25-en-sp.webp
+The First Chapter,1,31,You Have Forgotten Me,,Uncommon,4,TRUE,Amber,,,,[nan],1-31-en-sp.webp
+The First Chapter,1,35,Anna,Heir to Arendelle,Uncommon,4,TRUE,Amethyst,2,4,2,"['Storyborn', 'Hero', 'Queen']",1-35-en-sp.webp
+The First Chapter,1,41,Elsa,Snow Queen,Uncommon,3,TRUE,Amethyst,2,3,1,"['Dreamborn', 'Hero', 'Queen', 'Sorcerer']",1-41-en-sp.webp
+The First Chapter,1,52,Olaf,Friendly Snowman,Uncommon,1,TRUE,Amethyst,1,3,1,"['Storyborn', 'Ally']",1-52-en-sp.webp
+The First Chapter,1,53,Pascal,Rapunzel's Companion,Uncommon,1,TRUE,Amethyst,1,1,1,"['Storyborn', 'Ally']",1-53-en-sp.webp
+The First Chapter,1,54,Rafiki,Mysterious Sage,Uncommon,3,FALSE,Amethyst,3,3,1,"['Dreamborn', 'Mentor', 'Sorcerer']",1-54-en-sp.webp
+The First Chapter,1,55,Sven,Official Ice Deliverer,Uncommon,6,TRUE,Amethyst,5,7,1,"['Storyborn', 'Ally']",1-55-en-sp.webp
+The First Chapter,1,62,Befuddle,,Uncommon,1,TRUE,Amethyst,,,,[nan],1-62-en-sp.webp
+The First Chapter,1,65,Reflection,,Uncommon,1,TRUE,Amethyst,,,,[nan],1-65-en-sp.webp
+The First Chapter,1,67,Ursula's Cauldron,,Uncommon,2,FALSE,Amethyst,,,,[nan],1-67-en-sp.webp
+The First Chapter,1,71,Cheshire Cat,Not All There,Uncommon,3,TRUE,Emerald,0,3,2,['Storyborn'],1-71-en-sp.webp
+The First Chapter,1,74,Flynn Rider,Charming Rogue,Uncommon,2,TRUE,Emerald,1,2,2,"['Storyborn', 'Hero', 'Prince']",1-74-en-sp.webp
+The First Chapter,1,81,Jasper,Common Crook,Uncommon,3,TRUE,Emerald,2,4,1,"['Storyborn', 'Ally']",1-81-en-sp.webp
+The First Chapter,1,83,Jumba Jookiba,Renegade Scientist,Uncommon,5,TRUE,Emerald,4,5,2,"['Dreamborn', 'Alien', 'Inventor']",1-83-en-sp.webp
+The First Chapter,1,86,Mad Hatter,Gracious Host,Uncommon,5,TRUE,Emerald,2,4,3,['Storyborn'],1-86-en-sp.webp
+The First Chapter,1,92,Tamatoa,Drab Little Crab,Uncommon,2,TRUE,Emerald,1,4,1,['Dreamborn'],1-92-en-sp.webp
+The First Chapter,1,95,Mother Knows Best,,Uncommon,3,FALSE,Emerald,,,,[nan],1-95-en-sp.webp
+The First Chapter,1,101,Dr. Facilier's Cards,,Uncommon,2,FALSE,Emerald,,,,[nan],1-101-en-sp.webp
+The First Chapter,1,106,Captain,Colonel's Lieutenant,Uncommon,5,TRUE,Ruby,6,5,1,"['Storyborn', 'Ally', 'Captain']",1-106-en-sp.webp
+The First Chapter,1,108,Donald Duck,Boisterous Fowl,Uncommon,2,TRUE,Ruby,2,3,1,['Storyborn'],1-108-en-sp.webp
+The First Chapter,1,117,Moana,Chosen by the Ocean,Uncommon,5,TRUE,Ruby,2,6,2,"['Storyborn', 'Hero', 'Princess']",1-117-en-sp.webp
+The First Chapter,1,121,Rapunzel,Letting Down Her Hair,Uncommon,6,FALSE,Ruby,5,4,2,"['Dreamborn', 'Hero', 'Princess']",1-121-en-sp.webp
+The First Chapter,1,127,Tigger,Wonderful Thing,Uncommon,6,TRUE,Ruby,4,4,2,"['Storyborn', 'Tigger']",1-127-en-sp.webp
+The First Chapter,1,129,Cut to the Chase,,Uncommon,2,TRUE,Ruby,,,,[nan],1-129-en-sp.webp
+The First Chapter,1,130,Dragon Fire,,Uncommon,5,FALSE,Ruby,,,,[nan],1-130-en-sp.webp
+Shimmering Skies,5,20,Alan-a-Dale,Rockin' Rooster,Uncommon,4,TRUE,Amber,2,3,2,"['Storyborn', 'Ally']",
+The First Chapter,1,135,Shield of Virtue,,Uncommon,1,TRUE,Ruby,,,,[nan],1-135-en-sp.webp
+The First Chapter,1,140,Aurora,Regal Princess,Uncommon,2,TRUE,Sapphire,2,2,2,"['Storyborn', 'Hero', 'Princess']",1-140-en-sp.webp
+The First Chapter,1,141,Belle,Inventive Engineer,Uncommon,3,TRUE,Sapphire,2,3,2,"['Dreamborn', 'Hero', 'Princess', 'Inventor']",1-141-en-sp.webp
+The First Chapter,1,143,Chief Tui,Respected Leader,Uncommon,7,TRUE,Sapphire,3,6,3,"['Storyborn', 'Mentor', 'King']",1-143-en-sp.webp
+The First Chapter,1,146,Gramma Tala,Storyteller,Uncommon,2,TRUE,Sapphire,1,1,1,"['Storyborn', 'Mentor']",1-146-en-sp.webp
+The First Chapter,1,160,Triton,The Sea King,Uncommon,7,TRUE,Sapphire,5,9,2,"['Storyborn', 'King']",1-160-en-sp.webp
+The First Chapter,1,164,One Jump Ahead,,Uncommon,2,FALSE,Sapphire,,,,[nan],1-164-en-sp.webp
+The First Chapter,1,166,Coconut Basket,,Uncommon,2,TRUE,Sapphire,,,,[nan],1-166-en-sp.webp
+The First Chapter,1,167,Eye of the Fates,,Uncommon,4,TRUE,Sapphire,,,,[nan],1-167-en-sp.webp
+The First Chapter,1,170,Scepter of Arendelle,,Uncommon,1,TRUE,Sapphire,,,,[nan],1-170-en-sp.webp
+The First Chapter,1,172,Beast,Hardheaded,Uncommon,5,TRUE,Steel,4,4,2,"['Storyborn', 'Hero', 'Prince']",1-172-en-sp.webp
+The First Chapter,1,177,Donald Duck,Musketeer,Uncommon,4,TRUE,Steel,2,5,1,"['Dreamborn', 'Hero', 'Musketeer']",1-177-en-sp.webp
+The First Chapter,1,183,Kronk,Right-Hand Man,Uncommon,6,TRUE,Steel,6,6,2,"['Storyborn', 'Ally']",1-183-en-sp.webp
+The First Chapter,1,184,Lilo,Galactic Hero,Uncommon,3,TRUE,Steel,4,2,2,"['Dreamborn', 'Hero']",1-184-en-sp.webp
+The First Chapter,1,190,Simba,Rightful Heir,Uncommon,5,FALSE,Steel,3,5,2,"['Storyborn', 'Hero', 'Prince']",1-190-en-sp.webp
+The First Chapter,1,191,Starkey,Hook's Henchman,Uncommon,5,TRUE,Steel,5,4,1,"['Storyborn', 'Ally', 'Pirate']",1-191-en-sp.webp
+The First Chapter,1,199,Ransack,,Uncommon,2,TRUE,Steel,,,,[nan],1-199-en-sp.webp
+The First Chapter,1,200,Smash,,Uncommon,3,TRUE,Steel,,,,[nan],1-200-en-sp.webp
+The First Chapter,1,202,Frying Pan,,Uncommon,2,TRUE,Steel,,,,[nan],1-202-en-sp.webp
+Ursula's Return,4,6,Daisy Duck,Lovely Lady,Uncommon,1,TRUE,Amber,1,3,1,"['Dreamborn', 'Ally']",4-6-en-sp.webp
+Ursula's Return,4,8,Donald Duck,Musketeer Soldier,Uncommon,3,TRUE,Amber,2,3,1,"['Dreamborn', 'Hero', 'Musketeer']",4-8-en-sp.webp
+Shimmering Skies,5,28,Blast from Your Past,,Super_rare,6,FALSE,Amber,,,,[nan],
+Ursula's Return,4,13,Julieta Madrigal,Excellent Cook,Uncommon,3,TRUE,Amber,1,4,1,"['Storyborn', 'Mentor', 'Madrigal']",4-13-en-sp.webp
+Shimmering Skies,5,146,Chicha,Dedicated Mother,Rare,2,FALSE,Sapphire,2,1,1,"['Storyborn', 'Ally']",
+Ursula's Return,4,22,Prince Eric,Ursula's Groom,Uncommon,6,TRUE,Amber,5,5,2,"['Floodborn', 'Hero', 'Prince']",4-22-en-sp.webp
+Ursula's Return,4,26,Bruno's Return,,Uncommon,2,FALSE,Amber,,,,[nan],4-26-en-sp.webp
+Ursula's Return,4,29,Lost in the Woods,,Uncommon,4,TRUE,Amber,,,,[nan],4-29-en-sp.webp
+Ursula's Return,4,30,Sign the Scroll,,Uncommon,3,FALSE,Amber,,,,[nan],4-30-en-sp.webp
+Ursula's Return,4,35,Antonio Madrigal,Animal Expert,Uncommon,3,TRUE,Amethyst,3,4,1,"['Storyborn', 'Ally', 'Madrigal']",4-35-en-sp.webp
+Ursula's Return,4,40,Camilo Madrigal,Prankster,Uncommon,4,TRUE,Amethyst,2,5,1,"['Storyborn', 'Ally', 'Madrigal']",4-40-en-sp.webp
+Ursula's Return,4,43,Flotsam,"Ursula's ""Baby""",Uncommon,3,FALSE,Amethyst,4,2,1,"['Dreamborn', 'Ally']",4-43-en-sp.webp
+Ursula's Return,4,44,Flotsam & Jetsam,Entangling Eels,Uncommon,6,TRUE,Amethyst,5,5,2,"['Floodborn', 'Ally']",4-44-en-sp.webp
+Ursula's Return,4,50,Magical Maid,Feather Duster,Uncommon,2,TRUE,Amethyst,2,2,2,"['Storyborn', 'Ally']",4-50-en-sp.webp
+Ursula's Return,4,51,Marshmallow,Terrifying Snowman,Uncommon,3,FALSE,Amethyst,0,3,1,"['Storyborn', 'Ally']",4-51-en-sp.webp
+Ursula's Return,4,57,Ursula,Mad Sea Witch,Uncommon,2,TRUE,Amethyst,1,3,1,"['Dreamborn', 'Villain', 'Sorcerer']",4-57-en-sp.webp
+Ursula's Return,4,63,Ursulaâ€™s Plan,,Uncommon,3,FALSE,Amethyst,,,,[nan],4-63-en-sp.webp
+Ursula's Return,4,66,Triton's Trident,,Uncommon,2,TRUE,Amethyst,,,,[nan],4-66-en-sp.webp
+Ursula's Return,4,75,HeiHei,Bumbling Rooster,Uncommon,3,TRUE,Emerald,2,3,2,"['Storyborn', 'Ally']",4-75-en-sp.webp
+Ursula's Return,4,80,Megara,Liberated One,Uncommon,5,TRUE,Emerald,4,4,2,"['Storyborn', 'Ally']",4-80-en-sp.webp
+Ursula's Return,4,81,Pain,Immortal Sidekick,Uncommon,3,TRUE,Emerald,2,4,2,"['Storyborn', 'Ally']",4-81-en-sp.webp
+Ursula's Return,4,82,Panic,Immortal Sidekick,Uncommon,4,TRUE,Emerald,3,3,2,"['Storyborn', 'Ally']",4-82-en-sp.webp
+Ursula's Return,4,83,Pegasus,Cloud Racer,Uncommon,5,TRUE,Emerald,3,3,2,"['Floodborn', 'Ally']",4-83-en-sp.webp
+Ursula's Return,4,86,Pete,Rotten Guy,Uncommon,4,TRUE,Emerald,1,5,2,"['Storyborn', 'Villain', 'Musketeer']",4-86-en-sp.webp
+Ursula's Return,4,96,Ursulaâ€™s Trickery,,Uncommon,1,FALSE,Emerald,,,,[nan],4-96-en-sp.webp
+Ursula's Return,4,99,Signed Contract,,Uncommon,2,TRUE,Emerald,,,,[nan],4-99-en-sp.webp
+Ursula's Return,4,100,Vision Slab,,Uncommon,3,TRUE,Emerald,,,,[nan],4-100-en-sp.webp
+Ursula's Return,4,103,Beast,Wounded,Uncommon,3,TRUE,Ruby,2,6,2,"['Storyborn', 'Hero', 'Prince']",4-103-en-sp.webp
+Ursula's Return,4,109,Hercules,Daring Demigod,Uncommon,5,FALSE,Ruby,7,3,0,"['Dreamborn', 'Hero', 'Prince']",4-109-en-sp.webp
+Ursula's Return,4,110,Khan,Beloved Steed,Uncommon,2,TRUE,Ruby,3,2,1,"['Storyborn', 'Ally']",4-110-en-sp.webp
+Ursula's Return,4,112,Li Shang,Valorous General,Uncommon,3,TRUE,Ruby,3,2,1,"['Floodborn', 'Hero']",4-112-en-sp.webp
+Shimmering Skies,5,151,Ludwig von Drake,Self-Proclaimed Genius,Uncommon,5,TRUE,Sapphire,4,4,3,"['Storyborn', 'Ally']",
+Ursula's Return,4,118,Nessus,River Guardian,Uncommon,6,TRUE,Ruby,7,5,2,"['Storyborn', 'Villain']",4-118-en-sp.webp
+Ursula's Return,4,123,Sisu,Daring Visitor,Uncommon,3,FALSE,Ruby,1,1,1,"['Storyborn', 'Hero', 'Deity', 'Dragon']",4-123-en-sp.webp
+Ursula's Return,4,128,A Pirateâ€™s Life,,Uncommon,6,TRUE,Ruby,,,,[nan],4-128-en-sp.webp
+Ursula's Return,4,132,Medallion Weights,,Uncommon,2,TRUE,Ruby,,,,[nan],4-132-en-sp.webp
+Ursula's Return,4,144,Flounder,Collectorâ€™s Companion,Uncommon,3,TRUE,Sapphire,2,2,2,"['Storyborn', 'Ally']",4-144-en-sp.webp
+Ursula's Return,4,145,Hades,Meticulous Plotter,Uncommon,4,TRUE,Sapphire,3,6,1,"['Storyborn', 'Villain', 'Deity']",4-145-en-sp.webp
+Ursula's Return,4,147,Iduna,Caring Mother,Uncommon,4,TRUE,Sapphire,3,3,1,"['Storyborn', 'Mentor', 'Queen']",4-147-en-sp.webp
+Ursula's Return,4,149,Olaf,Carrot Enthusiast,Uncommon,3,TRUE,Sapphire,1,4,2,"['Floodborn', 'Ally']",4-149-en-sp.webp
+Ursula's Return,4,154,Scuttle,Expert on Humans,Uncommon,2,TRUE,Sapphire,1,3,1,"['Storyborn', 'Ally']",4-154-en-sp.webp
+Ursula's Return,4,155,Sisu,Wise Friend,Uncommon,6,TRUE,Sapphire,6,6,2,"['Storyborn', 'Hero', 'Deity', 'Dragon']",4-155-en-sp.webp
+Ursula's Return,4,160,Triton,Young Prince,Uncommon,4,TRUE,Sapphire,3,4,1,"['Dreamborn', 'Prince']",4-160-en-sp.webp
+Ursula's Return,4,162,Dig a Little Deeper,,Uncommon,8,FALSE,Sapphire,,,,[nan],4-162-en-sp.webp
+Ursula's Return,4,167,Great Stone Dragon,,Uncommon,3,TRUE,Sapphire,,,,[nan],4-167-en-sp.webp
+Ursula's Return,4,171,Aladdin,Brave Rescuer,Uncommon,3,TRUE,Steel,3,3,1,"['Floodborn', 'Hero']",4-171-en-sp.webp
+Ursula's Return,4,177,Chi-Fu,Imperial Advisor,Uncommon,3,TRUE,Steel,0,5,1,"['Storyborn', 'Ally']",4-177-en-sp.webp
+Ursula's Return,4,182,Li Shang,Imperial Captain,Uncommon,5,TRUE,Steel,5,5,2,"['Dreamborn', 'Hero', 'Captain']",4-182-en-sp.webp
+Ursula's Return,4,183,Ling,Imperial Soldier,Uncommon,3,TRUE,Steel,3,3,1,"['Storyborn', 'Ally']",4-183-en-sp.webp
+Ursula's Return,4,189,Mulan,Armored Fighter,Uncommon,4,TRUE,Steel,3,6,1,"['Storyborn', 'Hero', 'Princess']",4-189-en-sp.webp
+Ursula's Return,4,195,Avalanche,,Uncommon,4,FALSE,Steel,,,,[nan],4-195-en-sp.webp
+Shimmering Skies,5,171,Stitch,Team Underdog,Uncommon,4,FALSE,Steel,1,4,1,"['Storyborn', 'Hero', 'Alien']",
+Ursula's Return,4,198,The Mob Song,,Uncommon,10,FALSE,Steel,,,,[nan],4-198-en-sp.webp
+Ursula's Return,4,201,Imperial Bow,,Uncommon,2,TRUE,Steel,,,,[nan],4-201-en-sp.webp
